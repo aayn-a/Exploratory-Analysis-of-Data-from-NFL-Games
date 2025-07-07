@@ -1,0 +1,896 @@
+,Opp,Tm,Opp.1,1stD,TotYd,PassY,RushY,TO,1stD.1,TotYd.1,PassY.1,RushY.1,TO.1,Offense,Defense,Sp. Tms,Home_team,Year,Winner
+0,Tampa Bay Buccaneers,31.0,17.0,17.0,256.0,158.0,98.0,2.0,21.0,295.0,174.0,121.0,4.0,-7.51,19.12,1.1,San Francisco 49ers,2019,San Francisco 49ers
+1,Cincinnati Bengals,41.0,17.0,27.0,571.0,312.0,259.0,1.0,14.0,316.0,291.0,25.0,1.0,27.34,1.14,-6.64,San Francisco 49ers,2019,San Francisco 49ers
+2,Pittsburgh Steelers,24.0,20.0,26.0,436.0,268.0,168.0,5.0,11.0,239.0,160.0,79.0,2.0,-3.72,10.2,0.12,San Francisco 49ers,2019,San Francisco 49ers
+3,Los Angeles Rams,20.0,7.0,22.0,331.0,232.0,99.0,2.0,10.0,157.0,48.0,109.0,1.0,-3.54,25.23,-5.01,San Francisco 49ers,2019,San Francisco 49ers
+4,Washington Redskins,9.0,0.0,17.0,283.0,146.0,137.0,1.0,10.0,154.0,50.0,104.0,1.0,-1.99,14.12,-0.61,San Francisco 49ers,2019,San Francisco 49ers
+5,Carolina Panthers,51.0,13.0,24.0,388.0,156.0,232.0,1.0,12.0,230.0,100.0,130.0,3.0,15.84,30.05,-7.14,San Francisco 49ers,2019,San Francisco 49ers
+6,Seattle Seahawks,24.0,27.0,21.0,302.0,215.0,87.0,3.0,19.0,336.0,189.0,147.0,4.0,-17.73,17.69,-4.23,San Francisco 49ers,2019,Seattle Seahawks
+7,Arizona Cardinals,36.0,26.0,26.0,442.0,408.0,34.0,2.0,21.0,266.0,131.0,135.0,2.0,8.92,-0.09,1.17,San Francisco 49ers,2019,San Francisco 49ers
+8,Baltimore Ravens,17.0,20.0,15.0,331.0,157.0,174.0,1.0,21.0,283.0,105.0,178.0,1.0,6.2,-6.4,-1.2,San Francisco 49ers,2019,Baltimore Ravens
+9,New Orleans Saints,48.0,46.0,25.0,516.0,354.0,162.0,1.0,28.0,465.0,349.0,116.0,1.0,27.42,-21.97,-3.51,San Francisco 49ers,2019,San Francisco 49ers
+10,Atlanta Falcons,22.0,29.0,20.0,313.0,193.0,120.0,2.0,20.0,290.0,201.0,89.0,1.0,2.84,-7.04,-2.73,San Francisco 49ers,2019,Atlanta Falcons
+11,Los Angeles Rams,34.0,31.0,19.0,334.0,215.0,119.0,2.0,24.0,395.0,323.0,72.0,1.0,3.67,-3.16,1.84,San Francisco 49ers,2019,San Francisco 49ers
+12,Minnesota Vikings,27.0,10.0,21.0,308.0,122.0,186.0,2.0,7.0,147.0,126.0,21.0,2.0,0.66,16.91,-0.78,San Francisco 49ers,2019,San Francisco 49ers
+13,Kansas City Chiefs,20.0,31.0,21.0,351.0,210.0,141.0,2.0,26.0,397.0,268.0,129.0,2.0,5.19,-18.54,1.58,San Francisco 49ers,2019,Kansas City Chiefs
+14,Washington Redskins,31.0,15.0,21.0,298.0,208.0,90.0,1.0,25.0,356.0,287.0,69.0,5.0,9.23,11.86,-3.52,Chicago Bears,2019,Chicago Bears
+15,Oakland Raiders,21.0,24.0,15.0,236.0,194.0,42.0,2.0,25.0,398.0,229.0,169.0,2.0,-3.03,-2.24,-0.43,Chicago Bears,2019,Oakland Raiders
+16,Los Angeles Chargers,16.0,17.0,26.0,388.0,226.0,162.0,2.0,11.0,231.0,195.0,36.0,1.0,0.44,5.45,-6.02,Chicago Bears,2019,Los Angeles Chargers
+17,Los Angeles Rams,7.0,17.0,17.0,267.0,193.0,74.0,1.0,13.0,283.0,173.0,110.0,2.0,-13.17,5.69,-5.08,Chicago Bears,2019,Los Angeles Rams
+18,New York Giants,19.0,14.0,20.0,335.0,270.0,65.0,2.0,14.0,243.0,134.0,109.0,1.0,-7.02,12.48,-2.01,Chicago Bears,2019,Chicago Bears
+19,Detroit Lions,24.0,20.0,22.0,419.0,331.0,88.0,1.0,19.0,364.0,259.0,105.0,1.0,8.33,-6.28,0.13,Chicago Bears,2019,Chicago Bears
+20,Minnesota Vikings,21.0,19.0,24.0,337.0,179.0,158.0,1.0,14.0,300.0,126.0,174.0,3.0,1.26,-2.15,-1.08,Chicago Bears,2019,Chicago Bears
+21,Seattle Seahawks,20.0,21.0,22.0,429.0,395.0,34.0,3.0,12.0,232.0,160.0,72.0,1.0,0.16,5.43,-8.5,Cincinnati Bengals,2019,Seattle Seahawks
+22,San Francisco 49ers,17.0,41.0,14.0,316.0,291.0,25.0,1.0,27.0,571.0,312.0,259.0,1.0,-1.14,-27.34,6.64,Cincinnati Bengals,2019,San Francisco 49ers
+23,Buffalo Bills,17.0,21.0,17.0,306.0,240.0,66.0,4.0,25.0,416.0,241.0,175.0,2.0,-9.17,-1.8,8.04,Cincinnati Bengals,2019,Buffalo Bills
+24,Pittsburgh Steelers,3.0,27.0,16.0,175.0,102.0,73.0,2.0,20.0,326.0,260.0,66.0,1.0,-16.54,-6.93,0.04,Cincinnati Bengals,2019,Pittsburgh Steelers
+25,Baltimore Ravens,17.0,23.0,18.0,250.0,217.0,33.0,1.0,26.0,497.0,228.0,269.0,1.0,0.57,-15.13,4.92,Cincinnati Bengals,2019,Baltimore Ravens
+26,Baltimore Ravens,13.0,49.0,21.0,307.0,150.0,157.0,3.0,20.0,379.0,243.0,136.0,1.0,-18.52,-24.79,7.48,Cincinnati Bengals,2019,Baltimore Ravens
+27,Oakland Raiders,10.0,17.0,16.0,246.0,73.0,173.0,2.0,20.0,386.0,273.0,113.0,2.0,-9.64,-3.46,3.29,Cincinnati Bengals,2019,Oakland Raiders
+28,Pittsburgh Steelers,10.0,16.0,11.0,244.0,158.0,86.0,2.0,16.0,338.0,179.0,159.0,1.0,-15.56,4.31,2.52,Cincinnati Bengals,2019,Pittsburgh Steelers
+29,Cleveland Browns,19.0,27.0,27.0,451.0,272.0,179.0,1.0,17.0,333.0,187.0,146.0,2.0,1.25,-6.12,-5.82,Cincinnati Bengals,2019,Cleveland Browns
+30,Miami Dolphins,35.0,38.0,25.0,430.0,371.0,59.0,1.0,29.0,502.0,406.0,96.0,1.0,7.22,-21.63,8.48,Cincinnati Bengals,2019,Miami Dolphins
+31,Cleveland Browns,33.0,23.0,22.0,361.0,182.0,179.0,1.0,15.0,313.0,239.0,74.0,3.0,12.26,-1.53,-3.69,Cincinnati Bengals,2019,Cincinnati Bengals
+32,Los Angeles Chargers,20.0,13.0,15.0,350.0,159.0,191.0,2.0,19.0,246.0,211.0,35.0,3.0,-2.29,12.18,-0.78,Denver Broncos,2019,Denver Broncos
+33,Tennessee Titans,16.0,0.0,11.0,270.0,167.0,103.0,1.0,12.0,204.0,165.0,39.0,3.0,-10.82,25.18,1.34,Denver Broncos,2019,Denver Broncos
+34,Minnesota Vikings,23.0,27.0,20.0,394.0,270.0,124.0,1.0,19.0,321.0,284.0,37.0,2.0,4.61,-8.51,2.33,Denver Broncos,2019,Minnesota Vikings
+35,Buffalo Bills,3.0,20.0,9.0,134.0,49.0,85.0,1.0,22.0,424.0,180.0,244.0,1.0,-14.64,-8.5,3.59,Denver Broncos,2019,Buffalo Bills
+36,Los Angeles Chargers,23.0,20.0,13.0,218.0,134.0,84.0,1.0,17.0,359.0,244.0,115.0,2.0,-2.73,-1.4,11.44,Denver Broncos,2019,Denver Broncos
+37,Houston Texans,38.0,24.0,22.0,391.0,301.0,90.0,1.0,26.0,414.0,280.0,134.0,3.0,18.37,-1.1,-3.75,Denver Broncos,2019,Denver Broncos
+38,Kansas City Chiefs,3.0,23.0,15.0,251.0,199.0,52.0,1.0,27.0,419.0,327.0,92.0,1.0,-9.67,-15.31,4.87,Denver Broncos,2019,Kansas City Chiefs
+39,Oakland Raiders,16.0,15.0,16.0,238.0,168.0,70.0,1.0,18.0,477.0,380.0,97.0,1.0,-8.2,0.3,10.2,Denver Broncos,2019,Denver Broncos
+40,New York Jets,23.0,3.0,16.0,375.0,305.0,70.0,1.0,13.0,262.0,169.0,93.0,1.0,4.95,14.42,-0.9,Cleveland Browns,2019,Cleveland Browns
+41,Los Angeles Rams,13.0,20.0,18.0,270.0,175.0,95.0,1.0,20.0,344.0,254.0,90.0,3.0,-8.89,-1.06,3.41,Cleveland Browns,2019,Los Angeles Rams
+42,Baltimore Ravens,40.0,25.0,22.0,530.0,337.0,193.0,1.0,24.0,395.0,222.0,173.0,3.0,23.04,-4.82,-3.35,Cleveland Browns,2019,Cleveland Browns
+43,Seattle Seahawks,28.0,32.0,21.0,406.0,249.0,157.0,4.0,29.0,454.0,284.0,170.0,1.0,3.24,-15.53,4.92,Cleveland Browns,2019,Seattle Seahawks
+44,Miami Dolphins,41.0,24.0,30.0,467.0,320.0,147.0,1.0,22.0,284.0,192.0,92.0,2.0,26.93,-5.91,-3.5,Cleveland Browns,2019,Cleveland Browns
+45,Pittsburgh Steelers,13.0,20.0,19.0,279.0,173.0,106.0,2.0,18.0,323.0,199.0,124.0,1.0,-2.6,-2.57,-1.39,Cleveland Browns,2019,Pittsburgh Steelers
+46,Cincinnati Bengals,27.0,19.0,17.0,333.0,187.0,146.0,2.0,27.0,451.0,272.0,179.0,1.0,6.12,-1.25,5.82,Cleveland Browns,2019,Cleveland Browns
+47,Arizona Cardinals,24.0,38.0,25.0,393.0,241.0,152.0,2.0,26.0,445.0,219.0,226.0,1.0,10.72,-24.27,-1.61,Cleveland Browns,2019,Arizona Cardinals
+48,Baltimore Ravens,15.0,31.0,17.0,241.0,184.0,57.0,1.0,31.0,481.0,238.0,243.0,1.0,-0.38,-21.45,4.46,Cleveland Browns,2019,Baltimore Ravens
+49,Cincinnati Bengals,23.0,33.0,15.0,313.0,239.0,74.0,3.0,22.0,361.0,182.0,179.0,1.0,1.53,-12.26,3.69,Cleveland Browns,2019,Cincinnati Bengals
+50,San Francisco 49ers,17.0,31.0,21.0,295.0,174.0,121.0,4.0,17.0,256.0,158.0,98.0,2.0,-19.12,7.51,-1.1,Tampa Bay Buccaneers,2019,San Francisco 49ers
+51,New York Giants,31.0,32.0,24.0,499.0,355.0,144.0,1.0,17.0,384.0,312.0,72.0,2.0,14.58,-8.02,-6.08,Tampa Bay Buccaneers,2019,New York Giants
+52,Los Angeles Rams,55.0,40.0,27.0,464.0,376.0,88.0,1.0,36.0,518.0,490.0,28.0,4.0,22.76,-4.47,-4.04,Tampa Bay Buccaneers,2019,Tampa Bay Buccaneers
+53,Carolina Panthers,26.0,37.0,23.0,407.0,365.0,42.0,7.0,17.0,268.0,209.0,59.0,1.0,-14.39,2.76,0.09,Tampa Bay Buccaneers,2019,Carolina Panthers
+54,Tennessee Titans,23.0,27.0,23.0,389.0,283.0,106.0,4.0,16.0,246.0,174.0,72.0,1.0,-6.92,2.72,-1.66,Tampa Bay Buccaneers,2019,Tennessee Titans
+55,Seattle Seahawks,34.0,40.0,29.0,418.0,319.0,99.0,1.0,31.0,492.0,347.0,145.0,1.0,13.19,-23.58,6.92,Tampa Bay Buccaneers,2019,Seattle Seahawks
+56,Arizona Cardinals,30.0,27.0,26.0,457.0,339.0,118.0,3.0,20.0,417.0,342.0,75.0,2.0,9.52,-1.71,-3.53,Tampa Bay Buccaneers,2019,Tampa Bay Buccaneers
+57,Atlanta Falcons,35.0,22.0,20.0,446.0,313.0,133.0,2.0,22.0,337.0,280.0,57.0,2.0,11.9,5.6,-3.77,Tampa Bay Buccaneers,2019,Tampa Bay Buccaneers
+58,Jacksonville Jaguars,28.0,11.0,19.0,315.0,241.0,74.0,1.0,14.0,242.0,193.0,49.0,4.0,-4.31,26.93,-2.93,Tampa Bay Buccaneers,2019,Tampa Bay Buccaneers
+59,Indianapolis Colts,38.0,35.0,29.0,542.0,467.0,75.0,4.0,16.0,309.0,243.0,66.0,1.0,9.53,-8.36,3.36,Tampa Bay Buccaneers,2019,Tampa Bay Buccaneers
+60,Detroit Lions,38.0,17.0,23.0,495.0,446.0,49.0,1.0,16.0,295.0,250.0,45.0,3.0,13.82,14.38,-7.29,Tampa Bay Buccaneers,2019,Tampa Bay Buccaneers
+61,Houston Texans,20.0,23.0,19.0,435.0,329.0,106.0,5.0,15.0,229.0,161.0,68.0,2.0,-8.4,13.02,-7.92,Tampa Bay Buccaneers,2019,Houston Texans
+62,Atlanta Falcons,22.0,28.0,14.0,329.0,193.0,136.0,3.0,28.0,373.0,286.0,87.0,1.0,-5.96,8.27,-9.46,Tampa Bay Buccaneers,2019,Atlanta Falcons
+63,New York Jets,17.0,16.0,23.0,370.0,242.0,128.0,4.0,17.0,223.0,155.0,68.0,1.0,-3.17,7.39,-1.63,Buffalo Bills,2019,Buffalo Bills
+64,Cincinnati Bengals,21.0,17.0,25.0,416.0,241.0,175.0,2.0,17.0,306.0,240.0,66.0,4.0,1.8,9.17,-8.04,Buffalo Bills,2019,Buffalo Bills
+65,New England Patriots,10.0,16.0,23.0,375.0,240.0,135.0,4.0,11.0,224.0,150.0,74.0,1.0,-12.71,14.59,-6.09,Buffalo Bills,2019,New England Patriots
+66,Philadelphia Eagles,13.0,31.0,16.0,253.0,155.0,98.0,1.0,21.0,371.0,153.0,218.0,1.0,-7.91,-10.88,5.78,Buffalo Bills,2019,Philadelphia Eagles
+67,Denver Broncos,20.0,3.0,22.0,424.0,180.0,244.0,1.0,9.0,134.0,49.0,85.0,1.0,8.5,14.64,-3.59,Buffalo Bills,2019,Buffalo Bills
+68,Baltimore Ravens,17.0,24.0,16.0,209.0,105.0,104.0,1.0,18.0,257.0,139.0,118.0,1.0,-10.78,0.75,2.47,Buffalo Bills,2019,Baltimore Ravens
+69,Pittsburgh Steelers,17.0,10.0,17.0,261.0,131.0,130.0,2.0,15.0,229.0,178.0,51.0,5.0,-6.56,17.22,-3.78,Buffalo Bills,2019,Buffalo Bills
+70,New York Jets,6.0,13.0,17.0,309.0,236.0,73.0,3.0,18.0,271.0,185.0,86.0,1.0,-13.72,3.92,1.1,Buffalo Bills,2019,New York Jets
+71,Houston Texans,19.0,22.0,24.0,425.0,253.0,172.0,1.0,19.0,360.0,219.0,141.0,1.0,-1.04,-2.61,1.38,Buffalo Bills,2019,Houston Texans
+72,Detroit Lions,27.0,27.0,21.0,387.0,275.0,112.0,1.0,23.0,477.0,361.0,116.0,2.0,-3.5,-7.02,9.8,Arizona Cardinals,2019,None
+73,Carolina Panthers,20.0,38.0,21.0,248.0,127.0,121.0,2.0,21.0,413.0,240.0,173.0,1.0,-3.15,-19.08,3.46,Arizona Cardinals,2019,Carolina Panthers
+74,Tampa Bay Buccaneers,27.0,30.0,20.0,417.0,342.0,75.0,2.0,26.0,457.0,339.0,118.0,3.0,1.71,-9.52,3.53,Arizona Cardinals,2019,Tampa Bay Buccaneers
+75,San Francisco 49ers,26.0,36.0,21.0,266.0,131.0,135.0,2.0,26.0,442.0,408.0,34.0,2.0,0.09,-8.92,-1.17,Arizona Cardinals,2019,San Francisco 49ers
+76,Pittsburgh Steelers,17.0,23.0,17.0,236.0,165.0,71.0,3.0,20.0,275.0,135.0,140.0,2.0,-5.35,-5.34,2.85,Arizona Cardinals,2019,Pittsburgh Steelers
+77,Cleveland Browns,38.0,24.0,26.0,445.0,219.0,226.0,1.0,25.0,393.0,241.0,152.0,2.0,24.27,-10.72,1.61,Arizona Cardinals,2019,Arizona Cardinals
+78,Detroit Lions,10.0,13.0,21.0,424.0,287.0,137.0,2.0,19.0,339.0,245.0,94.0,2.0,5.86,-8.62,-0.56,Los Angeles Chargers,2019,Detroit Lions
+79,Houston Texans,20.0,27.0,22.0,366.0,293.0,73.0,1.0,20.0,376.0,337.0,39.0,1.0,6.08,-16.39,1.94,Los Angeles Chargers,2019,Houston Texans
+80,Denver Broncos,13.0,20.0,19.0,246.0,211.0,35.0,3.0,15.0,350.0,159.0,191.0,2.0,-12.18,2.29,0.78,Los Angeles Chargers,2019,Denver Broncos
+81,Pittsburgh Steelers,17.0,24.0,23.0,348.0,316.0,32.0,3.0,18.0,256.0,132.0,124.0,1.0,-2.12,-5.45,-4.54,Los Angeles Chargers,2019,Pittsburgh Steelers
+82,Tennessee Titans,20.0,23.0,24.0,365.0,326.0,39.0,1.0,22.0,403.0,306.0,97.0,1.0,8.93,-10.83,-0.57,Los Angeles Chargers,2019,Tennessee Titans
+83,Chicago Bears,17.0,16.0,11.0,231.0,195.0,36.0,1.0,26.0,388.0,226.0,162.0,2.0,-5.45,-0.44,6.02,Los Angeles Chargers,2019,Los Angeles Chargers
+84,Kansas City Chiefs,17.0,24.0,23.0,438.0,345.0,93.0,4.0,18.0,310.0,180.0,130.0,1.0,-1.36,-4.13,-2.05,Los Angeles Chargers,2019,Kansas City Chiefs
+85,Denver Broncos,20.0,23.0,17.0,359.0,244.0,115.0,2.0,13.0,218.0,134.0,84.0,1.0,1.4,2.73,-11.44,Los Angeles Chargers,2019,Denver Broncos
+86,Minnesota Vikings,10.0,39.0,17.0,345.0,283.0,62.0,7.0,18.0,344.0,207.0,137.0,1.0,-20.63,-5.27,0.79,Los Angeles Chargers,2019,Minnesota Vikings
+87,Kansas City Chiefs,21.0,31.0,25.0,366.0,258.0,108.0,2.0,16.0,336.0,174.0,162.0,1.0,9.18,-13.59,-7.29,Los Angeles Chargers,2019,Kansas City Chiefs
+88,Oakland Raiders,28.0,10.0,24.0,467.0,436.0,31.0,1.0,19.0,307.0,178.0,129.0,2.0,18.12,2.14,-2.97,Kansas City Chiefs,2019,Kansas City Chiefs
+89,Detroit Lions,34.0,30.0,29.0,438.0,315.0,123.0,3.0,29.0,447.0,261.0,186.0,2.0,17.08,-1.27,-13.41,Kansas City Chiefs,2019,Kansas City Chiefs
+90,Indianapolis Colts,13.0,19.0,18.0,324.0,288.0,36.0,1.0,25.0,331.0,151.0,180.0,1.0,-1.57,-4.31,-1.09,Kansas City Chiefs,2019,Indianapolis Colts
+91,Houston Texans,24.0,31.0,20.0,309.0,256.0,53.0,2.0,35.0,472.0,280.0,192.0,3.0,6.1,-16.92,1.87,Kansas City Chiefs,2019,Houston Texans
+92,Tennessee Titans,32.0,35.0,28.0,530.0,433.0,97.0,1.0,19.0,371.0,146.0,225.0,1.0,13.98,-11.07,-3.81,Kansas City Chiefs,2019,Tennessee Titans
+93,Los Angeles Chargers,24.0,17.0,18.0,310.0,180.0,130.0,1.0,23.0,438.0,345.0,93.0,4.0,4.13,1.36,2.05,Kansas City Chiefs,2019,Kansas City Chiefs
+94,New England Patriots,23.0,16.0,20.0,346.0,271.0,75.0,2.0,17.0,278.0,184.0,94.0,1.0,-1.14,5.79,1.25,Kansas City Chiefs,2019,Kansas City Chiefs
+95,Denver Broncos,23.0,3.0,27.0,419.0,327.0,92.0,1.0,15.0,251.0,199.0,52.0,1.0,15.31,9.67,-4.87,Kansas City Chiefs,2019,Kansas City Chiefs
+96,Los Angeles Chargers,31.0,21.0,16.0,336.0,174.0,162.0,1.0,25.0,366.0,258.0,108.0,2.0,13.59,-9.18,7.29,Kansas City Chiefs,2019,Kansas City Chiefs
+97,Houston Texans,51.0,31.0,29.0,434.0,316.0,118.0,1.0,23.0,442.0,348.0,94.0,1.0,28.73,-5.46,-6.77,Kansas City Chiefs,2019,Kansas City Chiefs
+98,San Francisco 49ers,31.0,20.0,26.0,397.0,268.0,129.0,2.0,21.0,351.0,210.0,141.0,2.0,18.54,-5.19,-1.58,Kansas City Chiefs,2019,Kansas City Chiefs
+99,Oakland Raiders,24.0,31.0,22.0,346.0,265.0,81.0,2.0,21.0,377.0,189.0,188.0,1.0,1.6,-8.99,-0.78,Indianapolis Colts,2019,Oakland Raiders
+100,Kansas City Chiefs,19.0,13.0,25.0,331.0,151.0,180.0,1.0,18.0,324.0,288.0,36.0,1.0,4.31,1.57,1.09,Indianapolis Colts,2019,Indianapolis Colts
+101,Houston Texans,30.0,23.0,23.0,383.0,321.0,62.0,1.0,21.0,391.0,291.0,100.0,2.0,8.42,-1.33,0.23,Indianapolis Colts,2019,Indianapolis Colts
+102,Pittsburgh Steelers,24.0,26.0,22.0,328.0,189.0,139.0,3.0,17.0,273.0,183.0,90.0,2.0,-0.41,3.46,-5.69,Indianapolis Colts,2019,Pittsburgh Steelers
+103,Miami Dolphins,12.0,16.0,19.0,300.0,191.0,109.0,3.0,13.0,229.0,159.0,70.0,2.0,-16.98,16.73,-3.1,Indianapolis Colts,2019,Miami Dolphins
+104,Jacksonville Jaguars,33.0,13.0,23.0,389.0,125.0,264.0,2.0,15.0,308.0,279.0,29.0,1.0,15.77,4.19,-5.81,Indianapolis Colts,2019,Indianapolis Colts
+105,Tennessee Titans,17.0,31.0,22.0,391.0,309.0,82.0,3.0,15.0,292.0,138.0,154.0,2.0,-1.63,1.94,-12.84,Indianapolis Colts,2019,Tennessee Titans
+106,Tampa Bay Buccaneers,35.0,38.0,16.0,309.0,243.0,66.0,1.0,29.0,542.0,467.0,75.0,4.0,8.36,-9.53,-3.36,Indianapolis Colts,2019,Tampa Bay Buccaneers
+107,Jacksonville Jaguars,20.0,38.0,17.0,275.0,143.0,132.0,2.0,23.0,353.0,286.0,67.0,1.0,-5.69,-13.7,-0.18,Indianapolis Colts,2019,Jacksonville Jaguars
+108,Miami Dolphins,31.0,6.0,28.0,476.0,241.0,235.0,1.0,17.0,283.0,211.0,72.0,1.0,19.62,14.0,-6.19,Dallas Cowboys,2019,Dallas Cowboys
+109,New Orleans Saints,10.0,12.0,15.0,257.0,212.0,45.0,3.0,18.0,266.0,149.0,117.0,1.0,1.46,1.84,-0.65,Dallas Cowboys,2019,New Orleans Saints
+110,Philadelphia Eagles,37.0,10.0,23.0,402.0,213.0,189.0,1.0,16.0,283.0,168.0,115.0,4.0,15.32,10.92,-0.53,Dallas Cowboys,2019,Dallas Cowboys
+111,New York Giants,37.0,18.0,24.0,429.0,257.0,172.0,2.0,20.0,271.0,171.0,100.0,3.0,10.68,12.66,-5.61,Dallas Cowboys,2019,Dallas Cowboys
+112,Washington Redskins,47.0,16.0,22.0,517.0,294.0,223.0,1.0,13.0,271.0,183.0,88.0,2.0,17.75,18.31,-5.03,Dallas Cowboys,2019,Dallas Cowboys
+113,New England Patriots,0.0,43.0,11.0,184.0,142.0,42.0,4.0,27.0,379.0,255.0,124.0,1.0,-35.44,-14.12,12.05,Miami Dolphins,2019,New England Patriots
+114,Dallas Cowboys,6.0,31.0,17.0,283.0,211.0,72.0,1.0,28.0,476.0,241.0,235.0,1.0,-14.0,-19.62,6.19,Miami Dolphins,2019,Dallas Cowboys
+115,Pittsburgh Steelers,14.0,27.0,16.0,230.0,170.0,60.0,4.0,21.0,394.0,236.0,158.0,1.0,-12.16,-5.58,3.84,Miami Dolphins,2019,Pittsburgh Steelers
+116,Indianapolis Colts,16.0,12.0,13.0,229.0,159.0,70.0,2.0,19.0,300.0,191.0,109.0,3.0,-16.73,16.98,3.1,Miami Dolphins,2019,Miami Dolphins
+117,Cleveland Browns,24.0,41.0,22.0,284.0,192.0,92.0,2.0,30.0,467.0,320.0,147.0,1.0,5.91,-26.93,3.5,Miami Dolphins,2019,Cleveland Browns
+118,Philadelphia Eagles,37.0,31.0,26.0,409.0,351.0,58.0,1.0,23.0,386.0,294.0,92.0,1.0,16.93,-11.33,-0.08,Miami Dolphins,2019,Miami Dolphins
+119,New York Jets,21.0,22.0,22.0,362.0,240.0,122.0,1.0,22.0,374.0,262.0,112.0,1.0,5.46,-5.93,-0.46,Miami Dolphins,2019,New York Jets
+120,New York Giants,20.0,36.0,22.0,384.0,262.0,122.0,1.0,24.0,412.0,274.0,138.0,3.0,0.43,-13.11,-4.97,Miami Dolphins,2019,New York Giants
+121,Cincinnati Bengals,38.0,35.0,29.0,502.0,406.0,96.0,1.0,25.0,430.0,371.0,59.0,1.0,21.63,-7.22,-8.48,Miami Dolphins,2019,Miami Dolphins
+122,Atlanta Falcons,20.0,24.0,18.0,286.0,237.0,49.0,3.0,19.0,367.0,310.0,57.0,3.0,-5.22,-3.96,4.03,Philadelphia Eagles,2019,Atlanta Falcons
+123,New York Jets,31.0,6.0,17.0,265.0,181.0,84.0,1.0,9.0,128.0,61.0,67.0,3.0,-4.56,35.65,-6.44,Philadelphia Eagles,2019,Philadelphia Eagles
+124,Minnesota Vikings,20.0,38.0,19.0,400.0,292.0,108.0,3.0,26.0,447.0,325.0,122.0,2.0,2.18,-17.04,0.52,Philadelphia Eagles,2019,Minnesota Vikings
+125,Dallas Cowboys,10.0,37.0,16.0,283.0,168.0,115.0,4.0,23.0,402.0,213.0,189.0,1.0,-10.92,-15.32,0.53,Philadelphia Eagles,2019,Dallas Cowboys
+126,Buffalo Bills,31.0,13.0,21.0,371.0,153.0,218.0,1.0,16.0,253.0,155.0,98.0,1.0,10.88,7.91,-5.78,Philadelphia Eagles,2019,Philadelphia Eagles
+127,Seattle Seahawks,9.0,17.0,23.0,344.0,238.0,106.0,5.0,14.0,348.0,174.0,174.0,2.0,-17.25,4.38,0.2,Philadelphia Eagles,2019,Seattle Seahawks
+128,Miami Dolphins,31.0,37.0,23.0,386.0,294.0,92.0,1.0,26.0,409.0,351.0,58.0,1.0,11.33,-16.93,0.08,Philadelphia Eagles,2019,Miami Dolphins
+129,Washington Redskins,37.0,27.0,27.0,415.0,258.0,157.0,1.0,19.0,352.0,251.0,101.0,1.0,19.99,-5.52,-3.89,Philadelphia Eagles,2019,Philadelphia Eagles
+130,Philadelphia Eagles,24.0,20.0,19.0,367.0,310.0,57.0,3.0,18.0,286.0,237.0,49.0,3.0,3.96,5.22,-4.03,Atlanta Falcons,2019,Atlanta Falcons
+131,Houston Texans,32.0,53.0,22.0,373.0,316.0,57.0,1.0,31.0,592.0,426.0,166.0,1.0,6.4,-40.69,9.43,Atlanta Falcons,2019,Houston Texans
+132,Tampa Bay Buccaneers,22.0,35.0,22.0,337.0,280.0,57.0,2.0,20.0,446.0,313.0,133.0,2.0,-5.6,-11.9,3.77,Atlanta Falcons,2019,Tampa Bay Buccaneers
+133,San Francisco 49ers,29.0,22.0,20.0,290.0,201.0,89.0,1.0,20.0,313.0,193.0,120.0,2.0,7.04,-2.84,2.73,Atlanta Falcons,2019,Atlanta Falcons
+134,Jacksonville Jaguars,24.0,12.0,28.0,518.0,383.0,135.0,2.0,17.0,288.0,173.0,115.0,1.0,18.86,4.26,-7.84,Atlanta Falcons,2019,Atlanta Falcons
+135,Tampa Bay Buccaneers,28.0,22.0,28.0,373.0,286.0,87.0,1.0,14.0,329.0,193.0,136.0,3.0,-8.27,5.96,9.46,Atlanta Falcons,2019,Atlanta Falcons
+136,Tampa Bay Buccaneers,32.0,31.0,17.0,384.0,312.0,72.0,2.0,24.0,499.0,355.0,144.0,1.0,8.02,-14.58,6.08,New York Giants,2019,New York Giants
+137,Washington Redskins,24.0,3.0,24.0,389.0,225.0,164.0,4.0,8.0,176.0,121.0,55.0,4.0,0.43,25.74,-4.64,New York Giants,2019,New York Giants
+138,Minnesota Vikings,10.0,28.0,18.0,211.0,147.0,64.0,1.0,22.0,490.0,279.0,211.0,1.0,-8.73,-16.93,0.4,New York Giants,2019,Minnesota Vikings
+139,New England Patriots,14.0,35.0,10.0,213.0,161.0,52.0,4.0,27.0,427.0,313.0,114.0,2.0,-24.29,0.69,-1.1,New York Giants,2019,New England Patriots
+140,Detroit Lions,26.0,31.0,24.0,370.0,290.0,80.0,1.0,17.0,375.0,316.0,59.0,2.0,6.34,-7.67,-5.39,New York Giants,2019,Detroit Lions
+141,Dallas Cowboys,18.0,37.0,20.0,271.0,171.0,100.0,3.0,24.0,429.0,257.0,172.0,2.0,-12.66,-10.68,5.61,New York Giants,2019,Dallas Cowboys
+142,Chicago Bears,14.0,19.0,14.0,243.0,134.0,109.0,1.0,20.0,335.0,270.0,65.0,2.0,-12.48,7.02,2.01,New York Giants,2019,Chicago Bears
+143,Miami Dolphins,36.0,20.0,24.0,412.0,274.0,138.0,3.0,22.0,384.0,262.0,122.0,1.0,13.11,-0.43,4.97,New York Giants,2019,New York Giants
+144,New York Jets,29.0,15.0,21.0,389.0,278.0,111.0,1.0,15.0,213.0,167.0,46.0,3.0,4.35,12.91,-3.33,Jacksonville Jaguars,2019,Jacksonville Jaguars
+145,Houston Texans,3.0,26.0,21.0,356.0,282.0,74.0,4.0,21.0,410.0,194.0,216.0,1.0,-12.02,-8.05,0.32,Jacksonville Jaguars,2019,Houston Texans
+146,Indianapolis Colts,13.0,33.0,15.0,308.0,279.0,29.0,1.0,23.0,389.0,125.0,264.0,2.0,-4.19,-15.77,5.81,Jacksonville Jaguars,2019,Indianapolis Colts
+147,Tennessee Titans,20.0,42.0,23.0,369.0,252.0,117.0,1.0,21.0,471.0,252.0,219.0,2.0,1.2,-20.75,-2.59,Jacksonville Jaguars,2019,Tennessee Titans
+148,Tampa Bay Buccaneers,11.0,28.0,14.0,242.0,193.0,49.0,4.0,19.0,315.0,241.0,74.0,1.0,-26.93,4.31,2.93,Jacksonville Jaguars,2019,Tampa Bay Buccaneers
+149,Atlanta Falcons,12.0,24.0,17.0,288.0,173.0,115.0,1.0,28.0,518.0,383.0,135.0,2.0,-4.26,-18.86,7.84,Jacksonville Jaguars,2019,Atlanta Falcons
+150,Indianapolis Colts,38.0,20.0,23.0,353.0,286.0,67.0,1.0,17.0,275.0,143.0,132.0,2.0,13.7,5.69,0.18,Jacksonville Jaguars,2019,Jacksonville Jaguars
+151,Buffalo Bills,16.0,17.0,17.0,223.0,155.0,68.0,1.0,23.0,370.0,242.0,128.0,4.0,-7.39,3.17,1.63,New York Jets,2019,Buffalo Bills
+152,Cleveland Browns,3.0,23.0,13.0,262.0,169.0,93.0,1.0,16.0,375.0,305.0,70.0,1.0,-14.42,-4.95,0.9,New York Jets,2019,Cleveland Browns
+153,New England Patriots,14.0,30.0,6.0,105.0,69.0,36.0,1.0,21.0,381.0,313.0,68.0,2.0,-26.43,-1.65,9.81,New York Jets,2019,New England Patriots
+154,Philadelphia Eagles,6.0,31.0,9.0,128.0,61.0,67.0,3.0,17.0,265.0,181.0,84.0,1.0,-35.65,4.56,6.44,New York Jets,2019,Philadelphia Eagles
+155,New England Patriots,0.0,33.0,12.0,154.0,73.0,81.0,6.0,22.0,323.0,249.0,74.0,1.0,-28.37,-2.21,-1.82,New York Jets,2019,New England Patriots
+156,Jacksonville Jaguars,15.0,29.0,15.0,213.0,167.0,46.0,3.0,21.0,389.0,278.0,111.0,1.0,-12.91,-4.35,3.33,New York Jets,2019,Jacksonville Jaguars
+157,Washington Redskins,34.0,17.0,23.0,400.0,285.0,115.0,2.0,13.0,225.0,171.0,54.0,1.0,10.08,18.32,-9.2,New York Jets,2019,New York Jets
+158,Oakland Raiders,34.0,3.0,21.0,401.0,313.0,88.0,1.0,10.0,208.0,140.0,68.0,2.0,12.75,19.86,-2.36,New York Jets,2019,New York Jets
+159,Miami Dolphins,22.0,21.0,22.0,374.0,262.0,112.0,1.0,22.0,362.0,240.0,122.0,1.0,5.93,-5.46,0.46,New York Jets,2019,New York Jets
+160,Pittsburgh Steelers,16.0,10.0,14.0,259.0,174.0,85.0,1.0,16.0,260.0,185.0,75.0,2.0,-8.44,11.79,5.1,New York Jets,2019,New York Jets
+161,Buffalo Bills,13.0,6.0,18.0,271.0,185.0,86.0,1.0,17.0,309.0,236.0,73.0,3.0,-3.92,13.72,-1.1,New York Jets,2019,New York Jets
+162,Arizona Cardinals,27.0,27.0,23.0,477.0,361.0,116.0,2.0,21.0,387.0,275.0,112.0,1.0,7.02,3.5,-9.8,Detroit Lions,2019,None
+163,Los Angeles Chargers,13.0,10.0,19.0,339.0,245.0,94.0,2.0,21.0,424.0,287.0,137.0,2.0,8.62,-5.86,0.56,Detroit Lions,2019,Detroit Lions
+164,Kansas City Chiefs,30.0,34.0,29.0,447.0,261.0,186.0,2.0,29.0,438.0,315.0,123.0,3.0,1.27,-17.08,13.41,Detroit Lions,2019,Kansas City Chiefs
+165,New York Giants,31.0,26.0,17.0,375.0,316.0,59.0,2.0,24.0,370.0,290.0,80.0,1.0,7.67,-6.34,5.39,Detroit Lions,2019,Detroit Lions
+166,Washington Redskins,16.0,19.0,21.0,364.0,189.0,175.0,4.0,13.0,230.0,144.0,86.0,2.0,-8.85,13.57,-10.88,Detroit Lions,2019,Washington Redskins
+167,Chicago Bears,20.0,24.0,19.0,364.0,259.0,105.0,1.0,22.0,419.0,331.0,88.0,1.0,6.28,-8.33,-0.13,Detroit Lions,2019,Chicago Bears
+168,Tampa Bay Buccaneers,17.0,38.0,16.0,295.0,250.0,45.0,3.0,23.0,495.0,446.0,49.0,1.0,-14.38,-13.82,7.29,Detroit Lions,2019,Tampa Bay Buccaneers
+169,Green Bay Packers,20.0,23.0,17.0,305.0,134.0,171.0,1.0,25.0,432.0,312.0,120.0,1.0,1.53,-8.54,4.01,Detroit Lions,2019,Green Bay Packers
+170,Minnesota Vikings,21.0,16.0,20.0,335.0,191.0,144.0,2.0,15.0,421.0,223.0,198.0,4.0,-7.02,6.94,5.3,Green Bay Packers,2019,Green Bay Packers
+171,Washington Redskins,20.0,15.0,18.0,341.0,167.0,174.0,1.0,18.0,262.0,141.0,121.0,1.0,5.07,1.04,0.91,Green Bay Packers,2019,Green Bay Packers
+172,Minnesota Vikings,23.0,10.0,22.0,383.0,199.0,184.0,3.0,7.0,139.0,82.0,57.0,1.0,-5.18,25.86,-6.94,Green Bay Packers,2019,Green Bay Packers
+173,Detroit Lions,23.0,20.0,25.0,432.0,312.0,120.0,1.0,17.0,305.0,134.0,171.0,1.0,8.54,-1.53,-4.01,Green Bay Packers,2019,Green Bay Packers
+174,Los Angeles Rams,27.0,30.0,21.0,343.0,216.0,127.0,3.0,22.0,349.0,183.0,166.0,1.0,-3.24,-4.57,3.39,Carolina Panthers,2019,Los Angeles Rams
+175,Arizona Cardinals,38.0,20.0,21.0,413.0,240.0,173.0,1.0,21.0,248.0,127.0,121.0,2.0,19.08,3.15,-3.46,Carolina Panthers,2019,Carolina Panthers
+176,Houston Texans,16.0,10.0,19.0,297.0,203.0,94.0,3.0,18.0,264.0,128.0,136.0,2.0,-5.69,9.25,-1.44,Carolina Panthers,2019,Carolina Panthers
+177,Tampa Bay Buccaneers,37.0,26.0,17.0,268.0,209.0,59.0,1.0,23.0,407.0,365.0,42.0,7.0,-2.76,14.39,-0.09,Carolina Panthers,2019,Carolina Panthers
+178,San Francisco 49ers,13.0,51.0,12.0,230.0,100.0,130.0,3.0,24.0,388.0,156.0,232.0,1.0,-30.05,-15.84,7.14,Carolina Panthers,2019,San Francisco 49ers
+179,Tennessee Titans,30.0,20.0,22.0,370.0,214.0,156.0,1.0,24.0,431.0,310.0,121.0,3.0,9.15,-5.05,4.67,Carolina Panthers,2019,Carolina Panthers
+180,New Orleans Saints,31.0,34.0,26.0,351.0,230.0,121.0,1.0,23.0,418.0,300.0,118.0,1.0,16.55,-15.06,-5.89,Carolina Panthers,2019,New Orleans Saints
+181,Seattle Seahawks,24.0,30.0,28.0,414.0,269.0,145.0,3.0,21.0,428.0,274.0,154.0,1.0,6.32,-16.22,3.89,Carolina Panthers,2019,Seattle Seahawks
+182,Miami Dolphins,43.0,0.0,27.0,379.0,255.0,124.0,1.0,11.0,184.0,142.0,42.0,4.0,14.12,35.44,-12.05,New England Patriots,2019,New England Patriots
+183,New York Jets,30.0,14.0,21.0,381.0,313.0,68.0,2.0,6.0,105.0,69.0,36.0,1.0,1.65,26.43,-9.81,New England Patriots,2019,New England Patriots
+184,Buffalo Bills,16.0,10.0,11.0,224.0,150.0,74.0,1.0,23.0,375.0,240.0,135.0,4.0,-14.59,12.71,6.09,New England Patriots,2019,New England Patriots
+185,Washington Redskins,33.0,7.0,23.0,442.0,312.0,130.0,1.0,11.0,223.0,78.0,145.0,2.0,9.23,20.78,-6.54,New England Patriots,2019,New England Patriots
+186,New York Giants,35.0,14.0,27.0,427.0,313.0,114.0,2.0,10.0,213.0,161.0,52.0,4.0,-0.69,24.29,1.1,New England Patriots,2019,New England Patriots
+187,New York Jets,33.0,0.0,22.0,323.0,249.0,74.0,1.0,12.0,154.0,73.0,81.0,6.0,2.21,28.37,1.82,New England Patriots,2019,New England Patriots
+188,Baltimore Ravens,20.0,37.0,22.0,342.0,268.0,74.0,2.0,26.0,372.0,162.0,210.0,2.0,-5.25,-14.46,5.09,New England Patriots,2019,Baltimore Ravens
+189,Kansas City Chiefs,16.0,23.0,17.0,278.0,184.0,94.0,1.0,20.0,346.0,271.0,75.0,2.0,-5.79,1.14,-1.25,New England Patriots,2019,Kansas City Chiefs
+190,Tennessee Titans,13.0,20.0,18.0,307.0,209.0,98.0,2.0,19.0,272.0,71.0,201.0,1.0,-0.84,-2.83,-0.2,New England Patriots,2019,Tennessee Titans
+191,Kansas City Chiefs,10.0,28.0,19.0,307.0,178.0,129.0,2.0,24.0,467.0,436.0,31.0,1.0,-2.14,-18.12,2.97,Oakland Raiders,2019,Kansas City Chiefs
+192,Indianapolis Colts,31.0,24.0,21.0,377.0,189.0,188.0,1.0,22.0,346.0,265.0,81.0,2.0,8.99,-1.6,0.78,Oakland Raiders,2019,Oakland Raiders
+193,Chicago Bears,24.0,21.0,25.0,398.0,229.0,169.0,2.0,15.0,236.0,194.0,42.0,2.0,2.24,3.03,0.43,Oakland Raiders,2019,Oakland Raiders
+194,Cincinnati Bengals,17.0,10.0,20.0,386.0,273.0,113.0,2.0,16.0,246.0,73.0,173.0,2.0,3.46,9.64,-3.29,Oakland Raiders,2019,Oakland Raiders
+195,New York Jets,3.0,34.0,10.0,208.0,140.0,68.0,2.0,21.0,401.0,313.0,88.0,1.0,-19.86,-12.75,2.36,Oakland Raiders,2019,New York Jets
+196,Tennessee Titans,21.0,42.0,22.0,355.0,258.0,97.0,1.0,26.0,552.0,391.0,161.0,1.0,2.19,-29.61,5.43,Oakland Raiders,2019,Tennessee Titans
+197,Denver Broncos,15.0,16.0,18.0,477.0,380.0,97.0,1.0,16.0,238.0,168.0,70.0,1.0,-0.3,8.2,-10.2,Oakland Raiders,2019,Denver Broncos
+198,Carolina Panthers,30.0,27.0,22.0,349.0,183.0,166.0,1.0,21.0,343.0,216.0,127.0,3.0,4.57,3.24,-3.39,Los Angeles Rams,2019,Los Angeles Rams
+199,New Orleans Saints,27.0,9.0,20.0,380.0,265.0,115.0,1.0,15.0,244.0,187.0,57.0,1.0,7.63,13.12,-6.34,Los Angeles Rams,2019,Los Angeles Rams
+200,Cleveland Browns,20.0,13.0,20.0,344.0,254.0,90.0,3.0,18.0,270.0,175.0,95.0,1.0,1.06,8.89,-3.41,Los Angeles Rams,2019,Los Angeles Rams
+201,Tampa Bay Buccaneers,40.0,55.0,36.0,518.0,490.0,28.0,4.0,27.0,464.0,376.0,88.0,1.0,4.47,-22.76,4.04,Los Angeles Rams,2019,Tampa Bay Buccaneers
+202,Seattle Seahawks,29.0,30.0,24.0,477.0,395.0,82.0,2.0,25.0,429.0,262.0,167.0,1.0,9.94,-12.97,1.58,Los Angeles Rams,2019,Seattle Seahawks
+203,San Francisco 49ers,7.0,20.0,10.0,157.0,48.0,109.0,1.0,22.0,331.0,232.0,99.0,2.0,-25.23,3.54,5.01,Los Angeles Rams,2019,San Francisco 49ers
+204,Pittsburgh Steelers,12.0,17.0,16.0,306.0,218.0,88.0,4.0,15.0,273.0,231.0,42.0,2.0,-27.02,17.68,4.1,Los Angeles Rams,2019,Pittsburgh Steelers
+205,Chicago Bears,17.0,7.0,13.0,283.0,173.0,110.0,2.0,17.0,267.0,193.0,74.0,1.0,-5.69,13.17,5.08,Los Angeles Rams,2019,Los Angeles Rams
+206,Seattle Seahawks,28.0,12.0,26.0,455.0,293.0,162.0,2.0,16.0,308.0,202.0,106.0,1.0,13.97,7.74,-4.96,Los Angeles Rams,2019,Los Angeles Rams
+207,San Francisco 49ers,31.0,34.0,24.0,395.0,323.0,72.0,1.0,19.0,334.0,215.0,119.0,2.0,3.16,-3.67,-1.84,Los Angeles Rams,2019,San Francisco 49ers
+208,Cleveland Browns,25.0,40.0,24.0,395.0,222.0,173.0,3.0,22.0,530.0,337.0,193.0,1.0,4.82,-23.04,3.35,Baltimore Ravens,2019,Cleveland Browns
+209,Pittsburgh Steelers,26.0,23.0,22.0,277.0,139.0,138.0,3.0,18.0,269.0,192.0,77.0,2.0,-4.12,1.8,5.32,Baltimore Ravens,2019,Baltimore Ravens
+210,Cincinnati Bengals,23.0,17.0,26.0,497.0,228.0,269.0,1.0,18.0,250.0,217.0,33.0,1.0,15.13,-0.57,-4.92,Baltimore Ravens,2019,Baltimore Ravens
+211,New England Patriots,37.0,20.0,26.0,372.0,162.0,210.0,2.0,22.0,342.0,268.0,74.0,2.0,14.46,5.25,-5.09,Baltimore Ravens,2019,Baltimore Ravens
+212,Cincinnati Bengals,49.0,13.0,20.0,379.0,243.0,136.0,1.0,21.0,307.0,150.0,157.0,3.0,24.79,18.52,-7.48,Baltimore Ravens,2019,Baltimore Ravens
+213,San Francisco 49ers,20.0,17.0,21.0,283.0,105.0,178.0,1.0,15.0,331.0,157.0,174.0,1.0,6.4,-6.2,1.2,Baltimore Ravens,2019,Baltimore Ravens
+214,Buffalo Bills,24.0,17.0,18.0,257.0,139.0,118.0,1.0,16.0,209.0,105.0,104.0,1.0,-0.75,10.78,-2.47,Baltimore Ravens,2019,Baltimore Ravens
+215,Cleveland Browns,31.0,15.0,31.0,481.0,238.0,243.0,1.0,17.0,241.0,184.0,57.0,1.0,21.45,0.38,-4.46,Baltimore Ravens,2019,Baltimore Ravens
+216,Pittsburgh Steelers,28.0,10.0,19.0,304.0,81.0,223.0,2.0,10.0,168.0,77.0,91.0,2.0,-4.16,11.07,8.63,Baltimore Ravens,2019,Baltimore Ravens
+217,Houston Texans,30.0,28.0,25.0,510.0,362.0,148.0,1.0,22.0,414.0,234.0,180.0,1.0,23.59,-19.6,-0.06,New Orleans Saints,2019,New Orleans Saints
+218,Los Angeles Rams,9.0,27.0,15.0,244.0,187.0,57.0,1.0,20.0,380.0,265.0,115.0,1.0,-13.12,-7.63,6.34,New Orleans Saints,2019,Los Angeles Rams
+219,Seattle Seahawks,33.0,27.0,15.0,265.0,177.0,88.0,1.0,26.0,514.0,406.0,108.0,1.0,0.89,-8.28,6.88,New Orleans Saints,2019,New Orleans Saints
+220,Dallas Cowboys,12.0,10.0,18.0,266.0,149.0,117.0,1.0,15.0,257.0,212.0,45.0,3.0,-1.84,-1.46,0.65,New Orleans Saints,2019,New Orleans Saints
+221,Carolina Panthers,34.0,31.0,23.0,418.0,300.0,118.0,1.0,26.0,351.0,230.0,121.0,1.0,15.06,-16.55,5.89,New Orleans Saints,2019,New Orleans Saints
+222,San Francisco 49ers,46.0,48.0,28.0,465.0,349.0,116.0,1.0,25.0,516.0,354.0,162.0,1.0,21.97,-27.42,3.51,New Orleans Saints,2019,San Francisco 49ers
+223,Minnesota Vikings,20.0,26.0,19.0,324.0,227.0,97.0,2.0,22.0,362.0,226.0,136.0,1.0,1.72,-3.22,-3.43,New Orleans Saints,2019,Minnesota Vikings
+224,Cincinnati Bengals,21.0,20.0,12.0,232.0,160.0,72.0,1.0,22.0,429.0,395.0,34.0,3.0,-5.43,-0.16,8.5,Seattle Seahawks,2019,Seattle Seahawks
+225,Pittsburgh Steelers,28.0,26.0,25.0,425.0,274.0,151.0,2.0,17.0,261.0,180.0,81.0,1.0,5.07,-0.23,1.28,Seattle Seahawks,2019,Seattle Seahawks
+226,New Orleans Saints,27.0,33.0,26.0,514.0,406.0,108.0,1.0,15.0,265.0,177.0,88.0,1.0,8.28,-0.89,-6.88,Seattle Seahawks,2019,New Orleans Saints
+227,Los Angeles Rams,30.0,29.0,25.0,429.0,262.0,167.0,1.0,24.0,477.0,395.0,82.0,2.0,12.97,-9.94,-1.58,Seattle Seahawks,2019,Seattle Seahawks
+228,Cleveland Browns,32.0,28.0,29.0,454.0,284.0,170.0,1.0,21.0,406.0,249.0,157.0,4.0,15.53,-3.24,-4.92,Seattle Seahawks,2019,Seattle Seahawks
+229,Tampa Bay Buccaneers,40.0,34.0,31.0,492.0,347.0,145.0,1.0,29.0,418.0,319.0,99.0,1.0,23.58,-13.19,-6.92,Seattle Seahawks,2019,Seattle Seahawks
+230,San Francisco 49ers,27.0,24.0,19.0,336.0,189.0,147.0,4.0,21.0,302.0,215.0,87.0,3.0,-17.69,17.73,4.23,Seattle Seahawks,2019,Seattle Seahawks
+231,Philadelphia Eagles,17.0,9.0,14.0,348.0,174.0,174.0,2.0,23.0,344.0,238.0,106.0,5.0,-4.38,17.25,-0.2,Seattle Seahawks,2019,Seattle Seahawks
+232,Minnesota Vikings,37.0,30.0,24.0,444.0,226.0,218.0,2.0,17.0,354.0,276.0,78.0,3.0,5.79,-6.46,10.5,Seattle Seahawks,2019,Seattle Seahawks
+233,Los Angeles Rams,12.0,28.0,16.0,308.0,202.0,106.0,1.0,26.0,455.0,293.0,162.0,2.0,-7.74,-13.97,4.96,Seattle Seahawks,2019,Los Angeles Rams
+234,Carolina Panthers,30.0,24.0,21.0,428.0,274.0,154.0,1.0,28.0,414.0,269.0,145.0,3.0,16.22,-6.32,-3.89,Seattle Seahawks,2019,Seattle Seahawks
+235,Seattle Seahawks,26.0,28.0,17.0,261.0,180.0,81.0,1.0,25.0,425.0,274.0,151.0,2.0,0.23,-5.07,-1.28,Pittsburgh Steelers,2019,Seattle Seahawks
+236,San Francisco 49ers,20.0,24.0,11.0,239.0,160.0,79.0,2.0,26.0,436.0,268.0,168.0,5.0,-10.2,3.72,-0.12,Pittsburgh Steelers,2019,San Francisco 49ers
+237,Cincinnati Bengals,27.0,3.0,20.0,326.0,260.0,66.0,1.0,16.0,175.0,102.0,73.0,2.0,6.93,16.54,-0.04,Pittsburgh Steelers,2019,Pittsburgh Steelers
+238,Baltimore Ravens,23.0,26.0,18.0,269.0,192.0,77.0,2.0,22.0,277.0,139.0,138.0,3.0,-1.8,4.12,-5.32,Pittsburgh Steelers,2019,Baltimore Ravens
+239,Los Angeles Chargers,24.0,17.0,18.0,256.0,132.0,124.0,1.0,23.0,348.0,316.0,32.0,3.0,5.45,2.12,4.54,Pittsburgh Steelers,2019,Pittsburgh Steelers
+240,Miami Dolphins,27.0,14.0,21.0,394.0,236.0,158.0,1.0,16.0,230.0,170.0,60.0,4.0,5.58,12.16,-3.84,Pittsburgh Steelers,2019,Pittsburgh Steelers
+241,Indianapolis Colts,26.0,24.0,17.0,273.0,183.0,90.0,2.0,22.0,328.0,189.0,139.0,3.0,-3.46,0.41,5.69,Pittsburgh Steelers,2019,Pittsburgh Steelers
+242,Los Angeles Rams,17.0,12.0,15.0,273.0,231.0,42.0,2.0,16.0,306.0,218.0,88.0,4.0,-17.68,27.02,-4.1,Pittsburgh Steelers,2019,Pittsburgh Steelers
+243,Cincinnati Bengals,16.0,10.0,16.0,338.0,179.0,159.0,1.0,11.0,244.0,158.0,86.0,2.0,-4.31,15.56,-2.52,Pittsburgh Steelers,2019,Pittsburgh Steelers
+244,Cleveland Browns,20.0,13.0,18.0,323.0,199.0,124.0,1.0,19.0,279.0,173.0,106.0,2.0,2.57,2.6,1.39,Pittsburgh Steelers,2019,Pittsburgh Steelers
+245,Arizona Cardinals,23.0,17.0,20.0,275.0,135.0,140.0,2.0,17.0,236.0,165.0,71.0,3.0,5.34,5.35,-2.85,Pittsburgh Steelers,2019,Pittsburgh Steelers
+246,Buffalo Bills,10.0,17.0,15.0,229.0,178.0,51.0,5.0,17.0,261.0,131.0,130.0,2.0,-17.22,6.56,3.78,Pittsburgh Steelers,2019,Buffalo Bills
+247,New York Jets,10.0,16.0,16.0,260.0,185.0,75.0,2.0,14.0,259.0,174.0,85.0,1.0,-11.79,8.44,-5.1,Pittsburgh Steelers,2019,New York Jets
+248,Baltimore Ravens,10.0,28.0,10.0,168.0,77.0,91.0,2.0,19.0,304.0,81.0,223.0,2.0,-11.07,4.16,-8.63,Pittsburgh Steelers,2019,Baltimore Ravens
+249,New Orleans Saints,28.0,30.0,22.0,414.0,234.0,180.0,1.0,25.0,510.0,362.0,148.0,1.0,19.6,-23.59,0.06,Houston Texans,2019,New Orleans Saints
+250,Los Angeles Chargers,27.0,20.0,20.0,376.0,337.0,39.0,1.0,22.0,366.0,293.0,73.0,1.0,16.39,-6.08,-1.94,Houston Texans,2019,Houston Texans
+251,Carolina Panthers,10.0,16.0,18.0,264.0,128.0,136.0,2.0,19.0,297.0,203.0,94.0,3.0,-9.25,5.69,1.44,Houston Texans,2019,Carolina Panthers
+252,Atlanta Falcons,53.0,32.0,31.0,592.0,426.0,166.0,1.0,22.0,373.0,316.0,57.0,1.0,40.69,-6.4,-9.43,Houston Texans,2019,Houston Texans
+253,Kansas City Chiefs,31.0,24.0,35.0,472.0,280.0,192.0,3.0,20.0,309.0,256.0,53.0,2.0,16.92,-6.1,-1.87,Houston Texans,2019,Houston Texans
+254,Indianapolis Colts,23.0,30.0,21.0,391.0,291.0,100.0,2.0,23.0,383.0,321.0,62.0,1.0,1.33,-8.42,-0.23,Houston Texans,2019,Indianapolis Colts
+255,Jacksonville Jaguars,26.0,3.0,21.0,410.0,194.0,216.0,1.0,21.0,356.0,282.0,74.0,4.0,8.05,12.02,-0.32,Houston Texans,2019,Houston Texans
+256,Denver Broncos,24.0,38.0,26.0,414.0,280.0,134.0,3.0,22.0,391.0,301.0,90.0,1.0,1.1,-18.37,3.75,Houston Texans,2019,Denver Broncos
+257,Tennessee Titans,24.0,21.0,23.0,374.0,234.0,140.0,2.0,24.0,432.0,269.0,163.0,1.0,9.03,-9.37,6.55,Houston Texans,2019,Houston Texans
+258,Tampa Bay Buccaneers,23.0,20.0,15.0,229.0,161.0,68.0,2.0,19.0,435.0,329.0,106.0,5.0,-13.02,8.4,7.92,Houston Texans,2019,Houston Texans
+259,Buffalo Bills,22.0,19.0,19.0,360.0,219.0,141.0,1.0,24.0,425.0,253.0,172.0,1.0,2.61,1.04,-1.38,Houston Texans,2019,Houston Texans
+260,Kansas City Chiefs,31.0,51.0,23.0,442.0,348.0,94.0,1.0,29.0,434.0,316.0,118.0,1.0,5.46,-28.73,6.77,Houston Texans,2019,Kansas City Chiefs
+261,Denver Broncos,0.0,16.0,12.0,204.0,165.0,39.0,3.0,11.0,270.0,167.0,103.0,1.0,-25.18,10.82,-1.34,Tennessee Titans,2019,Denver Broncos
+262,Los Angeles Chargers,23.0,20.0,22.0,403.0,306.0,97.0,1.0,24.0,365.0,326.0,39.0,1.0,10.83,-8.93,0.57,Tennessee Titans,2019,Tennessee Titans
+263,Tampa Bay Buccaneers,27.0,23.0,16.0,246.0,174.0,72.0,1.0,23.0,389.0,283.0,106.0,4.0,-2.72,6.92,1.66,Tennessee Titans,2019,Tennessee Titans
+264,Carolina Panthers,20.0,30.0,24.0,431.0,310.0,121.0,3.0,22.0,370.0,214.0,156.0,1.0,5.05,-9.15,-4.67,Tennessee Titans,2019,Carolina Panthers
+265,Kansas City Chiefs,35.0,32.0,19.0,371.0,146.0,225.0,1.0,28.0,530.0,433.0,97.0,1.0,11.07,-13.98,3.81,Tennessee Titans,2019,Tennessee Titans
+266,Jacksonville Jaguars,42.0,20.0,21.0,471.0,252.0,219.0,2.0,23.0,369.0,252.0,117.0,1.0,20.75,-1.2,2.59,Tennessee Titans,2019,Tennessee Titans
+267,Indianapolis Colts,31.0,17.0,15.0,292.0,138.0,154.0,2.0,22.0,391.0,309.0,82.0,3.0,-1.94,1.63,12.84,Tennessee Titans,2019,Tennessee Titans
+268,Oakland Raiders,42.0,21.0,26.0,552.0,391.0,161.0,1.0,22.0,355.0,258.0,97.0,1.0,29.61,-2.19,-5.43,Tennessee Titans,2019,Tennessee Titans
+269,Houston Texans,21.0,24.0,24.0,432.0,269.0,163.0,1.0,23.0,374.0,234.0,140.0,2.0,9.37,-9.03,-6.55,Tennessee Titans,2019,Houston Texans
+270,New England Patriots,20.0,13.0,19.0,272.0,71.0,201.0,1.0,18.0,307.0,209.0,98.0,2.0,2.83,0.84,0.2,Tennessee Titans,2019,Tennessee Titans
+271,Green Bay Packers,16.0,21.0,15.0,421.0,223.0,198.0,4.0,20.0,335.0,191.0,144.0,2.0,-6.94,7.02,-5.3,Minnesota Vikings,2019,Green Bay Packers
+272,New York Giants,28.0,10.0,22.0,490.0,279.0,211.0,1.0,18.0,211.0,147.0,64.0,1.0,16.93,8.73,-0.4,Minnesota Vikings,2019,Minnesota Vikings
+273,Philadelphia Eagles,38.0,20.0,26.0,447.0,325.0,122.0,2.0,19.0,400.0,292.0,108.0,3.0,17.04,-2.18,-0.52,Minnesota Vikings,2019,Minnesota Vikings
+274,Washington Redskins,19.0,9.0,22.0,434.0,273.0,161.0,1.0,14.0,216.0,131.0,85.0,2.0,6.29,5.06,-2.48,Minnesota Vikings,2019,Minnesota Vikings
+275,Denver Broncos,27.0,23.0,19.0,321.0,284.0,37.0,2.0,20.0,394.0,270.0,124.0,1.0,8.51,-4.61,-2.33,Minnesota Vikings,2019,Minnesota Vikings
+276,Seattle Seahawks,30.0,37.0,17.0,354.0,276.0,78.0,3.0,24.0,444.0,226.0,218.0,2.0,6.46,-5.79,-10.5,Minnesota Vikings,2019,Seattle Seahawks
+277,Los Angeles Chargers,39.0,10.0,18.0,344.0,207.0,137.0,1.0,17.0,345.0,283.0,62.0,7.0,5.27,20.63,-0.79,Minnesota Vikings,2019,Minnesota Vikings
+278,Green Bay Packers,10.0,23.0,7.0,139.0,82.0,57.0,1.0,22.0,383.0,199.0,184.0,3.0,-25.86,5.18,6.94,Minnesota Vikings,2019,Green Bay Packers
+279,Chicago Bears,19.0,21.0,14.0,300.0,126.0,174.0,3.0,24.0,337.0,179.0,158.0,1.0,2.15,-1.26,1.08,Minnesota Vikings,2019,Chicago Bears
+280,New Orleans Saints,26.0,20.0,22.0,362.0,226.0,136.0,1.0,19.0,324.0,227.0,97.0,2.0,3.22,-1.72,3.43,Minnesota Vikings,2019,Minnesota Vikings
+281,San Francisco 49ers,10.0,27.0,7.0,147.0,126.0,21.0,2.0,21.0,308.0,122.0,186.0,2.0,-16.91,-0.66,0.78,Minnesota Vikings,2019,San Francisco 49ers
+282,Philadelphia Eagles,20.0,25.0,25.0,417.0,301.0,116.0,3.0,18.0,267.0,174.0,93.0,1.0,0.02,-0.66,-3.75,San Francisco 49ers,2020,Philadelphia Eagles
+283,New England Patriots,33.0,6.0,26.0,467.0,270.0,197.0,2.0,17.0,241.0,147.0,94.0,4.0,22.44,9.49,-6.55,San Francisco 49ers,2020,San Francisco 49ers
+284,New Orleans Saints,13.0,27.0,21.0,281.0,232.0,49.0,4.0,17.0,237.0,123.0,114.0,2.0,-8.03,2.66,-6.47,San Francisco 49ers,2020,New Orleans Saints
+285,Los Angeles Rams,23.0,20.0,18.0,345.0,233.0,112.0,3.0,14.0,308.0,182.0,126.0,4.0,-14.81,19.57,-2.68,San Francisco 49ers,2020,San Francisco 49ers
+286,Buffalo Bills,24.0,34.0,24.0,402.0,316.0,86.0,2.0,31.0,449.0,368.0,81.0,1.0,6.59,-18.14,-0.36,San Francisco 49ers,2020,Buffalo Bills
+287,Washington Football Team,15.0,23.0,21.0,344.0,236.0,108.0,3.0,12.0,193.0,95.0,98.0,1.0,-25.61,19.42,-0.12,San Francisco 49ers,2020,Washington Football Team
+288,Arizona Cardinals,20.0,12.0,22.0,398.0,171.0,227.0,1.0,20.0,350.0,230.0,120.0,2.0,9.69,10.15,-10.68,San Francisco 49ers,2020,San Francisco 49ers
+289,New York Giants,17.0,13.0,18.0,304.0,169.0,135.0,2.0,22.0,295.0,220.0,75.0,2.0,3.42,-0.28,-3.92,Chicago Bears,2020,Chicago Bears
+290,Atlanta Falcons,30.0,26.0,24.0,437.0,307.0,130.0,2.0,22.0,371.0,227.0,144.0,1.0,2.87,-5.82,5.24,Chicago Bears,2020,Chicago Bears
+291,Tampa Bay Buccaneers,20.0,19.0,18.0,243.0,208.0,35.0,1.0,18.0,339.0,233.0,106.0,1.0,-0.67,3.3,1.05,Chicago Bears,2020,Chicago Bears
+292,Carolina Panthers,23.0,16.0,22.0,261.0,198.0,63.0,1.0,23.0,303.0,191.0,112.0,3.0,1.01,3.15,2.23,Chicago Bears,2020,Chicago Bears
+293,Los Angeles Rams,10.0,24.0,14.0,279.0,230.0,49.0,2.0,24.0,371.0,211.0,160.0,1.0,-17.34,-3.2,5.7,Chicago Bears,2020,Los Angeles Rams
+294,Minnesota Vikings,13.0,19.0,10.0,149.0,108.0,41.0,2.0,19.0,385.0,286.0,99.0,2.0,-18.69,3.86,8.08,Chicago Bears,2020,Minnesota Vikings
+295,Detroit Lions,30.0,34.0,26.0,389.0,249.0,140.0,1.0,24.0,460.0,400.0,60.0,1.0,12.1,-17.66,0.8,Chicago Bears,2020,Detroit Lions
+296,Minnesota Vikings,33.0,27.0,23.0,397.0,198.0,199.0,1.0,26.0,407.0,249.0,158.0,1.0,14.23,-11.76,4.0,Chicago Bears,2020,Chicago Bears
+297,Jacksonville Jaguars,41.0,17.0,28.0,391.0,263.0,128.0,1.0,14.0,279.0,203.0,76.0,2.0,20.23,4.85,-2.73,Chicago Bears,2020,Chicago Bears
+298,Green Bay Packers,16.0,35.0,21.0,356.0,248.0,108.0,2.0,17.0,316.0,237.0,79.0,1.0,4.91,-22.83,3.56,Chicago Bears,2020,Green Bay Packers
+299,Cleveland Browns,30.0,35.0,30.0,353.0,285.0,68.0,1.0,23.0,434.0,219.0,215.0,1.0,11.19,-19.62,1.79,Cincinnati Bengals,2020,Cleveland Browns
+300,Jacksonville Jaguars,33.0,25.0,28.0,505.0,300.0,205.0,1.0,25.0,429.0,340.0,89.0,1.0,19.25,-13.22,4.81,Cincinnati Bengals,2020,Cincinnati Bengals
+301,Baltimore Ravens,3.0,27.0,12.0,205.0,135.0,70.0,3.0,17.0,332.0,171.0,161.0,1.0,-28.69,-2.28,3.99,Cincinnati Bengals,2020,Baltimore Ravens
+302,Indianapolis Colts,27.0,31.0,22.0,398.0,300.0,98.0,1.0,23.0,430.0,371.0,59.0,2.0,12.35,-16.0,-0.22,Cincinnati Bengals,2020,Indianapolis Colts
+303,Cleveland Browns,34.0,37.0,31.0,468.0,387.0,81.0,2.0,23.0,398.0,316.0,82.0,1.0,22.02,-25.11,1.35,Cincinnati Bengals,2020,Cleveland Browns
+304,Washington Football Team,9.0,20.0,18.0,272.0,202.0,70.0,2.0,20.0,325.0,161.0,164.0,1.0,-11.45,0.93,0.86,Cincinnati Bengals,2020,Washington Football Team
+305,New York Giants,17.0,19.0,11.0,155.0,115.0,40.0,3.0,19.0,386.0,244.0,142.0,1.0,-18.51,2.23,12.92,Cincinnati Bengals,2020,New York Giants
+306,Miami Dolphins,7.0,19.0,12.0,196.0,156.0,40.0,2.0,23.0,406.0,296.0,110.0,1.0,-7.2,-5.94,1.67,Cincinnati Bengals,2020,Miami Dolphins
+307,Baltimore Ravens,3.0,38.0,10.0,195.0,48.0,147.0,2.0,24.0,525.0,121.0,404.0,1.0,-14.61,-24.61,7.13,Cincinnati Bengals,2020,Baltimore Ravens
+308,Pittsburgh Steelers,21.0,26.0,23.0,319.0,215.0,104.0,2.0,19.0,410.0,301.0,109.0,2.0,-6.02,0.36,-3.9,Denver Broncos,2020,Pittsburgh Steelers
+309,New England Patriots,18.0,12.0,15.0,299.0,164.0,135.0,2.0,14.0,288.0,171.0,117.0,3.0,-6.67,13.3,-1.59,Denver Broncos,2020,Denver Broncos
+310,Kansas City Chiefs,16.0,43.0,24.0,411.0,234.0,177.0,4.0,17.0,286.0,185.0,101.0,1.0,-15.83,-3.75,-6.31,Denver Broncos,2020,Kansas City Chiefs
+311,Los Angeles Chargers,31.0,30.0,17.0,351.0,243.0,108.0,1.0,28.0,485.0,275.0,210.0,2.0,8.64,-9.03,1.18,Denver Broncos,2020,Denver Broncos
+312,Atlanta Falcons,27.0,34.0,23.0,405.0,302.0,103.0,1.0,23.0,363.0,271.0,92.0,1.0,4.44,-14.27,-0.15,Denver Broncos,2020,Atlanta Falcons
+313,Miami Dolphins,20.0,13.0,19.0,459.0,270.0,189.0,2.0,17.0,223.0,167.0,56.0,1.0,9.2,6.76,-4.92,Denver Broncos,2020,Denver Broncos
+314,New Orleans Saints,3.0,31.0,6.0,112.0,12.0,100.0,3.0,19.0,292.0,63.0,229.0,1.0,-26.81,-4.99,4.76,Denver Broncos,2020,New Orleans Saints
+315,Buffalo Bills,19.0,48.0,19.0,255.0,115.0,140.0,1.0,29.0,534.0,352.0,182.0,1.0,-3.55,-28.8,0.71,Denver Broncos,2020,Buffalo Bills
+316,Baltimore Ravens,6.0,38.0,20.0,306.0,168.0,138.0,3.0,23.0,381.0,270.0,111.0,1.0,-8.32,-16.62,-8.64,Cleveland Browns,2020,Baltimore Ravens
+317,Cincinnati Bengals,35.0,30.0,23.0,434.0,219.0,215.0,1.0,30.0,353.0,285.0,68.0,1.0,19.62,-11.19,-1.79,Cleveland Browns,2020,Cleveland Browns
+318,Indianapolis Colts,32.0,23.0,22.0,385.0,261.0,124.0,2.0,15.0,308.0,240.0,68.0,2.0,9.88,2.46,-4.93,Cleveland Browns,2020,Cleveland Browns
+319,Cincinnati Bengals,37.0,34.0,23.0,398.0,316.0,82.0,1.0,31.0,468.0,387.0,81.0,2.0,25.11,-22.02,-1.35,Cleveland Browns,2020,Cleveland Browns
+320,Philadelphia Eagles,22.0,17.0,17.0,324.0,187.0,137.0,1.0,19.0,315.0,209.0,106.0,3.0,-4.43,10.55,1.99,Cleveland Browns,2020,Cleveland Browns
+321,Tennessee Titans,41.0,35.0,26.0,458.0,340.0,118.0,1.0,25.0,431.0,369.0,62.0,3.0,16.85,-9.59,1.78,Cleveland Browns,2020,Cleveland Browns
+322,Kansas City Chiefs,17.0,22.0,21.0,308.0,196.0,112.0,2.0,24.0,438.0,315.0,123.0,1.0,5.1,-19.09,8.48,Cleveland Browns,2020,Kansas City Chiefs
+323,Carolina Panthers,31.0,17.0,20.0,339.0,217.0,122.0,2.0,24.0,427.0,340.0,87.0,4.0,7.61,-0.25,4.83,Tampa Bay Buccaneers,2020,Tampa Bay Buccaneers
+324,Los Angeles Chargers,38.0,31.0,28.0,484.0,369.0,115.0,1.0,15.0,324.0,278.0,46.0,2.0,12.95,-5.88,0.2,Tampa Bay Buccaneers,2020,Tampa Bay Buccaneers
+325,Chicago Bears,19.0,20.0,18.0,339.0,233.0,106.0,1.0,18.0,243.0,208.0,35.0,1.0,-3.3,0.67,-1.05,Tampa Bay Buccaneers,2020,Chicago Bears
+326,New York Giants,25.0,23.0,23.0,344.0,263.0,81.0,1.0,24.0,357.0,256.0,101.0,2.0,5.01,-3.57,2.61,Tampa Bay Buccaneers,2020,Tampa Bay Buccaneers
+327,New Orleans Saints,3.0,38.0,13.0,194.0,186.0,8.0,3.0,27.0,420.0,282.0,138.0,2.0,-19.57,-13.73,0.26,Tampa Bay Buccaneers,2020,New Orleans Saints
+328,Carolina Panthers,46.0,23.0,30.0,544.0,334.0,210.0,1.0,13.0,187.0,122.0,65.0,1.0,27.3,6.81,-11.18,Tampa Bay Buccaneers,2020,Tampa Bay Buccaneers
+329,Los Angeles Rams,24.0,27.0,20.0,251.0,209.0,42.0,2.0,22.0,413.0,376.0,37.0,2.0,-1.67,-5.08,2.02,Tampa Bay Buccaneers,2020,Los Angeles Rams
+330,Kansas City Chiefs,24.0,27.0,20.0,417.0,342.0,75.0,2.0,26.0,543.0,456.0,87.0,1.0,12.72,-20.42,2.46,Tampa Bay Buccaneers,2020,Kansas City Chiefs
+331,Atlanta Falcons,44.0,27.0,28.0,485.0,391.0,94.0,1.0,25.0,385.0,258.0,127.0,2.0,29.28,-10.53,0.43,Tampa Bay Buccaneers,2020,Tampa Bay Buccaneers
+332,Washington Football Team,31.0,23.0,26.0,507.0,365.0,142.0,1.0,23.0,375.0,289.0,86.0,1.0,14.51,-5.16,-1.49,Tampa Bay Buccaneers,2020,Tampa Bay Buccaneers
+333,Green Bay Packers,31.0,26.0,19.0,351.0,275.0,76.0,3.0,23.0,381.0,314.0,67.0,2.0,14.4,-7.4,0.17,Tampa Bay Buccaneers,2020,Tampa Bay Buccaneers
+334,New York Jets,27.0,17.0,31.0,404.0,306.0,98.0,2.0,15.0,254.0,202.0,52.0,2.0,14.47,0.12,-3.63,Buffalo Bills,2020,Buffalo Bills
+335,Los Angeles Rams,35.0,32.0,23.0,375.0,274.0,101.0,2.0,28.0,478.0,311.0,167.0,2.0,17.83,-19.86,6.79,Buffalo Bills,2020,Buffalo Bills
+336,Kansas City Chiefs,17.0,26.0,20.0,206.0,122.0,84.0,1.0,27.0,466.0,221.0,245.0,1.0,4.19,-21.56,8.48,Buffalo Bills,2020,Kansas City Chiefs
+337,New York Jets,18.0,10.0,26.0,422.0,296.0,126.0,1.0,17.0,191.0,91.0,100.0,2.0,6.27,8.08,-3.23,Buffalo Bills,2020,Buffalo Bills
+338,New England Patriots,24.0,21.0,22.0,339.0,149.0,190.0,1.0,20.0,349.0,161.0,188.0,1.0,8.85,-8.26,0.85,Buffalo Bills,2020,Buffalo Bills
+339,Arizona Cardinals,30.0,32.0,22.0,369.0,296.0,73.0,2.0,26.0,453.0,236.0,217.0,2.0,3.67,-8.17,4.77,Buffalo Bills,2020,Arizona Cardinals
+340,Los Angeles Chargers,27.0,17.0,23.0,332.0,160.0,172.0,3.0,24.0,367.0,291.0,76.0,1.0,5.65,-4.93,4.65,Buffalo Bills,2020,Buffalo Bills
+341,San Francisco 49ers,34.0,24.0,31.0,449.0,368.0,81.0,1.0,24.0,402.0,316.0,86.0,2.0,18.14,-6.59,0.36,Buffalo Bills,2020,Buffalo Bills
+342,Pittsburgh Steelers,26.0,15.0,21.0,334.0,230.0,104.0,2.0,14.0,224.0,177.0,47.0,2.0,3.18,11.72,-0.16,Buffalo Bills,2020,Buffalo Bills
+343,Denver Broncos,48.0,19.0,29.0,534.0,352.0,182.0,1.0,19.0,255.0,115.0,140.0,1.0,28.8,3.55,-0.71,Buffalo Bills,2020,Buffalo Bills
+344,Miami Dolphins,56.0,26.0,24.0,455.0,377.0,78.0,2.0,27.0,454.0,384.0,70.0,4.0,19.85,8.17,2.88,Buffalo Bills,2020,Buffalo Bills
+345,Kansas City Chiefs,24.0,38.0,24.0,363.0,234.0,129.0,1.0,29.0,439.0,325.0,114.0,1.0,3.03,-30.34,9.61,Buffalo Bills,2020,Kansas City Chiefs
+346,Washington Football Team,30.0,15.0,22.0,438.0,278.0,160.0,1.0,19.0,316.0,199.0,117.0,2.0,8.92,0.18,6.91,Arizona Cardinals,2020,Arizona Cardinals
+347,Carolina Panthers,21.0,31.0,21.0,262.0,133.0,129.0,1.0,30.0,444.0,276.0,168.0,1.0,8.53,-23.36,3.47,Arizona Cardinals,2020,Carolina Panthers
+348,Seattle Seahawks,37.0,34.0,31.0,519.0,360.0,159.0,2.0,33.0,572.0,372.0,200.0,3.0,13.97,-11.75,0.78,Arizona Cardinals,2020,Arizona Cardinals
+349,Buffalo Bills,32.0,30.0,26.0,453.0,236.0,217.0,2.0,22.0,369.0,296.0,73.0,2.0,8.17,-3.67,-4.77,Arizona Cardinals,2020,Arizona Cardinals
+350,New England Patriots,17.0,20.0,23.0,298.0,160.0,138.0,1.0,16.0,179.0,69.0,110.0,2.0,0.0,4.68,-9.06,Arizona Cardinals,2020,New England Patriots
+351,Los Angeles Rams,28.0,38.0,18.0,232.0,140.0,92.0,2.0,30.0,463.0,344.0,119.0,1.0,-0.6,-18.92,6.43,Arizona Cardinals,2020,Los Angeles Rams
+352,San Francisco 49ers,12.0,20.0,20.0,350.0,230.0,120.0,2.0,22.0,398.0,171.0,227.0,1.0,-10.15,-9.69,10.68,Arizona Cardinals,2020,San Francisco 49ers
+353,Los Angeles Rams,7.0,18.0,15.0,214.0,166.0,48.0,1.0,21.0,333.0,223.0,110.0,2.0,-13.48,6.77,-2.44,Arizona Cardinals,2020,Los Angeles Rams
+354,Tampa Bay Buccaneers,31.0,38.0,15.0,324.0,278.0,46.0,2.0,28.0,484.0,369.0,115.0,1.0,5.88,-12.95,-0.2,Los Angeles Chargers,2020,Tampa Bay Buccaneers
+355,Denver Broncos,30.0,31.0,28.0,485.0,275.0,210.0,2.0,17.0,351.0,243.0,108.0,1.0,9.03,-8.64,-1.18,Los Angeles Chargers,2020,Denver Broncos
+356,Las Vegas Raiders,26.0,31.0,26.0,440.0,312.0,128.0,1.0,16.0,320.0,160.0,160.0,1.0,17.58,-11.13,-10.69,Los Angeles Chargers,2020,Las Vegas Raiders
+357,Miami Dolphins,21.0,29.0,19.0,273.0,174.0,99.0,1.0,17.0,280.0,169.0,111.0,1.0,-1.88,7.96,-14.67,Los Angeles Chargers,2020,Miami Dolphins
+358,New York Jets,34.0,28.0,28.0,376.0,347.0,29.0,1.0,20.0,292.0,196.0,96.0,1.0,16.66,-7.52,-3.42,Los Angeles Chargers,2020,Los Angeles Chargers
+359,Buffalo Bills,17.0,27.0,24.0,367.0,291.0,76.0,1.0,23.0,332.0,160.0,172.0,3.0,4.93,-5.65,-4.65,Los Angeles Chargers,2020,Buffalo Bills
+360,Atlanta Falcons,20.0,17.0,23.0,345.0,240.0,105.0,1.0,19.0,319.0,249.0,70.0,3.0,10.14,-5.82,-1.54,Los Angeles Chargers,2020,Los Angeles Chargers
+361,Baltimore Ravens,34.0,20.0,29.0,517.0,385.0,132.0,1.0,16.0,228.0,70.0,158.0,1.0,26.62,4.74,-17.39,Kansas City Chiefs,2020,Kansas City Chiefs
+362,New England Patriots,26.0,10.0,19.0,323.0,229.0,94.0,1.0,21.0,357.0,172.0,185.0,4.0,5.72,10.82,-3.78,Kansas City Chiefs,2020,Kansas City Chiefs
+363,Las Vegas Raiders,32.0,40.0,21.0,413.0,333.0,80.0,1.0,22.0,490.0,346.0,144.0,1.0,10.45,-22.81,0.4,Kansas City Chiefs,2020,Las Vegas Raiders
+364,Buffalo Bills,26.0,17.0,27.0,466.0,221.0,245.0,1.0,20.0,206.0,122.0,84.0,1.0,21.56,-4.19,-8.48,Kansas City Chiefs,2020,Kansas City Chiefs
+365,Denver Broncos,43.0,16.0,17.0,286.0,185.0,101.0,1.0,24.0,411.0,234.0,177.0,4.0,3.75,15.83,6.31,Kansas City Chiefs,2020,Kansas City Chiefs
+366,Las Vegas Raiders,35.0,31.0,36.0,460.0,352.0,108.0,1.0,25.0,364.0,275.0,89.0,1.0,28.52,-19.95,-2.56,Kansas City Chiefs,2020,Kansas City Chiefs
+367,Tampa Bay Buccaneers,27.0,24.0,26.0,543.0,456.0,87.0,1.0,20.0,417.0,342.0,75.0,2.0,20.42,-12.72,-2.46,Kansas City Chiefs,2020,Kansas City Chiefs
+368,Miami Dolphins,33.0,27.0,22.0,448.0,354.0,94.0,4.0,27.0,367.0,287.0,80.0,1.0,3.61,-10.4,14.14,Kansas City Chiefs,2020,Kansas City Chiefs
+369,New Orleans Saints,32.0,29.0,34.0,411.0,232.0,179.0,1.0,15.0,285.0,225.0,60.0,1.0,12.26,-0.3,-8.71,Kansas City Chiefs,2020,Kansas City Chiefs
+370,Atlanta Falcons,17.0,14.0,23.0,395.0,278.0,117.0,2.0,23.0,367.0,277.0,90.0,1.0,5.3,-5.95,3.91,Kansas City Chiefs,2020,Kansas City Chiefs
+371,Cleveland Browns,22.0,17.0,24.0,438.0,315.0,123.0,1.0,21.0,308.0,196.0,112.0,2.0,19.09,-5.1,-8.48,Kansas City Chiefs,2020,Kansas City Chiefs
+372,Buffalo Bills,38.0,24.0,29.0,439.0,325.0,114.0,1.0,24.0,363.0,234.0,129.0,1.0,30.34,-3.03,-9.61,Kansas City Chiefs,2020,Kansas City Chiefs
+373,Minnesota Vikings,28.0,11.0,24.0,354.0,203.0,151.0,1.0,12.0,175.0,95.0,80.0,3.0,5.63,9.97,4.52,Indianapolis Colts,2020,Indianapolis Colts
+374,Cleveland Browns,23.0,32.0,15.0,308.0,240.0,68.0,2.0,22.0,385.0,261.0,124.0,2.0,-2.46,-9.88,4.93,Indianapolis Colts,2020,Cleveland Browns
+375,Cincinnati Bengals,31.0,27.0,23.0,430.0,371.0,59.0,2.0,22.0,398.0,300.0,98.0,1.0,16.0,-12.35,0.22,Indianapolis Colts,2020,Indianapolis Colts
+376,Baltimore Ravens,10.0,24.0,20.0,339.0,227.0,112.0,2.0,19.0,266.0,156.0,110.0,1.0,-13.1,0.58,1.45,Indianapolis Colts,2020,Baltimore Ravens
+377,Green Bay Packers,34.0,31.0,23.0,420.0,280.0,140.0,2.0,21.0,367.0,301.0,66.0,4.0,4.31,-6.48,4.3,Indianapolis Colts,2020,Indianapolis Colts
+378,Jacksonville Jaguars,28.0,14.0,23.0,437.0,164.0,273.0,1.0,18.0,283.0,230.0,53.0,1.0,14.26,10.79,-8.77,Indianapolis Colts,2020,Indianapolis Colts
+379,Seattle Seahawks,31.0,38.0,27.0,522.0,461.0,61.0,3.0,23.0,412.0,295.0,117.0,1.0,9.84,-11.85,-4.6,Dallas Cowboys,2020,Seattle Seahawks
+380,New York Giants,37.0,34.0,28.0,402.0,276.0,126.0,2.0,20.0,300.0,211.0,89.0,1.0,11.9,0.61,-7.75,Dallas Cowboys,2020,Dallas Cowboys
+381,Philadelphia Eagles,9.0,23.0,21.0,265.0,132.0,133.0,2.0,18.0,222.0,103.0,119.0,4.0,-21.74,11.99,1.73,Dallas Cowboys,2020,Philadelphia Eagles
+382,Minnesota Vikings,31.0,28.0,24.0,376.0,196.0,180.0,1.0,24.0,430.0,305.0,125.0,2.0,15.61,-9.0,-2.73,Dallas Cowboys,2020,Dallas Cowboys
+383,Washington Football Team,16.0,41.0,13.0,247.0,187.0,60.0,2.0,22.0,338.0,156.0,182.0,1.0,-17.92,-8.38,-1.4,Dallas Cowboys,2020,Washington Football Team
+384,Baltimore Ravens,17.0,34.0,29.0,388.0,277.0,111.0,1.0,19.0,401.0,107.0,294.0,1.0,10.45,-19.5,-3.43,Dallas Cowboys,2020,Baltimore Ravens
+385,Philadelphia Eagles,37.0,17.0,22.0,513.0,362.0,151.0,1.0,24.0,477.0,326.0,151.0,3.0,23.4,-5.42,-0.38,Dallas Cowboys,2020,Dallas Cowboys
+386,New York Giants,19.0,23.0,26.0,307.0,199.0,108.0,1.0,22.0,336.0,211.0,125.0,2.0,-3.56,-4.34,4.88,Dallas Cowboys,2020,New York Giants
+387,New England Patriots,11.0,21.0,20.0,269.0,182.0,87.0,3.0,29.0,357.0,140.0,217.0,1.0,-2.2,-14.11,5.64,Miami Dolphins,2020,New England Patriots
+388,Seattle Seahawks,23.0,31.0,25.0,415.0,312.0,103.0,2.0,26.0,441.0,343.0,98.0,1.0,7.12,-16.11,1.32,Miami Dolphins,2020,Seattle Seahawks
+389,New York Jets,24.0,0.0,18.0,302.0,192.0,110.0,2.0,13.0,263.0,148.0,115.0,1.0,0.32,18.17,3.79,Miami Dolphins,2020,Miami Dolphins
+390,Los Angeles Rams,28.0,17.0,8.0,145.0,90.0,55.0,2.0,31.0,471.0,340.0,131.0,4.0,-21.63,18.41,12.41,Miami Dolphins,2020,Miami Dolphins
+391,Los Angeles Chargers,29.0,21.0,17.0,280.0,169.0,111.0,1.0,19.0,273.0,174.0,99.0,1.0,-7.96,1.88,14.67,Miami Dolphins,2020,Miami Dolphins
+392,Denver Broncos,13.0,20.0,17.0,223.0,167.0,56.0,1.0,19.0,459.0,270.0,189.0,2.0,-6.76,-9.2,4.92,Miami Dolphins,2020,Denver Broncos
+393,New York Jets,20.0,3.0,22.0,345.0,241.0,104.0,2.0,10.0,260.0,173.0,87.0,2.0,1.9,15.02,3.01,Miami Dolphins,2020,Miami Dolphins
+394,Cincinnati Bengals,19.0,7.0,23.0,406.0,296.0,110.0,1.0,12.0,196.0,156.0,40.0,2.0,5.94,7.2,-1.67,Miami Dolphins,2020,Miami Dolphins
+395,Kansas City Chiefs,27.0,33.0,27.0,367.0,287.0,80.0,1.0,22.0,448.0,354.0,94.0,4.0,10.4,-3.61,-14.14,Miami Dolphins,2020,Kansas City Chiefs
+396,New England Patriots,22.0,12.0,26.0,383.0,133.0,250.0,1.0,18.0,303.0,186.0,117.0,1.0,16.71,1.0,-6.16,Miami Dolphins,2020,Miami Dolphins
+397,Buffalo Bills,26.0,56.0,27.0,454.0,384.0,70.0,4.0,24.0,455.0,377.0,78.0,2.0,-8.17,-19.85,-2.88,Miami Dolphins,2020,Buffalo Bills
+398,Los Angeles Rams,19.0,37.0,25.0,363.0,242.0,121.0,3.0,30.0,449.0,258.0,191.0,1.0,-0.85,-27.57,8.25,Philadelphia Eagles,2020,Los Angeles Rams
+399,San Francisco 49ers,25.0,20.0,18.0,267.0,174.0,93.0,1.0,25.0,417.0,301.0,116.0,3.0,0.66,-0.02,3.75,Philadelphia Eagles,2020,Philadelphia Eagles
+400,Pittsburgh Steelers,29.0,38.0,20.0,336.0,242.0,94.0,2.0,25.0,367.0,231.0,136.0,1.0,14.47,-20.16,-3.43,Philadelphia Eagles,2020,Pittsburgh Steelers
+401,New York Giants,22.0,21.0,27.0,442.0,346.0,96.0,1.0,17.0,325.0,165.0,160.0,3.0,2.8,1.65,-1.27,Philadelphia Eagles,2020,Philadelphia Eagles
+402,Dallas Cowboys,23.0,9.0,18.0,222.0,103.0,119.0,4.0,21.0,265.0,132.0,133.0,2.0,-11.99,21.74,-1.73,Philadelphia Eagles,2020,Philadelphia Eagles
+403,Cleveland Browns,17.0,22.0,19.0,315.0,209.0,106.0,3.0,17.0,324.0,187.0,137.0,1.0,-10.55,4.43,-1.99,Philadelphia Eagles,2020,Cleveland Browns
+404,New Orleans Saints,24.0,21.0,21.0,413.0,167.0,246.0,1.0,20.0,358.0,262.0,96.0,2.0,6.77,-4.23,1.33,Philadelphia Eagles,2020,Philadelphia Eagles
+405,Dallas Cowboys,17.0,37.0,24.0,477.0,326.0,151.0,3.0,22.0,513.0,362.0,151.0,1.0,5.42,-23.4,0.38,Philadelphia Eagles,2020,Dallas Cowboys
+406,Washington Football Team,14.0,20.0,16.0,216.0,98.0,118.0,3.0,16.0,248.0,145.0,103.0,2.0,-11.71,8.33,-3.56,Philadelphia Eagles,2020,Washington Football Team
+407,Chicago Bears,26.0,30.0,22.0,371.0,227.0,144.0,1.0,24.0,437.0,307.0,130.0,2.0,5.82,-2.87,-5.24,Atlanta Falcons,2020,Chicago Bears
+408,Minnesota Vikings,40.0,23.0,24.0,462.0,363.0,99.0,1.0,19.0,365.0,333.0,32.0,3.0,20.17,-0.99,0.84,Atlanta Falcons,2020,Atlanta Falcons
+409,Carolina Panthers,25.0,17.0,28.0,401.0,270.0,131.0,1.0,18.0,304.0,157.0,147.0,1.0,15.4,-2.21,-6.84,Atlanta Falcons,2020,Atlanta Falcons
+410,Denver Broncos,34.0,27.0,23.0,363.0,271.0,92.0,1.0,23.0,405.0,302.0,103.0,1.0,14.27,-4.44,0.15,Atlanta Falcons,2020,Atlanta Falcons
+411,New Orleans Saints,9.0,24.0,14.0,248.0,196.0,52.0,2.0,24.0,376.0,210.0,166.0,1.0,-4.08,-12.49,8.6,Atlanta Falcons,2020,New Orleans Saints
+412,Las Vegas Raiders,43.0,6.0,23.0,304.0,179.0,125.0,1.0,13.0,243.0,203.0,40.0,5.0,3.82,34.18,-4.76,Atlanta Falcons,2020,Atlanta Falcons
+413,New Orleans Saints,16.0,21.0,21.0,332.0,262.0,70.0,1.0,23.0,424.0,217.0,207.0,1.0,-0.46,-8.37,6.27,Atlanta Falcons,2020,New Orleans Saints
+414,Los Angeles Chargers,17.0,20.0,19.0,319.0,249.0,70.0,3.0,23.0,345.0,240.0,105.0,1.0,5.82,-10.14,1.54,Atlanta Falcons,2020,Los Angeles Chargers
+415,Kansas City Chiefs,14.0,17.0,23.0,367.0,277.0,90.0,1.0,23.0,395.0,278.0,117.0,2.0,5.95,-5.3,-3.91,Atlanta Falcons,2020,Kansas City Chiefs
+416,Tampa Bay Buccaneers,27.0,44.0,25.0,385.0,258.0,127.0,2.0,28.0,485.0,391.0,94.0,1.0,10.53,-29.28,-0.43,Atlanta Falcons,2020,Tampa Bay Buccaneers
+417,Pittsburgh Steelers,16.0,26.0,20.0,291.0,262.0,29.0,2.0,19.0,349.0,208.0,141.0,1.0,-6.06,-13.2,5.36,New York Giants,2020,Pittsburgh Steelers
+418,Chicago Bears,13.0,17.0,22.0,295.0,220.0,75.0,2.0,18.0,304.0,169.0,135.0,2.0,0.28,-3.42,3.92,New York Giants,2020,Chicago Bears
+419,Los Angeles Rams,9.0,17.0,19.0,295.0,159.0,136.0,1.0,15.0,240.0,182.0,58.0,1.0,-8.39,-1.88,3.27,New York Giants,2020,Los Angeles Rams
+420,Dallas Cowboys,34.0,37.0,20.0,300.0,211.0,89.0,1.0,28.0,402.0,276.0,126.0,2.0,-0.61,-11.9,7.75,New York Giants,2020,Dallas Cowboys
+421,Washington Football Team,20.0,19.0,16.0,240.0,108.0,132.0,1.0,24.0,337.0,251.0,86.0,2.0,4.14,-1.78,2.48,New York Giants,2020,New York Giants
+422,Philadelphia Eagles,21.0,22.0,17.0,325.0,165.0,160.0,3.0,27.0,442.0,346.0,96.0,1.0,-1.65,-2.8,1.27,New York Giants,2020,Philadelphia Eagles
+423,Tampa Bay Buccaneers,23.0,25.0,24.0,357.0,256.0,101.0,2.0,23.0,344.0,263.0,81.0,1.0,3.57,-5.01,-2.61,New York Giants,2020,Tampa Bay Buccaneers
+424,Cincinnati Bengals,19.0,17.0,19.0,386.0,244.0,142.0,1.0,11.0,155.0,115.0,40.0,3.0,-2.23,18.51,-12.92,New York Giants,2020,New York Giants
+425,Seattle Seahawks,17.0,12.0,13.0,290.0,100.0,190.0,1.0,21.0,327.0,216.0,111.0,2.0,-3.56,10.03,-2.18,New York Giants,2020,New York Giants
+426,Dallas Cowboys,23.0,19.0,22.0,336.0,211.0,125.0,2.0,26.0,307.0,199.0,108.0,1.0,4.34,3.56,-4.88,New York Giants,2020,New York Giants
+427,Cincinnati Bengals,25.0,33.0,25.0,429.0,340.0,89.0,1.0,28.0,505.0,300.0,205.0,1.0,13.22,-19.25,-4.81,Jacksonville Jaguars,2020,Cincinnati Bengals
+428,Houston Texans,14.0,30.0,22.0,364.0,289.0,75.0,2.0,24.0,486.0,357.0,129.0,2.0,2.21,-18.24,-1.26,Jacksonville Jaguars,2020,Houston Texans
+429,Detroit Lions,16.0,34.0,16.0,275.0,231.0,44.0,2.0,25.0,403.0,223.0,180.0,1.0,-3.97,-15.35,-1.46,Jacksonville Jaguars,2020,Detroit Lions
+430,Houston Texans,25.0,27.0,22.0,403.0,288.0,115.0,1.0,19.0,374.0,267.0,107.0,1.0,7.61,-9.52,-1.03,Jacksonville Jaguars,2020,Houston Texans
+431,Green Bay Packers,20.0,24.0,16.0,260.0,151.0,109.0,1.0,16.0,395.0,315.0,80.0,2.0,-10.89,-1.82,8.95,Jacksonville Jaguars,2020,Green Bay Packers
+432,Pittsburgh Steelers,3.0,27.0,14.0,206.0,133.0,73.0,4.0,23.0,373.0,267.0,106.0,1.0,-22.2,-11.97,5.91,Jacksonville Jaguars,2020,Pittsburgh Steelers
+433,Minnesota Vikings,24.0,27.0,20.0,390.0,266.0,124.0,4.0,30.0,420.0,275.0,145.0,2.0,-4.24,2.36,-3.19,Jacksonville Jaguars,2020,Minnesota Vikings
+434,Tennessee Titans,10.0,31.0,20.0,354.0,263.0,91.0,1.0,25.0,454.0,205.0,249.0,1.0,-3.0,-16.06,0.34,Jacksonville Jaguars,2020,Tennessee Titans
+435,Baltimore Ravens,14.0,40.0,17.0,267.0,205.0,62.0,1.0,26.0,409.0,250.0,159.0,1.0,-1.7,-24.92,0.13,Jacksonville Jaguars,2020,Baltimore Ravens
+436,Chicago Bears,17.0,41.0,14.0,279.0,203.0,76.0,2.0,28.0,391.0,263.0,128.0,1.0,-4.85,-20.23,2.73,Jacksonville Jaguars,2020,Chicago Bears
+437,Indianapolis Colts,14.0,28.0,18.0,283.0,230.0,53.0,1.0,23.0,437.0,164.0,273.0,1.0,-10.79,-14.26,8.77,Jacksonville Jaguars,2020,Indianapolis Colts
+438,Buffalo Bills,17.0,27.0,15.0,254.0,202.0,52.0,2.0,31.0,404.0,306.0,98.0,2.0,-0.12,-14.47,3.63,New York Jets,2020,Buffalo Bills
+439,Miami Dolphins,0.0,24.0,13.0,263.0,148.0,115.0,1.0,18.0,302.0,192.0,110.0,2.0,-18.17,-0.32,-3.79,New York Jets,2020,Miami Dolphins
+440,Buffalo Bills,10.0,18.0,17.0,191.0,91.0,100.0,2.0,26.0,422.0,296.0,126.0,1.0,-8.08,-6.27,3.23,New York Jets,2020,Buffalo Bills
+441,Los Angeles Chargers,28.0,34.0,20.0,292.0,196.0,96.0,1.0,28.0,376.0,347.0,29.0,1.0,7.52,-16.66,3.42,New York Jets,2020,Los Angeles Chargers
+442,Miami Dolphins,3.0,20.0,10.0,260.0,173.0,87.0,2.0,22.0,345.0,241.0,104.0,2.0,-15.02,-1.9,-3.01,New York Jets,2020,Miami Dolphins
+443,Las Vegas Raiders,28.0,31.0,24.0,376.0,170.0,206.0,3.0,24.0,440.0,368.0,72.0,2.0,7.59,-9.86,0.37,New York Jets,2020,Las Vegas Raiders
+444,Seattle Seahawks,3.0,40.0,12.0,185.0,116.0,69.0,1.0,28.0,410.0,236.0,174.0,1.0,-10.41,-22.39,-2.47,New York Jets,2020,Seattle Seahawks
+445,New Orleans Saints,29.0,35.0,18.0,281.0,191.0,90.0,1.0,29.0,392.0,228.0,164.0,1.0,11.85,-23.24,5.65,Detroit Lions,2020,New Orleans Saints
+446,Jacksonville Jaguars,34.0,16.0,25.0,403.0,223.0,180.0,1.0,16.0,275.0,231.0,44.0,2.0,15.35,3.97,1.46,Detroit Lions,2020,Detroit Lions
+447,Carolina Panthers,0.0,20.0,10.0,185.0,145.0,40.0,1.0,20.0,374.0,258.0,116.0,2.0,-18.63,1.61,-3.12,Detroit Lions,2020,Carolina Panthers
+448,Houston Texans,25.0,41.0,28.0,388.0,279.0,109.0,3.0,21.0,384.0,307.0,77.0,1.0,-3.34,-11.31,0.56,Detroit Lions,2020,Houston Texans
+449,Chicago Bears,34.0,30.0,24.0,460.0,400.0,60.0,1.0,26.0,389.0,249.0,140.0,1.0,17.66,-12.1,-0.8,Detroit Lions,2020,Detroit Lions
+450,Jacksonville Jaguars,24.0,20.0,16.0,395.0,315.0,80.0,2.0,16.0,260.0,151.0,109.0,1.0,1.82,10.89,-8.95,Green Bay Packers,2020,Green Bay Packers
+451,Indianapolis Colts,31.0,34.0,21.0,367.0,301.0,66.0,4.0,23.0,420.0,280.0,140.0,2.0,6.48,-4.31,-4.3,Green Bay Packers,2020,Indianapolis Colts
+452,Tennessee Titans,40.0,14.0,27.0,448.0,214.0,234.0,1.0,15.0,260.0,104.0,156.0,2.0,25.88,3.08,-4.92,Green Bay Packers,2020,Green Bay Packers
+453,Chicago Bears,35.0,16.0,17.0,316.0,237.0,79.0,1.0,21.0,356.0,248.0,108.0,2.0,22.83,-4.91,-3.56,Green Bay Packers,2020,Green Bay Packers
+454,Tampa Bay Buccaneers,26.0,31.0,23.0,381.0,314.0,67.0,2.0,19.0,351.0,275.0,76.0,3.0,7.4,-14.4,-0.17,Green Bay Packers,2020,Tampa Bay Buccaneers
+455,Tampa Bay Buccaneers,17.0,31.0,24.0,427.0,340.0,87.0,4.0,20.0,339.0,217.0,122.0,2.0,0.25,-7.61,-4.83,Carolina Panthers,2020,Tampa Bay Buccaneers
+456,Arizona Cardinals,31.0,21.0,30.0,444.0,276.0,168.0,1.0,21.0,262.0,133.0,129.0,1.0,23.36,-8.53,-3.47,Carolina Panthers,2020,Carolina Panthers
+457,Chicago Bears,16.0,23.0,23.0,303.0,191.0,112.0,3.0,22.0,261.0,198.0,63.0,1.0,-3.15,-1.01,-2.23,Carolina Panthers,2020,Chicago Bears
+458,Atlanta Falcons,17.0,25.0,18.0,304.0,157.0,147.0,1.0,28.0,401.0,270.0,131.0,1.0,2.21,-15.4,6.84,Carolina Panthers,2020,Atlanta Falcons
+459,Tampa Bay Buccaneers,23.0,46.0,13.0,187.0,122.0,65.0,1.0,30.0,544.0,334.0,210.0,1.0,-6.81,-27.3,11.18,Carolina Panthers,2020,Tampa Bay Buccaneers
+460,Detroit Lions,20.0,0.0,20.0,374.0,258.0,116.0,2.0,10.0,185.0,145.0,40.0,1.0,-1.61,18.63,3.12,Carolina Panthers,2020,Carolina Panthers
+461,Minnesota Vikings,27.0,28.0,21.0,374.0,267.0,107.0,1.0,26.0,387.0,291.0,96.0,3.0,7.73,-0.99,-7.86,Carolina Panthers,2020,Minnesota Vikings
+462,Washington Football Team,20.0,13.0,19.0,280.0,167.0,113.0,2.0,20.0,386.0,278.0,108.0,4.0,-5.85,5.49,7.24,Carolina Panthers,2020,Carolina Panthers
+463,Miami Dolphins,21.0,11.0,29.0,357.0,140.0,217.0,1.0,20.0,269.0,182.0,87.0,3.0,14.11,2.2,-5.64,New England Patriots,2020,New England Patriots
+464,Seattle Seahawks,30.0,35.0,29.0,464.0,397.0,67.0,1.0,22.0,429.0,275.0,154.0,1.0,19.82,-14.54,-6.98,New England Patriots,2020,Seattle Seahawks
+465,Las Vegas Raiders,36.0,20.0,25.0,406.0,156.0,250.0,1.0,22.0,375.0,249.0,126.0,3.0,11.03,-0.71,5.81,New England Patriots,2020,New England Patriots
+466,Kansas City Chiefs,10.0,26.0,21.0,357.0,172.0,185.0,4.0,19.0,323.0,229.0,94.0,1.0,-10.82,-5.72,3.78,New England Patriots,2020,Kansas City Chiefs
+467,Denver Broncos,12.0,18.0,14.0,288.0,171.0,117.0,3.0,15.0,299.0,164.0,135.0,2.0,-13.3,6.67,1.59,New England Patriots,2020,Denver Broncos
+468,San Francisco 49ers,6.0,33.0,17.0,241.0,147.0,94.0,4.0,26.0,467.0,270.0,197.0,2.0,-9.49,-22.44,6.55,New England Patriots,2020,San Francisco 49ers
+469,Buffalo Bills,21.0,24.0,20.0,349.0,161.0,188.0,1.0,22.0,339.0,149.0,190.0,1.0,8.26,-8.85,-0.85,New England Patriots,2020,Buffalo Bills
+470,Arizona Cardinals,20.0,17.0,16.0,179.0,69.0,110.0,2.0,23.0,298.0,160.0,138.0,1.0,-4.68,0.0,9.06,New England Patriots,2020,New England Patriots
+471,Los Angeles Rams,3.0,24.0,10.0,220.0,113.0,107.0,1.0,17.0,318.0,132.0,186.0,1.0,-29.77,-1.19,8.58,New England Patriots,2020,Los Angeles Rams
+472,Miami Dolphins,12.0,22.0,18.0,303.0,186.0,117.0,1.0,26.0,383.0,133.0,250.0,1.0,-1.0,-16.71,6.16,New England Patriots,2020,Miami Dolphins
+473,New Orleans Saints,34.0,24.0,28.0,377.0,261.0,116.0,1.0,26.0,424.0,312.0,112.0,1.0,22.48,-13.97,-0.31,Oakland Raiders,2020,Oakland Raiders
+474,New England Patriots,20.0,36.0,22.0,375.0,249.0,126.0,3.0,25.0,406.0,156.0,250.0,1.0,0.71,-11.03,-5.81,Oakland Raiders,2020,New England Patriots
+475,Kansas City Chiefs,40.0,32.0,22.0,490.0,346.0,144.0,1.0,21.0,413.0,333.0,80.0,1.0,22.81,-10.45,-0.4,Oakland Raiders,2020,Oakland Raiders
+476,Los Angeles Chargers,31.0,26.0,16.0,320.0,160.0,160.0,1.0,26.0,440.0,312.0,128.0,1.0,11.13,-17.58,10.69,Oakland Raiders,2020,Oakland Raiders
+477,Kansas City Chiefs,31.0,35.0,25.0,364.0,275.0,89.0,1.0,36.0,460.0,352.0,108.0,1.0,19.95,-28.52,2.56,Oakland Raiders,2020,Kansas City Chiefs
+478,Atlanta Falcons,6.0,43.0,13.0,243.0,203.0,40.0,5.0,23.0,304.0,179.0,125.0,1.0,-34.18,-3.82,4.76,Oakland Raiders,2020,Atlanta Falcons
+479,New York Jets,31.0,28.0,24.0,440.0,368.0,72.0,2.0,24.0,376.0,170.0,206.0,3.0,9.86,-7.59,-0.37,Oakland Raiders,2020,Oakland Raiders
+480,Philadelphia Eagles,37.0,19.0,30.0,449.0,258.0,191.0,1.0,25.0,363.0,242.0,121.0,3.0,27.57,0.85,-8.25,Los Angeles Rams,2020,Los Angeles Rams
+481,Buffalo Bills,32.0,35.0,28.0,478.0,311.0,167.0,2.0,23.0,375.0,274.0,101.0,2.0,19.86,-17.83,-6.79,Los Angeles Rams,2020,Buffalo Bills
+482,New York Giants,17.0,9.0,15.0,240.0,182.0,58.0,1.0,19.0,295.0,159.0,136.0,1.0,1.88,8.39,-3.27,Los Angeles Rams,2020,Los Angeles Rams
+483,Chicago Bears,24.0,10.0,24.0,371.0,211.0,160.0,1.0,14.0,279.0,230.0,49.0,2.0,3.2,17.34,-5.7,Los Angeles Rams,2020,Los Angeles Rams
+484,Miami Dolphins,17.0,28.0,31.0,471.0,340.0,131.0,4.0,8.0,145.0,90.0,55.0,2.0,-18.41,21.63,-12.41,Los Angeles Rams,2020,Miami Dolphins
+485,Seattle Seahawks,23.0,16.0,24.0,389.0,283.0,106.0,1.0,20.0,333.0,220.0,113.0,3.0,11.84,3.08,-6.89,Los Angeles Rams,2020,Los Angeles Rams
+486,Tampa Bay Buccaneers,27.0,24.0,22.0,413.0,376.0,37.0,2.0,20.0,251.0,209.0,42.0,2.0,5.08,1.67,-2.02,Los Angeles Rams,2020,Los Angeles Rams
+487,San Francisco 49ers,20.0,23.0,14.0,308.0,182.0,126.0,4.0,18.0,345.0,233.0,112.0,3.0,-19.57,14.81,2.68,Los Angeles Rams,2020,San Francisco 49ers
+488,Arizona Cardinals,38.0,28.0,30.0,463.0,344.0,119.0,1.0,18.0,232.0,140.0,92.0,2.0,18.92,0.6,-6.43,Los Angeles Rams,2020,Los Angeles Rams
+489,New England Patriots,24.0,3.0,17.0,318.0,132.0,186.0,1.0,10.0,220.0,113.0,107.0,1.0,1.19,29.77,-8.58,Los Angeles Rams,2020,Los Angeles Rams
+490,Arizona Cardinals,18.0,7.0,21.0,333.0,223.0,110.0,2.0,15.0,214.0,166.0,48.0,1.0,-6.77,13.48,2.44,Los Angeles Rams,2020,Los Angeles Rams
+491,Cleveland Browns,38.0,6.0,23.0,381.0,270.0,111.0,1.0,20.0,306.0,168.0,138.0,3.0,16.62,8.32,8.64,Baltimore Ravens,2020,Baltimore Ravens
+492,Kansas City Chiefs,20.0,34.0,16.0,228.0,70.0,158.0,1.0,29.0,517.0,385.0,132.0,1.0,-4.74,-26.62,17.39,Baltimore Ravens,2020,Kansas City Chiefs
+493,Washington Football Team,31.0,17.0,18.0,350.0,206.0,144.0,2.0,24.0,343.0,274.0,69.0,1.0,8.74,-2.58,9.39,Baltimore Ravens,2020,Baltimore Ravens
+494,Cincinnati Bengals,27.0,3.0,17.0,332.0,171.0,161.0,1.0,12.0,205.0,135.0,70.0,3.0,2.28,28.69,-3.99,Baltimore Ravens,2020,Baltimore Ravens
+495,Pittsburgh Steelers,24.0,28.0,25.0,457.0,192.0,265.0,4.0,19.0,221.0,173.0,48.0,1.0,3.94,-4.67,0.54,Baltimore Ravens,2020,Pittsburgh Steelers
+496,Indianapolis Colts,24.0,10.0,19.0,266.0,156.0,110.0,1.0,20.0,339.0,227.0,112.0,2.0,-0.58,13.1,-1.45,Baltimore Ravens,2020,Baltimore Ravens
+497,Tennessee Titans,24.0,30.0,21.0,306.0,177.0,129.0,1.0,26.0,423.0,250.0,173.0,1.0,7.48,-13.91,-0.86,Baltimore Ravens,2020,Tennessee Titans
+498,Pittsburgh Steelers,14.0,19.0,10.0,219.0,90.0,129.0,2.0,22.0,334.0,266.0,68.0,2.0,-12.11,-2.03,10.71,Baltimore Ravens,2020,Pittsburgh Steelers
+499,Dallas Cowboys,34.0,17.0,19.0,401.0,107.0,294.0,1.0,29.0,388.0,277.0,111.0,1.0,19.5,-10.45,3.43,Baltimore Ravens,2020,Baltimore Ravens
+500,Jacksonville Jaguars,40.0,14.0,26.0,409.0,250.0,159.0,1.0,17.0,267.0,205.0,62.0,1.0,24.92,1.7,-0.13,Baltimore Ravens,2020,Baltimore Ravens
+501,Cincinnati Bengals,38.0,3.0,24.0,525.0,121.0,404.0,1.0,10.0,195.0,48.0,147.0,2.0,24.61,14.61,-7.13,Baltimore Ravens,2020,Baltimore Ravens
+502,Tennessee Titans,20.0,13.0,22.0,401.0,165.0,236.0,1.0,12.0,209.0,158.0,51.0,1.0,10.95,2.51,-2.13,Baltimore Ravens,2020,Baltimore Ravens
+503,Las Vegas Raiders,24.0,34.0,26.0,424.0,312.0,112.0,1.0,28.0,377.0,261.0,116.0,1.0,13.97,-22.48,0.31,New Orleans Saints,2020,Las Vegas Raiders
+504,Detroit Lions,35.0,29.0,29.0,392.0,228.0,164.0,1.0,18.0,281.0,191.0,90.0,1.0,23.24,-11.85,-5.65,New Orleans Saints,2020,New Orleans Saints
+505,Tampa Bay Buccaneers,38.0,3.0,27.0,420.0,282.0,138.0,2.0,13.0,194.0,186.0,8.0,3.0,13.73,19.57,-0.26,New Orleans Saints,2020,New Orleans Saints
+506,San Francisco 49ers,27.0,13.0,17.0,237.0,123.0,114.0,2.0,21.0,281.0,232.0,49.0,4.0,-2.66,8.03,6.47,New Orleans Saints,2020,New Orleans Saints
+507,Atlanta Falcons,24.0,9.0,24.0,376.0,210.0,166.0,1.0,14.0,248.0,196.0,52.0,2.0,12.49,4.08,-8.6,New Orleans Saints,2020,New Orleans Saints
+508,Denver Broncos,31.0,3.0,19.0,292.0,63.0,229.0,1.0,6.0,112.0,12.0,100.0,3.0,4.99,26.81,-4.76,New Orleans Saints,2020,New Orleans Saints
+509,Atlanta Falcons,21.0,16.0,23.0,424.0,217.0,207.0,1.0,21.0,332.0,262.0,70.0,1.0,8.37,0.46,-6.27,New Orleans Saints,2020,New Orleans Saints
+510,Philadelphia Eagles,21.0,24.0,20.0,358.0,262.0,96.0,2.0,21.0,413.0,167.0,246.0,1.0,4.23,-6.77,-1.33,New Orleans Saints,2020,Philadelphia Eagles
+511,Kansas City Chiefs,29.0,32.0,15.0,285.0,225.0,60.0,1.0,34.0,411.0,232.0,179.0,1.0,0.3,-12.26,8.71,New Orleans Saints,2020,Kansas City Chiefs
+512,New England Patriots,35.0,30.0,22.0,429.0,275.0,154.0,1.0,29.0,464.0,397.0,67.0,1.0,14.54,-19.82,6.98,Seattle Seahawks,2020,Seattle Seahawks
+513,Dallas Cowboys,38.0,31.0,23.0,412.0,295.0,117.0,1.0,27.0,522.0,461.0,61.0,3.0,11.85,-9.84,4.6,Seattle Seahawks,2020,Seattle Seahawks
+514,Miami Dolphins,31.0,23.0,26.0,441.0,343.0,98.0,1.0,25.0,415.0,312.0,103.0,2.0,16.11,-7.12,-1.32,Seattle Seahawks,2020,Seattle Seahawks
+515,Minnesota Vikings,27.0,26.0,18.0,314.0,190.0,124.0,1.0,31.0,449.0,248.0,201.0,2.0,8.96,-6.68,0.07,Seattle Seahawks,2020,Seattle Seahawks
+516,Arizona Cardinals,34.0,37.0,33.0,572.0,372.0,200.0,3.0,31.0,519.0,360.0,159.0,2.0,11.75,-13.97,-0.78,Seattle Seahawks,2020,Arizona Cardinals
+517,Los Angeles Rams,16.0,23.0,20.0,333.0,220.0,113.0,3.0,24.0,389.0,283.0,106.0,1.0,-3.08,-11.84,6.89,Seattle Seahawks,2020,Los Angeles Rams
+518,New York Giants,12.0,17.0,21.0,327.0,216.0,111.0,2.0,13.0,290.0,100.0,190.0,1.0,-10.03,3.56,2.18,Seattle Seahawks,2020,New York Giants
+519,New York Jets,40.0,3.0,28.0,410.0,236.0,174.0,1.0,12.0,185.0,116.0,69.0,1.0,22.39,10.41,2.47,Seattle Seahawks,2020,Seattle Seahawks
+520,Washington Football Team,20.0,15.0,16.0,302.0,121.0,181.0,1.0,26.0,353.0,269.0,84.0,2.0,3.17,-1.41,4.4,Seattle Seahawks,2020,Seattle Seahawks
+521,New York Giants,26.0,16.0,19.0,349.0,208.0,141.0,1.0,20.0,291.0,262.0,29.0,2.0,13.2,6.06,-5.36,Pittsburgh Steelers,2020,Pittsburgh Steelers
+522,Denver Broncos,26.0,21.0,19.0,410.0,301.0,109.0,2.0,23.0,319.0,215.0,104.0,2.0,-0.36,6.02,3.9,Pittsburgh Steelers,2020,Pittsburgh Steelers
+523,Philadelphia Eagles,38.0,29.0,25.0,367.0,231.0,136.0,1.0,20.0,336.0,242.0,94.0,2.0,20.16,-14.47,3.43,Pittsburgh Steelers,2020,Pittsburgh Steelers
+524,Baltimore Ravens,28.0,24.0,19.0,221.0,173.0,48.0,1.0,25.0,457.0,192.0,265.0,4.0,4.67,-3.94,-0.54,Pittsburgh Steelers,2020,Pittsburgh Steelers
+525,Jacksonville Jaguars,27.0,3.0,23.0,373.0,267.0,106.0,1.0,14.0,206.0,133.0,73.0,4.0,11.97,22.2,-5.91,Pittsburgh Steelers,2020,Pittsburgh Steelers
+526,Baltimore Ravens,19.0,14.0,22.0,334.0,266.0,68.0,2.0,10.0,219.0,90.0,129.0,2.0,2.03,12.11,-10.71,Pittsburgh Steelers,2020,Pittsburgh Steelers
+527,Buffalo Bills,15.0,26.0,14.0,224.0,177.0,47.0,2.0,21.0,334.0,230.0,104.0,2.0,-11.72,-3.18,0.16,Pittsburgh Steelers,2020,Buffalo Bills
+528,Jacksonville Jaguars,30.0,14.0,24.0,486.0,357.0,129.0,2.0,22.0,364.0,289.0,75.0,2.0,18.24,-2.21,1.26,Houston Texans,2020,Houston Texans
+529,Jacksonville Jaguars,27.0,25.0,19.0,374.0,267.0,107.0,1.0,22.0,403.0,288.0,115.0,1.0,9.52,-7.61,1.03,Houston Texans,2020,Houston Texans
+530,Detroit Lions,41.0,25.0,21.0,384.0,307.0,77.0,1.0,28.0,388.0,279.0,109.0,3.0,11.31,3.34,-0.56,Houston Texans,2020,Houston Texans
+531,Tennessee Titans,38.0,41.0,26.0,457.0,361.0,96.0,1.0,28.0,492.0,204.0,288.0,1.0,17.33,-25.43,4.17,Houston Texans,2020,Tennessee Titans
+532,Minnesota Vikings,31.0,30.0,23.0,444.0,310.0,134.0,1.0,22.0,464.0,238.0,226.0,3.0,3.79,-10.21,7.95,Tennessee Titans,2020,Tennessee Titans
+533,Baltimore Ravens,30.0,24.0,26.0,423.0,250.0,173.0,1.0,21.0,306.0,177.0,129.0,1.0,13.91,-7.48,0.86,Tennessee Titans,2020,Tennessee Titans
+534,Cleveland Browns,35.0,41.0,25.0,431.0,369.0,62.0,3.0,26.0,458.0,340.0,118.0,1.0,9.59,-16.85,-1.78,Tennessee Titans,2020,Cleveland Browns
+535,Jacksonville Jaguars,31.0,10.0,25.0,454.0,205.0,249.0,1.0,20.0,354.0,263.0,91.0,1.0,16.06,3.0,-0.34,Tennessee Titans,2020,Tennessee Titans
+536,Green Bay Packers,14.0,40.0,15.0,260.0,104.0,156.0,2.0,27.0,448.0,214.0,234.0,1.0,-3.08,-25.88,4.92,Tennessee Titans,2020,Green Bay Packers
+537,Houston Texans,41.0,38.0,28.0,492.0,204.0,288.0,1.0,26.0,457.0,361.0,96.0,1.0,25.43,-17.33,-4.17,Tennessee Titans,2020,Tennessee Titans
+538,Baltimore Ravens,13.0,20.0,12.0,209.0,158.0,51.0,1.0,22.0,401.0,165.0,236.0,1.0,-2.51,-10.95,2.13,Tennessee Titans,2020,Baltimore Ravens
+539,Indianapolis Colts,11.0,28.0,12.0,175.0,95.0,80.0,3.0,24.0,354.0,203.0,151.0,1.0,-9.97,-5.63,-4.52,Minnesota Vikings,2020,Indianapolis Colts
+540,Tennessee Titans,30.0,31.0,22.0,464.0,238.0,226.0,3.0,23.0,444.0,310.0,134.0,1.0,10.21,-3.79,-7.95,Minnesota Vikings,2020,Tennessee Titans
+541,Seattle Seahawks,26.0,27.0,31.0,449.0,248.0,201.0,2.0,18.0,314.0,190.0,124.0,1.0,6.68,-8.96,-0.07,Minnesota Vikings,2020,Seattle Seahawks
+542,Atlanta Falcons,23.0,40.0,19.0,365.0,333.0,32.0,3.0,24.0,462.0,363.0,99.0,1.0,0.99,-20.17,-0.84,Minnesota Vikings,2020,Atlanta Falcons
+543,Chicago Bears,19.0,13.0,19.0,385.0,286.0,99.0,2.0,10.0,149.0,108.0,41.0,2.0,-3.86,18.69,-8.08,Minnesota Vikings,2020,Minnesota Vikings
+544,Dallas Cowboys,28.0,31.0,24.0,430.0,305.0,125.0,2.0,24.0,376.0,196.0,180.0,1.0,9.0,-15.61,2.73,Minnesota Vikings,2020,Dallas Cowboys
+545,Carolina Panthers,28.0,27.0,26.0,387.0,291.0,96.0,3.0,21.0,374.0,267.0,107.0,1.0,0.99,-7.73,7.86,Minnesota Vikings,2020,Minnesota Vikings
+546,Jacksonville Jaguars,27.0,24.0,30.0,420.0,275.0,145.0,2.0,20.0,390.0,266.0,124.0,4.0,-2.36,4.24,3.19,Minnesota Vikings,2020,Minnesota Vikings
+547,Chicago Bears,27.0,33.0,26.0,407.0,249.0,158.0,1.0,23.0,397.0,198.0,199.0,1.0,11.76,-14.23,-4.0,Minnesota Vikings,2020,Chicago Bears
+548,Detroit Lions,41.0,33.0,21.0,442.0,311.0,131.0,2.0,31.0,430.0,314.0,116.0,1.0,15.48,-5.16,-1.73,San Francisco 49ers,2021,San Francisco 49ers
+549,Arizona Cardinals,10.0,17.0,19.0,338.0,186.0,152.0,1.0,20.0,304.0,210.0,94.0,1.0,-6.53,-1.74,-0.47,San Francisco 49ers,2021,Arizona Cardinals
+550,Indianapolis Colts,18.0,30.0,13.0,280.0,169.0,111.0,4.0,17.0,295.0,147.0,148.0,2.0,-15.3,-1.16,4.24,San Francisco 49ers,2021,Indianapolis Colts
+551,Minnesota Vikings,34.0,26.0,23.0,423.0,215.0,208.0,1.0,17.0,323.0,256.0,67.0,2.0,8.93,4.16,-6.1,San Francisco 49ers,2021,San Francisco 49ers
+552,Seattle Seahawks,23.0,30.0,17.0,365.0,294.0,71.0,3.0,21.0,327.0,181.0,146.0,3.0,-0.51,-2.27,-3.44,San Francisco 49ers,2021,Seattle Seahawks
+553,Atlanta Falcons,31.0,13.0,23.0,397.0,235.0,162.0,1.0,13.0,275.0,213.0,62.0,1.0,20.53,9.41,-11.46,San Francisco 49ers,2021,San Francisco 49ers
+554,Houston Texans,23.0,7.0,19.0,416.0,241.0,175.0,1.0,15.0,222.0,136.0,86.0,1.0,5.7,7.88,0.16,San Francisco 49ers,2021,San Francisco 49ers
+555,Los Angeles Rams,27.0,24.0,23.0,449.0,314.0,135.0,2.0,19.0,265.0,201.0,64.0,2.0,15.33,-8.42,-3.91,San Francisco 49ers,2021,San Francisco 49ers
+556,Dallas Cowboys,23.0,17.0,21.0,341.0,172.0,169.0,1.0,20.0,307.0,230.0,77.0,1.0,2.43,5.37,-5.37,San Francisco 49ers,2021,San Francisco 49ers
+557,Green Bay Packers,13.0,10.0,12.0,212.0,106.0,106.0,1.0,14.0,263.0,196.0,67.0,1.0,-11.56,4.75,9.07,San Francisco 49ers,2021,San Francisco 49ers
+558,Los Angeles Rams,17.0,20.0,16.0,282.0,232.0,50.0,1.0,25.0,396.0,326.0,70.0,1.0,3.75,-10.05,1.12,San Francisco 49ers,2021,Los Angeles Rams
+559,Cincinnati Bengals,20.0,17.0,16.0,206.0,83.0,123.0,1.0,14.0,248.0,179.0,69.0,4.0,-11.15,16.14,-1.51,Chicago Bears,2021,Chicago Bears
+560,Detroit Lions,24.0,14.0,20.0,373.0,185.0,188.0,1.0,23.0,351.0,261.0,90.0,2.0,12.01,-1.56,0.02,Chicago Bears,2021,Chicago Bears
+561,Tampa Bay Buccaneers,3.0,38.0,17.0,311.0,168.0,143.0,5.0,28.0,408.0,226.0,182.0,1.0,-18.58,-16.41,4.77,Chicago Bears,2021,Tampa Bay Buccaneers
+562,Pittsburgh Steelers,27.0,29.0,20.0,414.0,278.0,136.0,2.0,20.0,280.0,175.0,105.0,1.0,4.26,-8.46,4.79,Chicago Bears,2021,Pittsburgh Steelers
+563,Baltimore Ravens,13.0,16.0,14.0,353.0,261.0,92.0,1.0,23.0,299.0,176.0,123.0,1.0,0.66,-0.29,-3.41,Chicago Bears,2021,Baltimore Ravens
+564,Detroit Lions,16.0,14.0,21.0,378.0,310.0,68.0,1.0,14.0,239.0,163.0,76.0,1.0,4.4,2.01,-4.41,Chicago Bears,2021,Chicago Bears
+565,Minnesota Vikings,9.0,17.0,24.0,370.0,255.0,115.0,3.0,13.0,193.0,61.0,132.0,1.0,-7.72,4.65,-5.92,Chicago Bears,2021,Minnesota Vikings
+566,New York Giants,29.0,3.0,17.0,249.0,162.0,87.0,2.0,13.0,155.0,-6.0,161.0,4.0,-4.47,28.88,1.13,Chicago Bears,2021,Chicago Bears
+567,Chicago Bears,17.0,20.0,14.0,248.0,179.0,69.0,4.0,16.0,206.0,83.0,123.0,1.0,-16.14,11.15,1.51,Cincinnati Bengals,2021,Chicago Bears
+568,Pittsburgh Steelers,24.0,10.0,12.0,268.0,172.0,96.0,1.0,21.0,342.0,297.0,45.0,2.0,0.17,8.46,6.09,Cincinnati Bengals,2021,Cincinnati Bengals
+569,Green Bay Packers,22.0,25.0,18.0,367.0,264.0,103.0,2.0,21.0,466.0,333.0,133.0,1.0,3.92,-9.92,3.51,Cincinnati Bengals,2021,Green Bay Packers
+570,Detroit Lions,34.0,11.0,20.0,398.0,256.0,142.0,1.0,15.0,228.0,192.0,36.0,1.0,16.6,8.89,-0.46,Cincinnati Bengals,2021,Cincinnati Bengals
+571,New York Jets,31.0,34.0,18.0,318.0,277.0,41.0,1.0,32.0,511.0,414.0,97.0,3.0,3.26,-8.01,4.33,Cincinnati Bengals,2021,New York Jets
+572,Las Vegas Raiders,32.0,13.0,23.0,288.0,129.0,159.0,1.0,13.0,278.0,206.0,72.0,2.0,6.5,6.44,5.53,Cincinnati Bengals,2021,Cincinnati Bengals
+573,Pittsburgh Steelers,41.0,10.0,25.0,370.0,172.0,198.0,1.0,16.0,301.0,250.0,51.0,3.0,14.42,15.89,-0.88,Cincinnati Bengals,2021,Cincinnati Bengals
+574,Los Angeles Chargers,22.0,41.0,21.0,356.0,260.0,96.0,4.0,18.0,363.0,284.0,79.0,3.0,-12.31,-1.98,-1.02,Cincinnati Bengals,2021,Los Angeles Chargers
+575,Tennessee Titans,19.0,16.0,17.0,345.0,280.0,65.0,1.0,16.0,353.0,213.0,140.0,3.0,-1.17,3.15,4.99,Cincinnati Bengals,2021,Cincinnati Bengals
+576,Kansas City Chiefs,27.0,24.0,21.0,359.0,243.0,116.0,1.0,24.0,375.0,236.0,139.0,2.0,8.39,-11.28,-0.28,Cincinnati Bengals,2021,Cincinnati Bengals
+577,New York Giants,27.0,13.0,24.0,420.0,255.0,165.0,1.0,19.0,314.0,254.0,60.0,1.0,20.31,-3.89,-3.35,Denver Broncos,2021,Denver Broncos
+578,New York Jets,26.0,0.0,23.0,343.0,223.0,120.0,1.0,11.0,162.0,119.0,43.0,2.0,4.68,27.58,-1.98,Denver Broncos,2021,Denver Broncos
+579,Pittsburgh Steelers,19.0,27.0,17.0,374.0,268.0,106.0,1.0,19.0,391.0,244.0,147.0,1.0,5.37,-11.44,-1.98,Denver Broncos,2021,Pittsburgh Steelers
+580,Washington Football Team,17.0,10.0,17.0,273.0,190.0,83.0,1.0,21.0,342.0,230.0,112.0,2.0,5.1,-1.75,2.71,Denver Broncos,2021,Denver Broncos
+581,Philadelphia Eagles,13.0,30.0,17.0,308.0,212.0,96.0,1.0,22.0,386.0,170.0,216.0,1.0,-6.62,-8.45,0.91,Denver Broncos,2021,Philadelphia Eagles
+582,Los Angeles Chargers,28.0,13.0,23.0,302.0,155.0,147.0,1.0,20.0,357.0,285.0,72.0,2.0,12.16,6.58,1.43,Denver Broncos,2021,Denver Broncos
+583,Kansas City Chiefs,9.0,22.0,22.0,404.0,250.0,154.0,3.0,15.0,267.0,178.0,89.0,1.0,-8.21,4.04,-5.89,Denver Broncos,2021,Kansas City Chiefs
+584,Houston Texans,31.0,21.0,22.0,355.0,199.0,156.0,2.0,17.0,302.0,220.0,82.0,2.0,8.22,-9.61,8.62,Cleveland Browns,2021,Cleveland Browns
+585,Detroit Lions,13.0,10.0,22.0,349.0,165.0,184.0,2.0,12.0,245.0,77.0,168.0,2.0,4.65,4.39,-6.08,Cleveland Browns,2021,Cleveland Browns
+586,Baltimore Ravens,10.0,16.0,14.0,262.0,222.0,40.0,2.0,22.0,303.0,155.0,148.0,4.0,-11.16,7.17,-4.29,Cleveland Browns,2021,Baltimore Ravens
+587,Baltimore Ravens,24.0,22.0,20.0,290.0,190.0,100.0,1.0,21.0,389.0,271.0,118.0,2.0,2.4,8.51,-5.68,Cleveland Browns,2021,Cleveland Browns
+588,Pittsburgh Steelers,14.0,26.0,15.0,232.0,139.0,93.0,2.0,20.0,299.0,109.0,190.0,1.0,-12.27,-0.38,-4.51,Cleveland Browns,2021,Pittsburgh Steelers
+589,Dallas Cowboys,31.0,29.0,24.0,431.0,379.0,52.0,4.0,30.0,451.0,391.0,60.0,1.0,9.37,-13.67,7.76,Tampa Bay Buccaneers,2021,Tampa Bay Buccaneers
+590,Atlanta Falcons,48.0,25.0,21.0,341.0,259.0,82.0,1.0,19.0,348.0,293.0,55.0,3.0,8.63,15.96,-0.72,Tampa Bay Buccaneers,2021,Tampa Bay Buccaneers
+591,Philadelphia Eagles,28.0,22.0,27.0,399.0,297.0,102.0,1.0,16.0,213.0,113.0,100.0,1.0,15.69,-9.52,3.01,Tampa Bay Buccaneers,2021,Tampa Bay Buccaneers
+592,Chicago Bears,38.0,3.0,28.0,408.0,226.0,182.0,1.0,17.0,311.0,168.0,143.0,5.0,16.41,18.58,-4.77,Tampa Bay Buccaneers,2021,Tampa Bay Buccaneers
+593,Washington Football Team,19.0,29.0,14.0,273.0,220.0,53.0,2.0,23.0,320.0,226.0,94.0,1.0,3.21,-10.01,-0.67,Tampa Bay Buccaneers,2021,Washington Football Team
+594,New York Giants,30.0,10.0,28.0,402.0,308.0,94.0,1.0,15.0,215.0,149.0,66.0,3.0,10.1,16.38,-4.13,Tampa Bay Buccaneers,2021,Tampa Bay Buccaneers
+595,Indianapolis Colts,38.0,31.0,28.0,359.0,217.0,142.0,2.0,24.0,392.0,285.0,107.0,5.0,16.55,-6.27,-3.35,Tampa Bay Buccaneers,2021,Tampa Bay Buccaneers
+596,Atlanta Falcons,30.0,17.0,25.0,425.0,368.0,57.0,1.0,21.0,380.0,259.0,121.0,1.0,17.18,-5.45,-2.61,Tampa Bay Buccaneers,2021,Tampa Bay Buccaneers
+597,New York Jets,28.0,24.0,26.0,467.0,405.0,62.0,1.0,22.0,374.0,224.0,150.0,1.0,17.5,-13.43,0.2,Tampa Bay Buccaneers,2021,Tampa Bay Buccaneers
+598,Los Angeles Rams,27.0,30.0,20.0,359.0,308.0,51.0,2.0,24.0,428.0,355.0,73.0,4.0,-4.46,6.76,-6.08,Tampa Bay Buccaneers,2021,Los Angeles Rams
+599,Miami Dolphins,35.0,0.0,21.0,314.0,171.0,143.0,2.0,13.0,216.0,145.0,71.0,3.0,8.16,24.67,-0.37,Buffalo Bills,2021,Buffalo Bills
+600,Houston Texans,40.0,0.0,26.0,450.0,251.0,199.0,1.0,6.0,109.0,61.0,48.0,5.0,14.54,32.68,-6.4,Buffalo Bills,2021,Buffalo Bills
+601,Tennessee Titans,31.0,34.0,28.0,417.0,335.0,82.0,1.0,16.0,362.0,216.0,146.0,1.0,13.13,-15.97,-0.79,Buffalo Bills,2021,Tennessee Titans
+602,Jacksonville Jaguars,6.0,9.0,17.0,301.0,229.0,72.0,3.0,16.0,218.0,139.0,79.0,1.0,-12.53,8.4,-1.32,Buffalo Bills,2021,Jacksonville Jaguars
+603,New York Jets,45.0,17.0,26.0,489.0,350.0,139.0,2.0,22.0,366.0,296.0,70.0,5.0,22.44,5.27,-0.62,Buffalo Bills,2021,Buffalo Bills
+604,New Orleans Saints,31.0,6.0,21.0,361.0,248.0,113.0,2.0,12.0,190.0,146.0,44.0,1.0,11.92,15.07,0.25,Buffalo Bills,2021,Buffalo Bills
+605,New England Patriots,10.0,14.0,16.0,230.0,131.0,99.0,1.0,11.0,241.0,19.0,222.0,1.0,-7.94,1.79,0.85,Buffalo Bills,2021,New England Patriots
+606,Carolina Panthers,31.0,14.0,21.0,312.0,193.0,119.0,1.0,19.0,275.0,124.0,151.0,1.0,9.55,11.11,-1.29,Buffalo Bills,2021,Buffalo Bills
+607,Atlanta Falcons,29.0,15.0,28.0,351.0,118.0,233.0,3.0,18.0,265.0,169.0,96.0,1.0,12.95,1.07,-1.41,Buffalo Bills,2021,Buffalo Bills
+608,Tennessee Titans,38.0,13.0,22.0,416.0,280.0,136.0,1.0,17.0,248.0,162.0,86.0,3.0,8.83,14.48,1.57,Arizona Cardinals,2021,Arizona Cardinals
+609,Jacksonville Jaguars,31.0,19.0,23.0,407.0,316.0,91.0,1.0,20.0,361.0,202.0,159.0,4.0,13.26,7.87,-9.13,Arizona Cardinals,2021,Arizona Cardinals
+610,San Francisco 49ers,17.0,10.0,20.0,304.0,210.0,94.0,1.0,19.0,338.0,186.0,152.0,1.0,1.74,6.53,0.47,Arizona Cardinals,2021,Arizona Cardinals
+611,Houston Texans,31.0,5.0,24.0,397.0,225.0,172.0,1.0,8.0,160.0,118.0,42.0,1.0,13.37,23.71,-10.47,Arizona Cardinals,2021,Arizona Cardinals
+612,Carolina Panthers,10.0,34.0,11.0,169.0,104.0,65.0,2.0,24.0,341.0,175.0,166.0,2.0,-19.35,-2.27,-1.02,Arizona Cardinals,2021,Carolina Panthers
+613,Detroit Lions,12.0,30.0,23.0,398.0,293.0,105.0,1.0,22.0,338.0,212.0,126.0,1.0,-3.11,-9.87,-1.31,Arizona Cardinals,2021,Detroit Lions
+614,Seattle Seahawks,30.0,38.0,20.0,305.0,187.0,118.0,1.0,19.0,431.0,229.0,202.0,2.0,0.21,-12.83,1.02,Arizona Cardinals,2021,Seattle Seahawks
+615,Washington Football Team,20.0,16.0,27.0,424.0,334.0,90.0,2.0,15.0,259.0,133.0,126.0,1.0,9.45,-1.45,-1.24,Los Angeles Chargers,2021,Los Angeles Chargers
+616,Dallas Cowboys,17.0,20.0,24.0,408.0,313.0,95.0,2.0,25.0,419.0,221.0,198.0,1.0,5.55,-17.5,-1.81,Los Angeles Chargers,2021,Dallas Cowboys
+617,Baltimore Ravens,6.0,34.0,14.0,208.0,182.0,26.0,1.0,27.0,327.0,140.0,187.0,2.0,-13.93,-7.5,-4.48,Los Angeles Chargers,2021,Baltimore Ravens
+618,New England Patriots,24.0,27.0,17.0,369.0,206.0,163.0,2.0,21.0,352.0,210.0,142.0,1.0,1.35,1.47,-9.98,Los Angeles Chargers,2021,New England Patriots
+619,Minnesota Vikings,20.0,27.0,20.0,253.0,171.0,82.0,1.0,24.0,381.0,278.0,103.0,1.0,3.95,-8.75,-2.56,Los Angeles Chargers,2021,Minnesota Vikings
+620,Denver Broncos,13.0,28.0,20.0,357.0,285.0,72.0,2.0,23.0,302.0,155.0,147.0,1.0,-6.58,-12.16,-1.43,Los Angeles Chargers,2021,Denver Broncos
+621,Cincinnati Bengals,41.0,22.0,18.0,363.0,284.0,79.0,3.0,21.0,356.0,260.0,96.0,4.0,1.98,12.31,1.02,Los Angeles Chargers,2021,Los Angeles Chargers
+622,Kansas City Chiefs,28.0,34.0,28.0,428.0,236.0,192.0,2.0,26.0,496.0,410.0,86.0,2.0,6.23,-13.18,1.57,Los Angeles Chargers,2021,Kansas City Chiefs
+623,Baltimore Ravens,35.0,36.0,22.0,405.0,343.0,62.0,2.0,31.0,481.0,230.0,251.0,2.0,15.89,-16.88,1.01,Kansas City Chiefs,2021,Baltimore Ravens
+624,Washington Football Team,31.0,13.0,29.0,499.0,390.0,109.0,3.0,15.0,276.0,182.0,94.0,2.0,9.15,5.66,1.44,Kansas City Chiefs,2021,Kansas City Chiefs
+625,Tennessee Titans,3.0,27.0,22.0,334.0,257.0,77.0,3.0,24.0,369.0,266.0,103.0,1.0,-7.62,-15.54,-0.06,Kansas City Chiefs,2021,Tennessee Titans
+626,New York Giants,20.0,17.0,29.0,368.0,261.0,107.0,2.0,18.0,300.0,228.0,72.0,1.0,2.01,2.3,2.73,Kansas City Chiefs,2021,Kansas City Chiefs
+627,Las Vegas Raiders,41.0,14.0,29.0,516.0,422.0,94.0,1.0,15.0,299.0,249.0,50.0,2.0,34.37,1.08,-7.21,Kansas City Chiefs,2021,Kansas City Chiefs
+628,Dallas Cowboys,19.0,9.0,22.0,370.0,244.0,126.0,2.0,16.0,276.0,194.0,82.0,3.0,-2.37,15.89,-5.44,Kansas City Chiefs,2021,Kansas City Chiefs
+629,Denver Broncos,22.0,9.0,15.0,267.0,178.0,89.0,1.0,22.0,404.0,250.0,154.0,3.0,-4.04,8.21,5.89,Kansas City Chiefs,2021,Kansas City Chiefs
+630,Los Angeles Chargers,34.0,28.0,26.0,496.0,410.0,86.0,2.0,28.0,428.0,236.0,192.0,2.0,13.18,-6.23,-1.57,Kansas City Chiefs,2021,Kansas City Chiefs
+631,Pittsburgh Steelers,42.0,21.0,26.0,478.0,372.0,106.0,2.0,19.0,257.0,201.0,56.0,1.0,16.09,2.06,-0.99,Kansas City Chiefs,2021,Kansas City Chiefs
+632,Cincinnati Bengals,24.0,27.0,24.0,375.0,236.0,139.0,2.0,21.0,359.0,243.0,116.0,1.0,11.28,-8.39,0.28,Kansas City Chiefs,2021,Cincinnati Bengals
+633,Seattle Seahawks,16.0,28.0,23.0,336.0,223.0,113.0,1.0,18.0,381.0,241.0,140.0,1.0,3.07,-14.35,0.51,Indianapolis Colts,2021,Seattle Seahawks
+634,Los Angeles Rams,24.0,27.0,22.0,354.0,245.0,109.0,2.0,21.0,371.0,270.0,101.0,2.0,1.29,-7.11,3.09,Indianapolis Colts,2021,Los Angeles Rams
+635,Miami Dolphins,27.0,17.0,20.0,349.0,210.0,139.0,1.0,13.0,203.0,168.0,35.0,2.0,8.09,1.62,4.01,Indianapolis Colts,2021,Indianapolis Colts
+636,Baltimore Ravens,25.0,31.0,29.0,513.0,390.0,123.0,1.0,30.0,523.0,437.0,86.0,1.0,24.0,-21.15,-6.85,Indianapolis Colts,2021,Baltimore Ravens
+637,San Francisco 49ers,30.0,18.0,17.0,295.0,147.0,148.0,2.0,13.0,280.0,169.0,111.0,4.0,1.16,15.3,-4.24,Indianapolis Colts,2021,Indianapolis Colts
+638,Tennessee Titans,31.0,34.0,24.0,307.0,224.0,83.0,3.0,18.0,340.0,247.0,93.0,2.0,3.55,-5.81,-0.74,Indianapolis Colts,2021,Tennessee Titans
+639,Tampa Bay Buccaneers,31.0,38.0,24.0,392.0,285.0,107.0,5.0,28.0,359.0,217.0,142.0,2.0,6.27,-16.55,3.35,Indianapolis Colts,2021,Tampa Bay Buccaneers
+640,Houston Texans,31.0,0.0,26.0,389.0,151.0,238.0,1.0,9.0,141.0,57.0,84.0,2.0,12.97,28.83,-9.16,Indianapolis Colts,2021,Indianapolis Colts
+641,New England Patriots,27.0,17.0,15.0,275.0,49.0,226.0,1.0,20.0,365.0,284.0,81.0,2.0,3.63,2.77,4.16,Indianapolis Colts,2021,Indianapolis Colts
+642,Tampa Bay Buccaneers,29.0,31.0,30.0,451.0,391.0,60.0,1.0,24.0,431.0,379.0,52.0,4.0,13.67,-9.37,-7.76,Dallas Cowboys,2021,Tampa Bay Buccaneers
+643,Los Angeles Chargers,20.0,17.0,25.0,419.0,221.0,198.0,1.0,24.0,408.0,313.0,95.0,2.0,17.5,-5.55,1.81,Dallas Cowboys,2021,Dallas Cowboys
+644,Philadelphia Eagles,41.0,21.0,27.0,380.0,220.0,160.0,1.0,12.0,367.0,303.0,64.0,2.0,9.13,11.19,-0.01,Dallas Cowboys,2021,Dallas Cowboys
+645,New York Giants,44.0,20.0,26.0,515.0,314.0,201.0,2.0,20.0,367.0,294.0,73.0,2.0,20.79,2.65,2.08,Dallas Cowboys,2021,Dallas Cowboys
+646,New England Patriots,35.0,29.0,32.0,567.0,445.0,122.0,2.0,17.0,335.0,215.0,120.0,2.0,9.87,-0.65,-0.9,Dallas Cowboys,2021,Dallas Cowboys
+647,Atlanta Falcons,43.0,3.0,22.0,431.0,317.0,114.0,1.0,11.0,214.0,111.0,103.0,3.0,16.18,22.4,1.92,Dallas Cowboys,2021,Dallas Cowboys
+648,Kansas City Chiefs,9.0,19.0,16.0,276.0,194.0,82.0,3.0,22.0,370.0,244.0,126.0,2.0,-15.89,2.37,5.44,Dallas Cowboys,2021,Kansas City Chiefs
+649,New Orleans Saints,27.0,17.0,17.0,377.0,231.0,146.0,1.0,17.0,405.0,252.0,153.0,4.0,-3.59,9.41,5.15,Dallas Cowboys,2021,Dallas Cowboys
+650,Washington Football Team,27.0,20.0,19.0,323.0,201.0,122.0,2.0,14.0,224.0,124.0,100.0,4.0,-12.16,25.49,-2.14,Dallas Cowboys,2021,Dallas Cowboys
+651,New York Giants,21.0,6.0,23.0,328.0,203.0,125.0,1.0,15.0,302.0,178.0,124.0,4.0,5.96,14.75,-7.36,Dallas Cowboys,2021,Dallas Cowboys
+652,San Francisco 49ers,17.0,23.0,20.0,307.0,230.0,77.0,1.0,21.0,341.0,172.0,169.0,1.0,-5.37,-2.43,5.37,Dallas Cowboys,2021,San Francisco 49ers
+653,New England Patriots,17.0,16.0,16.0,259.0,185.0,74.0,1.0,24.0,393.0,268.0,125.0,2.0,-0.74,-5.75,6.05,Miami Dolphins,2021,Miami Dolphins
+654,Buffalo Bills,0.0,35.0,13.0,216.0,145.0,71.0,3.0,21.0,314.0,171.0,143.0,2.0,-24.67,-8.16,0.37,Miami Dolphins,2021,Buffalo Bills
+655,Indianapolis Colts,17.0,27.0,13.0,203.0,168.0,35.0,2.0,20.0,349.0,210.0,139.0,1.0,-1.62,-8.09,-4.01,Miami Dolphins,2021,Indianapolis Colts
+656,Jacksonville Jaguars,20.0,23.0,23.0,431.0,354.0,77.0,1.0,21.0,396.0,312.0,84.0,1.0,6.22,-4.44,-2.72,Miami Dolphins,2021,Jacksonville Jaguars
+657,Atlanta Falcons,28.0,30.0,27.0,413.0,281.0,132.0,2.0,21.0,397.0,325.0,72.0,2.0,10.04,-10.55,-0.22,Miami Dolphins,2021,Atlanta Falcons
+658,Houston Texans,17.0,9.0,22.0,262.0,215.0,47.0,5.0,14.0,272.0,199.0,73.0,4.0,-8.14,19.43,-4.21,Miami Dolphins,2021,Miami Dolphins
+659,New York Jets,24.0,17.0,20.0,388.0,273.0,115.0,1.0,18.0,380.0,278.0,102.0,1.0,13.14,-5.03,0.94,Miami Dolphins,2021,Miami Dolphins
+660,Carolina Panthers,33.0,10.0,22.0,315.0,204.0,111.0,1.0,10.0,198.0,134.0,64.0,3.0,1.89,17.24,2.85,Miami Dolphins,2021,Miami Dolphins
+661,New York Jets,31.0,24.0,23.0,379.0,196.0,183.0,3.0,16.0,228.0,126.0,102.0,1.0,2.65,6.38,-1.79,Miami Dolphins,2021,Miami Dolphins
+662,New Orleans Saints,20.0,3.0,16.0,259.0,173.0,86.0,1.0,10.0,164.0,81.0,83.0,2.0,-3.16,24.8,-3.21,Miami Dolphins,2021,Miami Dolphins
+663,Dallas Cowboys,21.0,41.0,12.0,367.0,303.0,64.0,2.0,27.0,380.0,220.0,160.0,1.0,-11.19,-9.13,0.01,Philadelphia Eagles,2021,Dallas Cowboys
+664,Carolina Panthers,21.0,18.0,15.0,273.0,182.0,91.0,2.0,17.0,267.0,158.0,109.0,3.0,-15.13,16.27,3.99,Philadelphia Eagles,2021,Philadelphia Eagles
+665,Tampa Bay Buccaneers,22.0,28.0,16.0,213.0,113.0,100.0,1.0,27.0,399.0,297.0,102.0,1.0,9.52,-15.69,-3.01,Philadelphia Eagles,2021,Tampa Bay Buccaneers
+666,Las Vegas Raiders,22.0,33.0,22.0,358.0,223.0,135.0,2.0,23.0,442.0,323.0,119.0,1.0,4.67,-18.0,-1.38,Philadelphia Eagles,2021,Las Vegas Raiders
+667,Denver Broncos,30.0,13.0,22.0,386.0,170.0,216.0,1.0,17.0,308.0,212.0,96.0,1.0,8.45,6.62,-0.91,Philadelphia Eagles,2021,Philadelphia Eagles
+668,New Orleans Saints,40.0,29.0,21.0,380.0,138.0,242.0,1.0,18.0,323.0,214.0,109.0,3.0,0.6,9.01,4.11,Philadelphia Eagles,2021,Philadelphia Eagles
+669,Tampa Bay Buccaneers,25.0,48.0,19.0,348.0,293.0,55.0,3.0,21.0,341.0,259.0,82.0,1.0,-15.96,-8.63,0.72,Atlanta Falcons,2021,Tampa Bay Buccaneers
+670,New York Giants,17.0,14.0,18.0,296.0,227.0,69.0,1.0,21.0,346.0,246.0,100.0,1.0,2.1,-2.33,3.38,Atlanta Falcons,2021,Atlanta Falcons
+671,New York Jets,27.0,20.0,28.0,450.0,342.0,108.0,2.0,17.0,230.0,166.0,64.0,1.0,17.36,-3.2,-4.18,Atlanta Falcons,2021,Atlanta Falcons
+672,Miami Dolphins,30.0,28.0,21.0,397.0,325.0,72.0,2.0,27.0,413.0,281.0,132.0,2.0,10.55,-10.04,0.22,Atlanta Falcons,2021,Atlanta Falcons
+673,Carolina Panthers,13.0,19.0,17.0,213.0,131.0,82.0,2.0,21.0,332.0,129.0,203.0,1.0,-2.84,-0.86,-4.14,Atlanta Falcons,2021,Carolina Panthers
+674,Dallas Cowboys,3.0,43.0,11.0,214.0,111.0,103.0,3.0,22.0,431.0,317.0,114.0,1.0,-22.4,-16.18,-1.92,Atlanta Falcons,2021,Dallas Cowboys
+675,New England Patriots,0.0,25.0,11.0,165.0,125.0,40.0,4.0,20.0,308.0,174.0,134.0,1.0,-25.53,0.69,-2.44,Atlanta Falcons,2021,New England Patriots
+676,Jacksonville Jaguars,21.0,14.0,21.0,332.0,183.0,149.0,1.0,20.0,357.0,216.0,141.0,2.0,6.47,0.52,1.5,Atlanta Falcons,2021,Atlanta Falcons
+677,Tampa Bay Buccaneers,17.0,30.0,21.0,380.0,259.0,121.0,1.0,25.0,425.0,368.0,57.0,1.0,5.45,-17.18,2.61,Atlanta Falcons,2021,Tampa Bay Buccaneers
+678,Carolina Panthers,29.0,21.0,20.0,318.0,190.0,128.0,1.0,21.0,334.0,243.0,91.0,3.0,4.15,5.38,1.74,Atlanta Falcons,2021,Atlanta Falcons
+679,San Francisco 49ers,13.0,31.0,13.0,275.0,213.0,62.0,1.0,23.0,397.0,235.0,162.0,1.0,-9.41,-20.53,11.46,Atlanta Falcons,2021,San Francisco 49ers
+680,Detroit Lions,20.0,16.0,14.0,254.0,207.0,47.0,1.0,19.0,338.0,208.0,130.0,1.0,5.42,-6.56,2.23,Atlanta Falcons,2021,Atlanta Falcons
+681,Buffalo Bills,15.0,29.0,18.0,265.0,169.0,96.0,1.0,28.0,351.0,118.0,233.0,3.0,-1.07,-12.95,1.41,Atlanta Falcons,2021,Buffalo Bills
+682,Denver Broncos,13.0,27.0,19.0,314.0,254.0,60.0,1.0,24.0,420.0,255.0,165.0,1.0,3.89,-20.31,3.35,New York Giants,2021,Denver Broncos
+683,Atlanta Falcons,14.0,17.0,21.0,346.0,246.0,100.0,1.0,18.0,296.0,227.0,69.0,1.0,2.33,-2.1,-3.38,New York Giants,2021,Atlanta Falcons
+684,New Orleans Saints,27.0,21.0,21.0,485.0,402.0,83.0,1.0,21.0,405.0,235.0,170.0,1.0,15.58,-9.0,-1.58,New York Giants,2021,New York Giants
+685,Dallas Cowboys,20.0,44.0,20.0,367.0,294.0,73.0,2.0,26.0,515.0,314.0,201.0,2.0,-2.65,-20.79,-2.08,New York Giants,2021,Dallas Cowboys
+686,Los Angeles Rams,11.0,38.0,21.0,261.0,201.0,60.0,4.0,22.0,365.0,234.0,131.0,2.0,-19.06,-7.63,0.96,New York Giants,2021,Los Angeles Rams
+687,Kansas City Chiefs,17.0,20.0,18.0,300.0,228.0,72.0,1.0,29.0,368.0,261.0,107.0,2.0,-2.3,-2.01,-2.73,New York Giants,2021,Kansas City Chiefs
+688,Las Vegas Raiders,23.0,16.0,16.0,247.0,98.0,149.0,1.0,24.0,403.0,286.0,117.0,3.0,0.51,1.72,5.84,New York Giants,2021,New York Giants
+689,Tampa Bay Buccaneers,10.0,30.0,15.0,215.0,149.0,66.0,3.0,28.0,402.0,308.0,94.0,1.0,-16.38,-10.1,4.13,New York Giants,2021,Tampa Bay Buccaneers
+690,Dallas Cowboys,6.0,21.0,15.0,302.0,178.0,124.0,4.0,23.0,328.0,203.0,125.0,1.0,-14.75,-5.96,7.36,New York Giants,2021,Dallas Cowboys
+691,Chicago Bears,3.0,29.0,13.0,155.0,-6.0,161.0,4.0,17.0,249.0,162.0,87.0,2.0,-28.88,4.47,-1.13,New York Giants,2021,Chicago Bears
+692,Arizona Cardinals,19.0,31.0,20.0,361.0,202.0,159.0,4.0,23.0,407.0,316.0,91.0,1.0,-7.87,-13.26,9.13,Jacksonville Jaguars,2021,Arizona Cardinals
+693,Miami Dolphins,23.0,20.0,21.0,396.0,312.0,84.0,1.0,23.0,431.0,354.0,77.0,1.0,4.44,-6.22,2.72,Jacksonville Jaguars,2021,Jacksonville Jaguars
+694,Buffalo Bills,9.0,6.0,16.0,218.0,139.0,79.0,1.0,17.0,301.0,229.0,72.0,3.0,-8.4,12.53,1.32,Jacksonville Jaguars,2021,Jacksonville Jaguars
+695,Atlanta Falcons,14.0,21.0,20.0,357.0,216.0,141.0,2.0,21.0,332.0,183.0,149.0,1.0,-0.52,-6.47,-1.5,Jacksonville Jaguars,2021,Atlanta Falcons
+696,Carolina Panthers,14.0,19.0,16.0,252.0,207.0,45.0,1.0,18.0,381.0,270.0,111.0,1.0,-10.0,-1.31,3.49,New York Jets,2021,Carolina Panthers
+697,Denver Broncos,0.0,26.0,11.0,162.0,119.0,43.0,2.0,23.0,343.0,223.0,120.0,1.0,-27.58,-4.68,1.98,New York Jets,2021,Denver Broncos
+698,Atlanta Falcons,20.0,27.0,17.0,230.0,166.0,64.0,1.0,28.0,450.0,342.0,108.0,2.0,3.2,-17.36,4.18,New York Jets,2021,Atlanta Falcons
+699,Cincinnati Bengals,34.0,31.0,32.0,511.0,414.0,97.0,3.0,18.0,318.0,277.0,41.0,1.0,8.01,-3.26,-4.33,New York Jets,2021,New York Jets
+700,Buffalo Bills,17.0,45.0,22.0,366.0,296.0,70.0,5.0,26.0,489.0,350.0,139.0,2.0,-5.27,-22.44,0.62,New York Jets,2021,Buffalo Bills
+701,Miami Dolphins,17.0,24.0,18.0,380.0,278.0,102.0,1.0,20.0,388.0,273.0,115.0,1.0,5.03,-13.14,-0.94,New York Jets,2021,Miami Dolphins
+702,Houston Texans,21.0,14.0,18.0,266.0,109.0,157.0,1.0,13.0,202.0,106.0,96.0,1.0,-2.68,9.28,-1.61,New York Jets,2021,New York Jets
+703,Miami Dolphins,24.0,31.0,16.0,228.0,126.0,102.0,1.0,23.0,379.0,196.0,183.0,3.0,-6.38,-2.65,1.79,New York Jets,2021,Miami Dolphins
+704,Tampa Bay Buccaneers,24.0,28.0,22.0,374.0,224.0,150.0,1.0,26.0,467.0,405.0,62.0,1.0,13.43,-17.5,-0.2,New York Jets,2021,Tampa Bay Buccaneers
+705,San Francisco 49ers,33.0,41.0,31.0,430.0,314.0,116.0,1.0,21.0,442.0,311.0,131.0,2.0,5.16,-15.48,1.73,Detroit Lions,2021,San Francisco 49ers
+706,Chicago Bears,14.0,24.0,23.0,351.0,261.0,90.0,2.0,20.0,373.0,185.0,188.0,1.0,1.56,-12.01,-0.02,Detroit Lions,2021,Chicago Bears
+707,Minnesota Vikings,17.0,19.0,22.0,288.0,180.0,108.0,2.0,18.0,384.0,264.0,120.0,2.0,-7.67,0.5,4.46,Detroit Lions,2021,Minnesota Vikings
+708,Cincinnati Bengals,11.0,34.0,15.0,228.0,192.0,36.0,1.0,20.0,398.0,256.0,142.0,1.0,-8.89,-16.6,0.46,Detroit Lions,2021,Cincinnati Bengals
+709,Cleveland Browns,10.0,13.0,12.0,245.0,77.0,168.0,2.0,22.0,349.0,165.0,184.0,2.0,-4.39,-4.65,6.08,Detroit Lions,2021,Cleveland Browns
+710,Chicago Bears,14.0,16.0,14.0,239.0,163.0,76.0,1.0,21.0,378.0,310.0,68.0,1.0,-2.01,-4.4,4.41,Detroit Lions,2021,Chicago Bears
+711,Minnesota Vikings,29.0,27.0,23.0,372.0,272.0,100.0,2.0,26.0,426.0,326.0,100.0,1.0,5.16,-2.07,1.98,Detroit Lions,2021,Detroit Lions
+712,Arizona Cardinals,30.0,12.0,22.0,338.0,212.0,126.0,1.0,23.0,398.0,293.0,105.0,1.0,9.87,3.11,1.31,Detroit Lions,2021,Detroit Lions
+713,Atlanta Falcons,16.0,20.0,19.0,338.0,208.0,130.0,1.0,14.0,254.0,207.0,47.0,1.0,6.56,-5.42,-2.23,Detroit Lions,2021,Atlanta Falcons
+714,Pittsburgh Steelers,27.0,17.0,23.0,367.0,236.0,131.0,1.0,17.0,282.0,220.0,62.0,2.0,7.14,5.05,-3.23,Green Bay Packers,2021,Green Bay Packers
+715,Cincinnati Bengals,25.0,22.0,21.0,466.0,333.0,133.0,1.0,18.0,367.0,264.0,103.0,2.0,9.92,-3.92,-3.51,Green Bay Packers,2021,Green Bay Packers
+716,Washington Football Team,24.0,10.0,19.0,304.0,247.0,57.0,1.0,25.0,430.0,235.0,195.0,2.0,8.64,0.39,3.31,Green Bay Packers,2021,Green Bay Packers
+717,Seattle Seahawks,17.0,0.0,22.0,393.0,287.0,106.0,1.0,15.0,208.0,133.0,75.0,2.0,8.95,11.44,-5.23,Green Bay Packers,2021,Green Bay Packers
+718,Los Angeles Rams,36.0,28.0,21.0,399.0,307.0,92.0,1.0,15.0,353.0,285.0,68.0,3.0,4.66,5.92,-0.69,Green Bay Packers,2021,Green Bay Packers
+719,San Francisco 49ers,10.0,13.0,14.0,263.0,196.0,67.0,1.0,12.0,212.0,106.0,106.0,1.0,-4.75,11.56,-9.07,Green Bay Packers,2021,San Francisco 49ers
+720,New York Jets,19.0,14.0,18.0,381.0,270.0,111.0,1.0,16.0,252.0,207.0,45.0,1.0,1.31,10.0,-3.49,Carolina Panthers,2021,Carolina Panthers
+721,New Orleans Saints,26.0,7.0,28.0,383.0,294.0,89.0,1.0,6.0,128.0,80.0,48.0,2.0,12.61,21.2,-12.63,Carolina Panthers,2021,Carolina Panthers
+722,Philadelphia Eagles,18.0,21.0,17.0,267.0,158.0,109.0,3.0,15.0,273.0,182.0,91.0,2.0,-16.27,15.13,-3.99,Carolina Panthers,2021,Philadelphia Eagles
+723,Minnesota Vikings,28.0,34.0,20.0,306.0,188.0,118.0,3.0,26.0,571.0,373.0,198.0,1.0,-9.64,-8.77,12.64,Carolina Panthers,2021,Minnesota Vikings
+724,Atlanta Falcons,19.0,13.0,21.0,332.0,129.0,203.0,1.0,17.0,213.0,131.0,82.0,2.0,0.86,2.84,4.14,Carolina Panthers,2021,Carolina Panthers
+725,New England Patriots,6.0,24.0,13.0,240.0,162.0,78.0,3.0,17.0,273.0,122.0,151.0,2.0,-26.35,3.56,5.26,Carolina Panthers,2021,New England Patriots
+726,Arizona Cardinals,34.0,10.0,24.0,341.0,175.0,166.0,2.0,11.0,169.0,104.0,65.0,2.0,2.27,19.35,1.02,Carolina Panthers,2021,Carolina Panthers
+727,Miami Dolphins,10.0,33.0,10.0,198.0,134.0,64.0,3.0,22.0,315.0,204.0,111.0,1.0,-17.24,-1.89,-2.85,Carolina Panthers,2021,Miami Dolphins
+728,Atlanta Falcons,21.0,29.0,21.0,334.0,243.0,91.0,3.0,20.0,318.0,190.0,128.0,1.0,-5.38,-4.15,-1.74,Carolina Panthers,2021,Atlanta Falcons
+729,Buffalo Bills,14.0,31.0,19.0,275.0,124.0,151.0,1.0,21.0,312.0,193.0,119.0,1.0,-11.11,-9.55,1.29,Carolina Panthers,2021,Buffalo Bills
+730,Miami Dolphins,16.0,17.0,24.0,393.0,268.0,125.0,2.0,16.0,259.0,185.0,74.0,1.0,5.75,0.74,-6.05,New England Patriots,2021,Miami Dolphins
+731,Houston Texans,25.0,22.0,21.0,352.0,226.0,126.0,2.0,14.0,360.0,293.0,67.0,1.0,6.89,-13.76,8.6,New England Patriots,2021,New England Patriots
+732,Dallas Cowboys,29.0,35.0,17.0,335.0,215.0,120.0,2.0,32.0,567.0,445.0,122.0,2.0,0.65,-9.87,0.9,New England Patriots,2021,Dallas Cowboys
+733,Los Angeles Chargers,27.0,24.0,21.0,352.0,210.0,142.0,1.0,17.0,369.0,206.0,163.0,2.0,-1.47,-1.35,9.98,New England Patriots,2021,New England Patriots
+734,Carolina Panthers,24.0,6.0,17.0,273.0,122.0,151.0,2.0,13.0,240.0,162.0,78.0,3.0,-3.56,26.35,-5.26,New England Patriots,2021,New England Patriots
+735,Atlanta Falcons,25.0,0.0,20.0,308.0,174.0,134.0,1.0,11.0,165.0,125.0,40.0,4.0,-0.69,25.53,2.44,New England Patriots,2021,New England Patriots
+736,Buffalo Bills,14.0,10.0,11.0,241.0,19.0,222.0,1.0,16.0,230.0,131.0,99.0,1.0,-1.79,7.94,-0.85,New England Patriots,2021,New England Patriots
+737,Indianapolis Colts,17.0,27.0,20.0,365.0,284.0,81.0,2.0,15.0,275.0,49.0,226.0,1.0,-2.77,-3.63,-4.16,New England Patriots,2021,Indianapolis Colts
+738,Baltimore Ravens,33.0,27.0,26.0,491.0,409.0,82.0,1.0,20.0,406.0,217.0,189.0,2.0,11.58,-3.0,-2.58,Oakland Raiders,2021,Oakland Raiders
+739,Philadelphia Eagles,33.0,22.0,23.0,442.0,323.0,119.0,1.0,22.0,358.0,223.0,135.0,2.0,18.0,-4.67,1.38,Oakland Raiders,2021,Oakland Raiders
+740,New York Giants,16.0,23.0,24.0,403.0,286.0,117.0,3.0,16.0,247.0,98.0,149.0,1.0,-1.72,-0.51,-5.84,Oakland Raiders,2021,New York Giants
+741,Kansas City Chiefs,14.0,41.0,15.0,299.0,249.0,50.0,2.0,29.0,516.0,422.0,94.0,1.0,-1.08,-34.37,7.21,Oakland Raiders,2021,Kansas City Chiefs
+742,Cincinnati Bengals,13.0,32.0,13.0,278.0,206.0,72.0,2.0,23.0,288.0,129.0,159.0,1.0,-6.44,-6.5,-5.53,Oakland Raiders,2021,Cincinnati Bengals
+743,Indianapolis Colts,27.0,24.0,21.0,371.0,270.0,101.0,2.0,22.0,354.0,245.0,109.0,2.0,7.11,-1.29,-3.09,Los Angeles Rams,2021,Los Angeles Rams
+744,Seattle Seahawks,26.0,17.0,24.0,476.0,358.0,118.0,1.0,22.0,354.0,262.0,92.0,2.0,13.76,-6.71,-0.05,Los Angeles Rams,2021,Los Angeles Rams
+745,New York Giants,38.0,11.0,22.0,365.0,234.0,131.0,2.0,21.0,261.0,201.0,60.0,4.0,7.63,19.06,-0.96,Los Angeles Rams,2021,Los Angeles Rams
+746,Tennessee Titans,16.0,28.0,22.0,347.0,253.0,94.0,2.0,16.0,194.0,125.0,69.0,1.0,-11.78,-1.15,-0.53,Los Angeles Rams,2021,Tennessee Titans
+747,Green Bay Packers,28.0,36.0,15.0,353.0,285.0,68.0,3.0,21.0,399.0,307.0,92.0,1.0,-5.92,-4.66,0.69,Los Angeles Rams,2021,Green Bay Packers
+748,Seattle Seahawks,20.0,10.0,20.0,332.0,209.0,123.0,1.0,13.0,214.0,134.0,80.0,1.0,4.19,8.13,-3.72,Los Angeles Rams,2021,Los Angeles Rams
+749,Minnesota Vikings,30.0,23.0,22.0,356.0,197.0,159.0,3.0,19.0,361.0,295.0,66.0,1.0,-0.84,1.81,7.8,Los Angeles Rams,2021,Los Angeles Rams
+750,Baltimore Ravens,20.0,19.0,20.0,373.0,300.0,73.0,3.0,19.0,327.0,162.0,165.0,2.0,2.98,-0.4,-2.65,Los Angeles Rams,2021,Los Angeles Rams
+751,San Francisco 49ers,24.0,27.0,19.0,265.0,201.0,64.0,2.0,23.0,449.0,314.0,135.0,2.0,8.42,-15.33,3.91,Los Angeles Rams,2021,San Francisco 49ers
+752,Tampa Bay Buccaneers,30.0,27.0,24.0,428.0,355.0,73.0,4.0,20.0,359.0,308.0,51.0,2.0,-6.76,4.46,6.08,Los Angeles Rams,2021,Los Angeles Rams
+753,San Francisco 49ers,20.0,17.0,25.0,396.0,326.0,70.0,1.0,16.0,282.0,232.0,50.0,1.0,10.05,-3.75,-1.12,Los Angeles Rams,2021,Los Angeles Rams
+754,Las Vegas Raiders,27.0,33.0,20.0,406.0,217.0,189.0,2.0,26.0,491.0,409.0,82.0,1.0,3.0,-11.58,2.58,Baltimore Ravens,2021,Las Vegas Raiders
+755,Kansas City Chiefs,36.0,35.0,31.0,481.0,230.0,251.0,2.0,22.0,405.0,343.0,62.0,2.0,16.88,-15.89,-1.01,Baltimore Ravens,2021,Baltimore Ravens
+756,Indianapolis Colts,31.0,25.0,30.0,523.0,437.0,86.0,1.0,29.0,513.0,390.0,123.0,1.0,21.15,-24.0,6.85,Baltimore Ravens,2021,Baltimore Ravens
+757,Los Angeles Chargers,34.0,6.0,27.0,327.0,140.0,187.0,2.0,14.0,208.0,182.0,26.0,1.0,7.5,13.93,4.48,Baltimore Ravens,2021,Baltimore Ravens
+758,Chicago Bears,16.0,13.0,23.0,299.0,176.0,123.0,1.0,14.0,353.0,261.0,92.0,1.0,0.29,-0.66,3.41,Baltimore Ravens,2021,Baltimore Ravens
+759,Cleveland Browns,16.0,10.0,22.0,303.0,155.0,148.0,4.0,14.0,262.0,222.0,40.0,2.0,-7.17,11.16,4.29,Baltimore Ravens,2021,Baltimore Ravens
+760,Cleveland Browns,22.0,24.0,21.0,389.0,271.0,118.0,2.0,20.0,290.0,190.0,100.0,1.0,-8.51,-2.4,5.68,Baltimore Ravens,2021,Cleveland Browns
+761,Los Angeles Rams,19.0,20.0,19.0,327.0,162.0,165.0,2.0,20.0,373.0,300.0,73.0,3.0,0.4,-2.98,2.65,Baltimore Ravens,2021,Los Angeles Rams
+762,Pittsburgh Steelers,13.0,16.0,20.0,381.0,132.0,249.0,3.0,19.0,314.0,235.0,79.0,1.0,-10.97,6.77,1.21,Baltimore Ravens,2021,Pittsburgh Steelers
+763,Carolina Panthers,7.0,26.0,6.0,128.0,80.0,48.0,2.0,28.0,383.0,294.0,89.0,1.0,-21.2,-12.61,12.63,New Orleans Saints,2021,Carolina Panthers
+764,New York Giants,21.0,27.0,21.0,405.0,235.0,170.0,1.0,21.0,485.0,402.0,83.0,1.0,9.0,-15.58,1.58,New Orleans Saints,2021,New York Giants
+765,Washington Football Team,33.0,22.0,18.0,369.0,271.0,98.0,2.0,26.0,373.0,242.0,131.0,2.0,8.56,7.31,-3.41,New Orleans Saints,2021,New Orleans Saints
+766,Philadelphia Eagles,29.0,40.0,18.0,323.0,214.0,109.0,3.0,21.0,380.0,138.0,242.0,1.0,-9.01,-0.6,-4.11,New Orleans Saints,2021,Philadelphia Eagles
+767,Buffalo Bills,6.0,31.0,12.0,190.0,146.0,44.0,1.0,21.0,361.0,248.0,113.0,2.0,-15.07,-11.92,-0.25,New Orleans Saints,2021,Buffalo Bills
+768,Dallas Cowboys,17.0,27.0,17.0,405.0,252.0,153.0,4.0,17.0,377.0,231.0,146.0,1.0,-9.41,3.59,-5.15,New Orleans Saints,2021,Dallas Cowboys
+769,Miami Dolphins,3.0,20.0,10.0,164.0,81.0,83.0,2.0,16.0,259.0,173.0,86.0,1.0,-24.8,3.16,3.21,New Orleans Saints,2021,Miami Dolphins
+770,Indianapolis Colts,28.0,16.0,18.0,381.0,241.0,140.0,1.0,23.0,336.0,223.0,113.0,1.0,14.35,-3.07,-0.51,Seattle Seahawks,2021,Seattle Seahawks
+771,Los Angeles Rams,17.0,26.0,22.0,354.0,262.0,92.0,2.0,24.0,476.0,358.0,118.0,1.0,6.71,-13.76,0.05,Seattle Seahawks,2021,Los Angeles Rams
+772,Pittsburgh Steelers,20.0,23.0,18.0,309.0,165.0,144.0,1.0,22.0,345.0,226.0,119.0,1.0,-3.89,1.52,-1.09,Seattle Seahawks,2021,Pittsburgh Steelers
+773,Green Bay Packers,0.0,17.0,15.0,208.0,133.0,75.0,2.0,22.0,393.0,287.0,106.0,1.0,-11.44,-8.95,5.23,Seattle Seahawks,2021,Green Bay Packers
+774,Washington Football Team,15.0,17.0,10.0,267.0,233.0,34.0,1.0,27.0,371.0,219.0,152.0,1.0,-2.58,-6.29,2.42,Seattle Seahawks,2021,Washington Football Team
+775,San Francisco 49ers,30.0,23.0,21.0,327.0,181.0,146.0,3.0,17.0,365.0,294.0,71.0,3.0,2.27,0.51,3.44,Seattle Seahawks,2021,Seattle Seahawks
+776,Los Angeles Rams,10.0,20.0,13.0,214.0,134.0,80.0,1.0,20.0,332.0,209.0,123.0,1.0,-8.13,-4.19,3.72,Seattle Seahawks,2021,Los Angeles Rams
+777,Arizona Cardinals,38.0,30.0,19.0,431.0,229.0,202.0,2.0,20.0,305.0,187.0,118.0,1.0,12.83,-0.21,-1.02,Seattle Seahawks,2021,Seattle Seahawks
+778,Cincinnati Bengals,10.0,24.0,21.0,342.0,297.0,45.0,2.0,12.0,268.0,172.0,96.0,1.0,-8.46,-0.17,-6.09,Pittsburgh Steelers,2021,Cincinnati Bengals
+779,Green Bay Packers,17.0,27.0,17.0,282.0,220.0,62.0,2.0,23.0,367.0,236.0,131.0,1.0,-5.05,-7.14,3.23,Pittsburgh Steelers,2021,Green Bay Packers
+780,Denver Broncos,27.0,19.0,19.0,391.0,244.0,147.0,1.0,17.0,374.0,268.0,106.0,1.0,11.44,-5.37,1.98,Pittsburgh Steelers,2021,Pittsburgh Steelers
+781,Seattle Seahawks,23.0,20.0,22.0,345.0,226.0,119.0,1.0,18.0,309.0,165.0,144.0,1.0,-1.52,3.89,1.09,Pittsburgh Steelers,2021,Pittsburgh Steelers
+782,Chicago Bears,29.0,27.0,20.0,280.0,175.0,105.0,1.0,20.0,414.0,278.0,136.0,2.0,8.46,-4.26,-4.79,Pittsburgh Steelers,2021,Pittsburgh Steelers
+783,Cincinnati Bengals,10.0,41.0,16.0,301.0,250.0,51.0,3.0,25.0,370.0,172.0,198.0,1.0,-15.89,-14.42,0.88,Pittsburgh Steelers,2021,Cincinnati Bengals
+784,Minnesota Vikings,28.0,36.0,22.0,375.0,269.0,106.0,1.0,22.0,458.0,216.0,242.0,2.0,6.41,-8.68,-1.31,Pittsburgh Steelers,2021,Minnesota Vikings
+785,Cleveland Browns,26.0,14.0,20.0,299.0,109.0,190.0,1.0,15.0,232.0,139.0,93.0,2.0,0.38,12.27,4.51,Pittsburgh Steelers,2021,Pittsburgh Steelers
+786,Baltimore Ravens,16.0,13.0,19.0,314.0,235.0,79.0,1.0,20.0,381.0,132.0,249.0,3.0,-6.77,10.97,-1.21,Pittsburgh Steelers,2021,Pittsburgh Steelers
+787,Kansas City Chiefs,21.0,42.0,19.0,257.0,201.0,56.0,1.0,26.0,478.0,372.0,106.0,2.0,-2.06,-16.09,0.99,Pittsburgh Steelers,2021,Kansas City Chiefs
+788,Cleveland Browns,21.0,31.0,17.0,302.0,220.0,82.0,2.0,22.0,355.0,199.0,156.0,2.0,9.61,-8.22,-8.62,Houston Texans,2021,Cleveland Browns
+789,Buffalo Bills,0.0,40.0,6.0,109.0,61.0,48.0,5.0,26.0,450.0,251.0,199.0,1.0,-32.68,-14.54,6.4,Houston Texans,2021,Buffalo Bills
+790,New England Patriots,22.0,25.0,14.0,360.0,293.0,67.0,1.0,21.0,352.0,226.0,126.0,2.0,13.76,-6.89,-8.6,Houston Texans,2021,New England Patriots
+791,Arizona Cardinals,5.0,31.0,8.0,160.0,118.0,42.0,1.0,24.0,397.0,225.0,172.0,1.0,-23.71,-13.37,10.47,Houston Texans,2021,Arizona Cardinals
+792,Miami Dolphins,9.0,17.0,14.0,272.0,199.0,73.0,4.0,22.0,262.0,215.0,47.0,5.0,-19.43,8.14,4.21,Houston Texans,2021,Miami Dolphins
+793,New York Jets,14.0,21.0,13.0,202.0,106.0,96.0,1.0,18.0,266.0,109.0,157.0,1.0,-9.28,2.68,1.61,Houston Texans,2021,New York Jets
+794,Indianapolis Colts,0.0,31.0,9.0,141.0,57.0,84.0,2.0,26.0,389.0,151.0,238.0,1.0,-28.83,-12.97,9.16,Houston Texans,2021,Indianapolis Colts
+795,San Francisco 49ers,7.0,23.0,15.0,222.0,136.0,86.0,1.0,19.0,416.0,241.0,175.0,1.0,-7.88,-5.7,-0.16,Houston Texans,2021,San Francisco 49ers
+796,Arizona Cardinals,13.0,38.0,17.0,248.0,162.0,86.0,3.0,22.0,416.0,280.0,136.0,1.0,-14.48,-8.83,-1.57,Tennessee Titans,2021,Arizona Cardinals
+797,Buffalo Bills,34.0,31.0,16.0,362.0,216.0,146.0,1.0,28.0,417.0,335.0,82.0,1.0,15.97,-13.13,0.79,Tennessee Titans,2021,Tennessee Titans
+798,Kansas City Chiefs,27.0,3.0,24.0,369.0,266.0,103.0,1.0,22.0,334.0,257.0,77.0,3.0,15.54,7.62,0.06,Tennessee Titans,2021,Tennessee Titans
+799,Indianapolis Colts,34.0,31.0,18.0,340.0,247.0,93.0,2.0,24.0,307.0,224.0,83.0,3.0,5.81,-3.55,0.74,Tennessee Titans,2021,Tennessee Titans
+800,Los Angeles Rams,28.0,16.0,16.0,194.0,125.0,69.0,1.0,22.0,347.0,253.0,94.0,2.0,1.15,11.78,0.53,Tennessee Titans,2021,Tennessee Titans
+801,Cincinnati Bengals,16.0,19.0,16.0,353.0,213.0,140.0,3.0,17.0,345.0,280.0,65.0,1.0,-3.15,1.17,-4.99,Tennessee Titans,2021,Cincinnati Bengals
+802,Detroit Lions,19.0,17.0,18.0,384.0,264.0,120.0,2.0,22.0,288.0,180.0,108.0,2.0,-0.5,7.67,-4.46,Minnesota Vikings,2021,Minnesota Vikings
+803,Carolina Panthers,34.0,28.0,26.0,571.0,373.0,198.0,1.0,20.0,306.0,188.0,118.0,3.0,8.77,9.64,-12.64,Minnesota Vikings,2021,Minnesota Vikings
+804,Los Angeles Chargers,27.0,20.0,24.0,381.0,278.0,103.0,1.0,20.0,253.0,171.0,82.0,1.0,8.75,-3.95,2.56,Minnesota Vikings,2021,Minnesota Vikings
+805,San Francisco 49ers,26.0,34.0,17.0,323.0,256.0,67.0,2.0,23.0,423.0,215.0,208.0,1.0,-4.16,-8.93,6.1,Minnesota Vikings,2021,San Francisco 49ers
+806,Detroit Lions,27.0,29.0,26.0,426.0,326.0,100.0,1.0,23.0,372.0,272.0,100.0,2.0,2.07,-5.16,-1.98,Minnesota Vikings,2021,Detroit Lions
+807,Pittsburgh Steelers,36.0,28.0,22.0,458.0,216.0,242.0,2.0,22.0,375.0,269.0,106.0,1.0,8.68,-6.41,1.31,Minnesota Vikings,2021,Minnesota Vikings
+808,Chicago Bears,17.0,9.0,13.0,193.0,61.0,132.0,1.0,24.0,370.0,255.0,115.0,3.0,-4.65,7.72,5.92,Minnesota Vikings,2021,Minnesota Vikings
+809,Los Angeles Rams,23.0,30.0,19.0,361.0,295.0,66.0,1.0,22.0,356.0,197.0,159.0,3.0,-1.81,0.84,-7.8,Minnesota Vikings,2021,Los Angeles Rams
+810,Chicago Bears,10.0,19.0,17.0,331.0,155.0,176.0,2.0,15.0,204.0,105.0,99.0,1.0,-11.26,-0.67,0.42,San Francisco 49ers,2022,Chicago Bears
+811,Carolina Panthers,37.0,15.0,22.0,397.0,244.0,153.0,1.0,15.0,308.0,244.0,64.0,1.0,16.04,13.22,-7.82,San Francisco 49ers,2022,San Francisco 49ers
+812,San Francisco 49ers,19.0,10.0,15.0,204.0,105.0,99.0,1.0,17.0,331.0,155.0,176.0,2.0,0.67,11.26,-0.42,Chicago Bears,2022,Chicago Bears
+813,Green Bay Packers,10.0,27.0,11.0,228.0,48.0,180.0,1.0,26.0,414.0,211.0,203.0,1.0,-4.4,-16.87,1.71,Chicago Bears,2022,Green Bay Packers
+814,Houston Texans,23.0,20.0,17.0,363.0,82.0,281.0,2.0,17.0,329.0,237.0,92.0,2.0,2.69,1.75,-1.18,Chicago Bears,2022,Chicago Bears
+815,New York Giants,12.0,20.0,16.0,304.0,155.0,149.0,3.0,21.0,333.0,71.0,262.0,2.0,-6.69,-9.33,7.79,Chicago Bears,2022,New York Giants
+816,Minnesota Vikings,22.0,29.0,14.0,271.0,193.0,78.0,1.0,29.0,429.0,312.0,117.0,1.0,1.82,-21.45,9.74,Chicago Bears,2022,Minnesota Vikings
+817,New York Jets,27.0,12.0,20.0,330.0,261.0,69.0,1.0,19.0,328.0,252.0,76.0,4.0,3.99,16.45,-6.98,Cincinnati Bengals,2022,Cincinnati Bengals
+818,Baltimore Ravens,17.0,19.0,20.0,291.0,190.0,101.0,1.0,22.0,325.0,170.0,155.0,1.0,3.22,-3.89,-1.19,Cincinnati Bengals,2022,Baltimore Ravens
+819,Seattle Seahawks,16.0,17.0,20.0,433.0,330.0,103.0,2.0,19.0,253.0,177.0,76.0,1.0,9.94,-4.1,-6.84,Denver Broncos,2022,Seattle Seahawks
+820,Indianapolis Colts,9.0,12.0,18.0,375.0,250.0,125.0,2.0,19.0,306.0,200.0,106.0,2.0,-11.36,14.91,-7.4,Denver Broncos,2022,Indianapolis Colts
+821,New York Jets,30.0,31.0,29.0,405.0,221.0,184.0,1.0,20.0,402.0,309.0,93.0,1.0,17.92,-15.19,-5.38,Cleveland Browns,2022,New York Jets
+822,Atlanta Falcons,20.0,23.0,22.0,403.0,226.0,177.0,2.0,19.0,333.0,131.0,202.0,1.0,5.25,-5.92,-1.44,Cleveland Browns,2022,Atlanta Falcons
+823,Dallas Cowboys,19.0,3.0,18.0,347.0,195.0,152.0,1.0,12.0,244.0,173.0,71.0,1.0,0.55,19.4,-2.24,Tampa Bay Buccaneers,2022,Tampa Bay Buccaneers
+824,New Orleans Saints,20.0,10.0,13.0,260.0,188.0,72.0,1.0,18.0,308.0,208.0,100.0,5.0,-9.2,18.41,2.71,Tampa Bay Buccaneers,2022,Tampa Bay Buccaneers
+825,Green Bay Packers,12.0,14.0,19.0,285.0,251.0,34.0,2.0,14.0,315.0,248.0,67.0,2.0,-9.14,4.08,0.3,Tampa Bay Buccaneers,2022,Green Bay Packers
+826,Kansas City Chiefs,31.0,41.0,27.0,376.0,373.0,3.0,2.0,27.0,417.0,228.0,189.0,1.0,14.15,-17.12,-5.33,Tampa Bay Buccaneers,2022,Kansas City Chiefs
+827,Los Angeles Rams,31.0,10.0,23.0,413.0,292.0,121.0,4.0,19.0,243.0,191.0,52.0,3.0,13.89,10.29,-3.96,Buffalo Bills,2022,Buffalo Bills
+828,Baltimore Ravens,23.0,20.0,22.0,326.0,201.0,125.0,2.0,22.0,296.0,134.0,162.0,2.0,2.1,2.66,-1.69,Buffalo Bills,2022,Buffalo Bills
+829,Pittsburgh Steelers,38.0,3.0,21.0,552.0,432.0,120.0,2.0,23.0,364.0,310.0,54.0,2.0,20.66,9.42,3.54,Buffalo Bills,2022,Buffalo Bills
+830,Las Vegas Raiders,29.0,23.0,28.0,413.0,270.0,143.0,1.0,20.0,324.0,244.0,80.0,1.0,12.0,-4.86,1.75,Arizona Cardinals,2022,Arizona Cardinals
+831,Carolina Panthers,26.0,16.0,20.0,338.0,206.0,132.0,1.0,11.0,220.0,180.0,40.0,3.0,-6.14,19.54,-1.9,Arizona Cardinals,2022,Arizona Cardinals
+832,Houston Texans,34.0,24.0,22.0,419.0,338.0,81.0,1.0,16.0,346.0,215.0,131.0,2.0,16.95,-3.13,-4.62,Los Angeles Chargers,2022,Los Angeles Chargers
+833,Indianapolis Colts,17.0,20.0,20.0,315.0,257.0,58.0,2.0,19.0,259.0,177.0,82.0,1.0,1.78,7.1,-13.31,Kansas City Chiefs,2022,Indianapolis Colts
+834,Tampa Bay Buccaneers,41.0,31.0,27.0,417.0,228.0,189.0,1.0,27.0,376.0,373.0,3.0,2.0,17.12,-14.15,5.33,Kansas City Chiefs,2022,Kansas City Chiefs
+835,Buffalo Bills,20.0,24.0,23.0,387.0,319.0,68.0,2.0,26.0,443.0,318.0,125.0,1.0,6.45,-11.13,-0.56,Kansas City Chiefs,2022,Buffalo Bills
+836,Houston Texans,20.0,20.0,33.0,517.0,340.0,177.0,2.0,20.0,299.0,222.0,77.0,1.0,5.67,2.14,-9.43,Indianapolis Colts,2022,None
+837,Kansas City Chiefs,20.0,17.0,19.0,259.0,177.0,82.0,1.0,20.0,315.0,257.0,58.0,2.0,-7.1,-1.78,13.31,Indianapolis Colts,2022,Indianapolis Colts
+838,Denver Broncos,12.0,9.0,19.0,306.0,200.0,106.0,2.0,18.0,375.0,250.0,125.0,2.0,-14.91,11.36,7.4,Indianapolis Colts,2022,Indianapolis Colts
+839,Tampa Bay Buccaneers,3.0,19.0,12.0,244.0,173.0,71.0,1.0,18.0,347.0,195.0,152.0,1.0,-19.4,-0.55,2.24,Dallas Cowboys,2022,Tampa Bay Buccaneers
+840,Minnesota Vikings,24.0,7.0,25.0,486.0,323.0,163.0,1.0,20.0,264.0,202.0,62.0,3.0,14.26,7.86,-7.37,Philadelphia Eagles,2022,Philadelphia Eagles
+841,Jacksonville Jaguars,29.0,21.0,25.0,401.0,191.0,210.0,1.0,13.0,219.0,148.0,71.0,5.0,-0.18,11.06,-1.97,Philadelphia Eagles,2022,Philadelphia Eagles
+842,New Orleans Saints,26.0,27.0,26.0,416.0,215.0,201.0,2.0,18.0,385.0,234.0,151.0,1.0,7.5,-4.62,0.51,Atlanta Falcons,2022,New Orleans Saints
+843,Los Angeles Rams,27.0,31.0,17.0,261.0,171.0,90.0,3.0,24.0,337.0,272.0,65.0,3.0,-3.49,-8.46,8.11,Atlanta Falcons,2022,Los Angeles Rams
+844,Seattle Seahawks,27.0,23.0,24.0,386.0,207.0,179.0,2.0,23.0,420.0,308.0,112.0,1.0,20.84,-15.09,1.2,Atlanta Falcons,2022,Atlanta Falcons
+845,Cleveland Browns,23.0,20.0,19.0,333.0,131.0,202.0,1.0,22.0,403.0,226.0,177.0,2.0,5.92,-5.25,1.44,Atlanta Falcons,2022,Atlanta Falcons
+846,Tennessee Titans,21.0,20.0,19.0,394.0,156.0,238.0,2.0,19.0,359.0,266.0,93.0,1.0,3.72,-5.97,2.44,New York Giants,2022,New York Giants
+847,Chicago Bears,20.0,12.0,21.0,333.0,71.0,262.0,2.0,16.0,304.0,155.0,149.0,3.0,9.33,6.69,-7.79,New York Giants,2022,New York Giants
+848,Washington Commanders,22.0,28.0,24.0,383.0,260.0,123.0,1.0,26.0,390.0,305.0,85.0,3.0,3.64,-9.54,-0.26,Jacksonville Jaguars,2022,Washington Commanders
+849,Philadelphia Eagles,21.0,29.0,13.0,219.0,148.0,71.0,5.0,25.0,401.0,191.0,210.0,1.0,-11.06,0.18,1.97,Jacksonville Jaguars,2022,Philadelphia Eagles
+850,Baltimore Ravens,9.0,24.0,24.0,380.0,297.0,83.0,2.0,13.0,274.0,211.0,63.0,1.0,-8.07,-3.65,-5.04,New York Jets,2022,Baltimore Ravens
+851,Cleveland Browns,31.0,30.0,20.0,402.0,309.0,93.0,1.0,29.0,405.0,221.0,184.0,1.0,15.19,-17.92,5.38,New York Jets,2022,New York Jets
+852,Cincinnati Bengals,12.0,27.0,19.0,328.0,252.0,76.0,4.0,20.0,330.0,261.0,69.0,1.0,-16.45,-3.99,6.98,New York Jets,2022,Cincinnati Bengals
+853,Pittsburgh Steelers,24.0,20.0,19.0,348.0,250.0,98.0,2.0,20.0,297.0,178.0,119.0,4.0,-1.46,2.55,2.91,New York Jets,2022,New York Jets
+854,Minnesota Vikings,24.0,28.0,23.0,416.0,277.0,139.0,1.0,30.0,373.0,250.0,123.0,1.0,8.25,-11.58,-1.93,Detroit Lions,2022,Minnesota Vikings
+855,Seattle Seahawks,45.0,48.0,27.0,520.0,375.0,145.0,2.0,27.0,555.0,320.0,235.0,1.0,22.12,-32.93,3.99,Detroit Lions,2022,Seattle Seahawks
+856,New England Patriots,0.0,29.0,17.0,312.0,211.0,101.0,2.0,22.0,364.0,188.0,176.0,1.0,-22.04,-10.08,3.38,Detroit Lions,2022,New England Patriots
+857,Chicago Bears,27.0,10.0,26.0,414.0,211.0,203.0,1.0,11.0,228.0,48.0,180.0,1.0,16.87,4.4,-1.71,Green Bay Packers,2022,Green Bay Packers
+858,Tampa Bay Buccaneers,14.0,12.0,14.0,315.0,248.0,67.0,2.0,19.0,285.0,251.0,34.0,2.0,-4.08,9.14,-0.3,Green Bay Packers,2022,Green Bay Packers
+859,New England Patriots,27.0,24.0,24.0,443.0,244.0,199.0,2.0,17.0,271.0,104.0,167.0,1.0,5.17,2.0,-2.64,Green Bay Packers,2022,Green Bay Packers
+860,Arizona Cardinals,16.0,26.0,11.0,220.0,180.0,40.0,3.0,20.0,338.0,206.0,132.0,1.0,-19.54,6.14,1.9,Carolina Panthers,2022,Arizona Cardinals
+861,San Francisco 49ers,15.0,37.0,15.0,308.0,244.0,64.0,1.0,22.0,397.0,244.0,153.0,1.0,-13.22,-16.04,7.82,Carolina Panthers,2022,San Francisco 49ers
+862,Pittsburgh Steelers,17.0,14.0,18.0,376.0,252.0,124.0,1.0,16.0,243.0,152.0,91.0,2.0,6.14,3.44,-3.25,New England Patriots,2022,New England Patriots
+863,Baltimore Ravens,26.0,37.0,22.0,447.0,302.0,145.0,4.0,19.0,394.0,206.0,188.0,2.0,3.5,-11.67,-3.18,New England Patriots,2022,Baltimore Ravens
+864,Green Bay Packers,24.0,27.0,17.0,271.0,104.0,167.0,1.0,24.0,443.0,244.0,199.0,2.0,-2.0,-5.17,2.64,New England Patriots,2022,Green Bay Packers
+865,Detroit Lions,29.0,0.0,22.0,364.0,188.0,176.0,1.0,17.0,312.0,211.0,101.0,2.0,10.08,22.04,-3.38,New England Patriots,2022,New England Patriots
+866,Arizona Cardinals,23.0,29.0,20.0,324.0,244.0,80.0,1.0,28.0,413.0,270.0,143.0,1.0,4.86,-12.0,-1.75,Oakland Raiders,2022,Arizona Cardinals
+867,Tennessee Titans,22.0,24.0,24.0,396.0,300.0,96.0,1.0,19.0,361.0,252.0,109.0,1.0,9.09,-9.1,-4.28,Oakland Raiders,2022,Tennessee Titans
+868,Buffalo Bills,10.0,31.0,19.0,243.0,191.0,52.0,3.0,23.0,413.0,292.0,121.0,4.0,-10.29,-13.89,3.96,Los Angeles Rams,2022,Buffalo Bills
+869,Atlanta Falcons,31.0,27.0,24.0,337.0,272.0,65.0,3.0,17.0,261.0,171.0,90.0,3.0,8.46,3.49,-8.11,Los Angeles Rams,2022,Los Angeles Rams
+870,New York Jets,24.0,9.0,13.0,274.0,211.0,63.0,1.0,24.0,380.0,297.0,83.0,2.0,3.65,8.07,5.04,Baltimore Ravens,2022,Baltimore Ravens
+871,New England Patriots,37.0,26.0,19.0,394.0,206.0,188.0,2.0,22.0,447.0,302.0,145.0,4.0,11.67,-3.5,3.18,Baltimore Ravens,2022,Baltimore Ravens
+872,Buffalo Bills,20.0,23.0,22.0,296.0,134.0,162.0,2.0,22.0,326.0,201.0,125.0,2.0,-2.66,-2.1,1.69,Baltimore Ravens,2022,Buffalo Bills
+873,Cincinnati Bengals,19.0,17.0,22.0,325.0,170.0,155.0,1.0,20.0,291.0,190.0,101.0,1.0,3.89,-3.22,1.19,Baltimore Ravens,2022,Baltimore Ravens
+874,New York Giants,20.0,24.0,23.0,406.0,195.0,211.0,2.0,18.0,238.0,155.0,83.0,1.0,6.0,-4.93,-8.06,Baltimore Ravens,2022,New York Giants
+875,Atlanta Falcons,27.0,26.0,18.0,385.0,234.0,151.0,1.0,26.0,416.0,215.0,201.0,2.0,4.62,-7.5,-0.51,New Orleans Saints,2022,New Orleans Saints
+876,Tampa Bay Buccaneers,10.0,20.0,18.0,308.0,208.0,100.0,5.0,13.0,260.0,188.0,72.0,1.0,-18.41,9.2,-2.71,New Orleans Saints,2022,Tampa Bay Buccaneers
+877,Minnesota Vikings,25.0,28.0,19.0,338.0,227.0,111.0,2.0,23.0,344.0,263.0,81.0,1.0,7.36,-6.41,-2.69,New Orleans Saints,2022,Minnesota Vikings
+878,Seattle Seahawks,39.0,32.0,26.0,438.0,203.0,235.0,2.0,15.0,396.0,245.0,151.0,1.0,15.05,-4.57,-0.32,New Orleans Saints,2022,New Orleans Saints
+879,Denver Broncos,17.0,16.0,19.0,253.0,177.0,76.0,1.0,20.0,433.0,330.0,103.0,2.0,4.1,-9.94,6.84,Seattle Seahawks,2022,Seattle Seahawks
+880,Atlanta Falcons,23.0,27.0,23.0,420.0,308.0,112.0,1.0,24.0,386.0,207.0,179.0,2.0,15.09,-20.84,-1.2,Seattle Seahawks,2022,Atlanta Falcons
+881,Detroit Lions,48.0,45.0,27.0,555.0,320.0,235.0,1.0,27.0,520.0,375.0,145.0,2.0,32.93,-22.12,-3.99,Seattle Seahawks,2022,Seattle Seahawks
+882,New Orleans Saints,32.0,39.0,15.0,396.0,245.0,151.0,1.0,26.0,438.0,203.0,235.0,2.0,4.57,-15.05,0.32,Seattle Seahawks,2022,New Orleans Saints
+883,New England Patriots,14.0,17.0,16.0,243.0,152.0,91.0,2.0,18.0,376.0,252.0,124.0,1.0,-3.44,-6.14,3.25,Pittsburgh Steelers,2022,New England Patriots
+884,New York Jets,20.0,24.0,20.0,297.0,178.0,119.0,4.0,19.0,348.0,250.0,98.0,2.0,-2.55,1.46,-2.91,Pittsburgh Steelers,2022,New York Jets
+885,Buffalo Bills,3.0,38.0,23.0,364.0,310.0,54.0,2.0,21.0,552.0,432.0,120.0,2.0,-9.42,-20.66,-3.54,Pittsburgh Steelers,2022,Buffalo Bills
+886,Indianapolis Colts,20.0,20.0,20.0,299.0,222.0,77.0,1.0,33.0,517.0,340.0,177.0,2.0,-2.14,-5.67,9.43,Houston Texans,2022,None
+887,Chicago Bears,20.0,23.0,17.0,329.0,237.0,92.0,2.0,17.0,363.0,82.0,281.0,2.0,-1.75,-2.69,1.18,Houston Texans,2022,Chicago Bears
+888,Los Angeles Chargers,24.0,34.0,16.0,346.0,215.0,131.0,2.0,22.0,419.0,338.0,81.0,1.0,3.13,-16.95,4.62,Houston Texans,2022,Los Angeles Chargers
+889,New York Giants,20.0,21.0,19.0,359.0,266.0,93.0,1.0,19.0,394.0,156.0,238.0,2.0,5.97,-3.72,-2.44,Tennessee Titans,2022,New York Giants
+890,Las Vegas Raiders,24.0,22.0,19.0,361.0,252.0,109.0,1.0,24.0,396.0,300.0,96.0,1.0,9.1,-9.09,4.28,Tennessee Titans,2022,Tennessee Titans
+891,Philadelphia Eagles,7.0,24.0,20.0,264.0,202.0,62.0,3.0,25.0,486.0,323.0,163.0,1.0,-7.86,-14.26,7.37,Minnesota Vikings,2022,Philadelphia Eagles
+892,Detroit Lions,28.0,24.0,30.0,373.0,250.0,123.0,1.0,23.0,416.0,277.0,139.0,1.0,11.58,-8.25,1.93,Minnesota Vikings,2022,Minnesota Vikings
+893,New Orleans Saints,28.0,25.0,23.0,344.0,263.0,81.0,1.0,19.0,338.0,227.0,111.0,2.0,6.41,-7.36,2.69,Minnesota Vikings,2022,Minnesota Vikings
+894,Chicago Bears,29.0,22.0,29.0,429.0,312.0,117.0,1.0,14.0,271.0,193.0,78.0,1.0,21.45,-1.82,-9.74,Minnesota Vikings,2022,Minnesota Vikings
