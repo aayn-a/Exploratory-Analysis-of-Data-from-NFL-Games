@@ -27,6 +27,9 @@ This project analyzes NFL game and player data to explore trends, test hypothese
 
 - `nflcombine.csv`: Game-level data (team stats, outcomes, rankings, etc.) (Pulled from Kaggle)
 - `playerstatsYYYY.csv`: Player-level passing stats for various years (e.g., 1990, 2022, etc.) (Pulled from Pro-Football-Reference)
+- `player_stats_season_YYYY.csv`: Player season stats for each year (used for merging with rookie/player data). Pulled from https://github.com/nflverse/nflverse-data/releases
+- `combine.csv`: NFL Combine results for players (physical and performance metrics).
+- `fullplayersdataset.csv`: Comprehensive player information including rookie years and positions.
 
 ## Usage
 
@@ -37,11 +40,11 @@ This project analyzes NFL game and player data to explore trends, test hypothese
    ```
 
 2. **Run the analysis**  
-   Open `analysis.ipynb` in Jupyter Notebook or VS Code and run the cells sequentially.
+   Open `homefieldadvantage.ipynb` in Jupyter Notebook or VS Code and run the cells sequentially.
 
 ## Notebooks
 
-- `analysis.ipynb`: Main notebook containing all data analysis, visualizations, and statistical tests.
+- `homefieldadvantage.ipynb`: Main notebook containing all data analysis, visualizations, and statistical tests.
 
 ## Example Analyses
 
